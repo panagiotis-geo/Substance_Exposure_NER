@@ -5,8 +5,8 @@ This repository contains the code for the paper "Supporting the working life exp
 Download the dataset, the original split and the cross-validation splits from Zenodo (link)
 
 ## Token-based model
-Use poetry to install the associated libraries.
-To run the training script:
+Use poetry to install the associated libraries. <br />
+To run the training script: <br />
 ```
 cd token_based
 sh train.sh
@@ -14,8 +14,8 @@ sh train.sh
 `train.sh` has a parameter called `dataset_name` for the dataset folder containg the train, valid and test folders.
 
 ## Span-based model
-Download the span-based model source code from https://github.com/nguyennth/joint-ib-models
-Follow the setup procedure described in that respoitory.
+Download the span-based model source code from https://github.com/nguyennth/joint-ib-models <br />
+Follow the setup procedure described in that respoitory. <br />
 To train and evalute the model:
 ```
 python3 src/train.py --yaml experiments/ncbi/ncbi-train.yaml
