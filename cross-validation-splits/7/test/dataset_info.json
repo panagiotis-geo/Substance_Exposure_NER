@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-IndustryWorkplace",
+          "I-IndustryWorkplace",
+          "S-IndustryWorkplace",
+          "E-IndustryWorkplace",
+          "B-OccupationJobTitle",
+          "I-OccupationJobTitle",
+          "S-OccupationJobTitle",
+          "E-OccupationJobTitle",
+          "B-JobTaskactivity",
+          "I-JobTaskactivity",
+          "S-JobTaskactivity",
+          "E-JobTaskactivity",
+          "B-SubstanceOrExposureMeasured",
+          "I-SubstanceOrExposureMeasured",
+          "S-SubstanceOrExposureMeasured",
+          "E-SubstanceOrExposureMeasured",
+          "B-OHMeasurementDevice",
+          "I-OHMeasurementDevice",
+          "S-OHMeasurementDevice",
+          "E-OHMeasurementDevice",
+          "B-SampleTypePersonal",
+          "I-SampleTypePersonal",
+          "S-SampleTypePersonal",
+          "E-SampleTypePersonal"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
