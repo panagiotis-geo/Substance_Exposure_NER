@@ -1,2 +1,2 @@
-Download the cross-validation splits and put them here inside folders. <br />
-For example `split1/` would contain a train, valid and test folder.
+Adjust the parameters of train.sh to point to the appropriate split. <br />
+Each split containts a train, valid and test folder.
