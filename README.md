@@ -1,5 +1,6 @@
 # Substance_Exposure_NER
-This repository contains the code for the paper "Supporting the working life exposome: annotating occupational exposure for enhanced literature search"
+This repository contains the code for the paper: <br />
+"Supporting the working life exposome: annotating occupational exposure for enhanced literature search"
 
 ## Dataset
 Download the dataset, the original split and the cross-validation splits from Zenodo (link)
