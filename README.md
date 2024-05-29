@@ -11,7 +11,7 @@ Use poetry to install the associated libraries:
 cd token_based
 poetry install
 ```
-The experiments were performed using Python version 3.10.14 and pytorch v1.13.1 <br />
+The experiments were performed using Python version 3.10.14 and pytorch v1.13.1. <br />
 To run the training script inside the `token_based/`: <br />
 ```
 sh train.sh
