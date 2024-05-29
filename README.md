@@ -3,7 +3,8 @@ This repository contains the code for the paper: <br />
 "Supporting the working life exposome: annotating occupational exposure for enhanced literature search"
 
 ## Dataset
-Download the dataset, the original split and the cross-validation splits from Zenodo (link)
+The original dataset is in the `original_dataset/` and the splits are in the `cross-validation-splits/`. <br />
+The test set is the same for all the splits and the original dataset.
 
 ## Token-based model
 Use poetry to install the associated libraries:
