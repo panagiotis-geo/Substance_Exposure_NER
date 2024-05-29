@@ -1,0 +1,13 @@
+{
+  "_data_files": [
+    {
+      "filename": "valid.arrow"
+    }
+  ],
+  "_fingerprint": "674b9fac651223d0",
+  "_format_columns": null,
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
