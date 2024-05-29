@@ -6,10 +6,13 @@ This repository contains the code for the paper: <br />
 Download the dataset, the original split and the cross-validation splits from Zenodo (link)
 
 ## Token-based model
-Use poetry to install the associated libraries. <br />
-To run the training script: <br />
+Use poetry to install the associated libraries:
 ```
 cd token_based
+poetry install
+```
+To run the training script inside the `token_based/`: <br />
+```
 sh train.sh
 ```
 `train.sh` has a parameter called `dataset_name` that needs to point to the dataset folder containg the train, valid and test folders.
