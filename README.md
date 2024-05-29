@@ -1,4 +1,4 @@
-# Substance_Exposure_NER
+# Substance Exposure NER
 This repository contains the code for the paper: <br />
 "Supporting the working life exposome: annotating occupational exposure for enhanced literature search"
 
