@@ -16,7 +16,7 @@ sh train.sh
 
 ## Span-based model
 Download the span-based model source code from https://github.com/nguyennth/joint-ib-models <br />
-Follow the setup procedure described in that respoitory. <br />
+Follow the setup procedure described in that repository. <br />
 To train and evalute the model:
 ```
 python3 src/train.py --yaml experiments/ncbi/ncbi-train.yaml
