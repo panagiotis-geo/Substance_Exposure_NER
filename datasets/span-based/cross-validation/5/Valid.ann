@@ -1,0 +1,1356 @@
+T1	SubstanceOrExposureMeasured 62 66	PAHs
+T2	SubstanceOrExposureMeasured 355 373	crystalline silica
+T3	IndustryWorkplace 443 467	tunnel construction site
+T4	SubstanceOrExposureMeasured 500 517	respirable silica
+T5	SubstanceOrExposureMeasured 544 550	silica
+T6	SubstanceOrExposureMeasured 628 634	quartz
+T7	JobTaskactivity 738 746	grinding
+T8	IndustryWorkplace 758 781	tuckpointing operations
+T9	SubstanceOrExposureMeasured 877 888	hostler PAH
+T10	SubstanceOrExposureMeasured 917 928	wax alkanes
+T11	SubstanceOrExposureMeasured 931 939	steranes
+T12	SubstanceOrExposureMeasured 944 951	hopanes
+T13	SampleTypePersonal 1008 1026	personal exposures
+T14	SubstanceOrExposureMeasured 1046 1049	RCS
+T15	OccupationJobTitle 1069 1087	sanitation workers
+T16	OHMeasurementDevice 1157 1162	FSP10
+T17	OHMeasurementDevice 1203 1220	low-flow samplers
+T18	OHMeasurementDevice 1223 1230	SIMPEDS
+T19	SubstanceOrExposureMeasured 1267 1283	elemental carbon
+T20	SubstanceOrExposureMeasured 1431 1440	tridymite
+T21	SubstanceOrExposureMeasured 1443 1455	cristobalite
+T22	SubstanceOrExposureMeasured 1462 1468	quartz
+T23	OccupationJobTitle 1492 1505	bus mechanics
+T24	OccupationJobTitle 1508 1526	railway conductors
+T25	OccupationJobTitle 1531 1540	mechanics
+T26	OccupationJobTitle 1547 1565	underground miners
+T27	SubstanceOrExposureMeasured 1786 1801	respirable dust
+T28	JobTaskactivity 1826 1846	concrete finish work
+T29	JobTaskactivity 1849 1872	excavation support work
+T30	JobTaskactivity 1879 1909	in­stallation of drop ceilings
+T31	SubstanceOrExposureMeasured 2051 2054	DPM
+T32	IndustryWorkplace 2276 2290	oil shale dust
+T33	SubstanceOrExposureMeasured 2312 2314	EC
+T34	OccupationJobTitle 2467 2477	conductors
+T35	OccupationJobTitle 2482 2491	engineers
+T36	SubstanceOrExposureMeasured 2516 2537	Diesel Engine Exhaust
+T37	SampleTypePersonal 2852 2871	personal monitoring
+T38	SubstanceOrExposureMeasured 3617 3627	total dust
+T39	SubstanceOrExposureMeasured 3649 3664	respirable dust
+T40	SubstanceOrExposureMeasured 3665 3667	EC
+T41	SubstanceOrExposureMeasured 3672 3674	OC
+T42	SubstanceOrExposureMeasured 3686 3695	particles
+T43	SubstanceOrExposureMeasured 3914 3919	Total
+T44	SubstanceOrExposureMeasured 3924 3934	respirable
+T45	IndustryWorkplace 4132 4138	tunnel
+T46	IndustryWorkplace 4280 4284	mine
+T47	SampleTypePersonal 4290 4306	personal samples
+T48	SubstanceOrExposureMeasured 4348 4366	crystalline silica
+T49	SubstanceOrExposureMeasured 4388 4397	tridymite
+T50	SubstanceOrExposureMeasured 4400 4412	cristobalite
+T51	SubstanceOrExposureMeasured 4419 4425	quartz
+T52	SampleTypePersonal 4484 4523	personal respirable quartz measurements
+T53	OHMeasurementDevice 4582 4587	PDEAS
+T54	SubstanceOrExposureMeasured 4738 4744	diesel
+T55	SubstanceOrExposureMeasured 4749 4761	mineral dust
+T56	SubstanceOrExposureMeasured 4787 4805	respirable aerosol
+T57	SubstanceOrExposureMeasured 5098 5101	NO2
+T58	SubstanceOrExposureMeasured 5104 5106	NO
+T59	SubstanceOrExposureMeasured 5109 5111	CO
+T60	OHMeasurementDevice 5132 5167	BW Technologies personal dosimeters
+T61	SampleTypePersonal 5182 5206	workers ' breathing zone
+T62	SubstanceOrExposureMeasured 5527 5530	PAH
+T63	OccupationJobTitle 5631 5636	clerk
+T64	OccupationJobTitle 5640 5646	carmen
+T65	SubstanceOrExposureMeasured 5697 5703	diesel
+T66	SubstanceOrExposureMeasured 5724 5744	respirable particles
+T67	SubstanceOrExposureMeasured 5752 5760	nicotine
+T68	SubstanceOrExposureMeasured 5938 5953	respirable dust
+T69	IndustryWorkplace 6070 6074	lead
+T70	IndustryWorkplace 6079 6099	trailing locomotives
+T71	SubstanceOrExposureMeasured 6425 6434	elemental
+T72	SubstanceOrExposureMeasured 6439 6441	OC
+T73	SubstanceOrExposureMeasured 6622 6625	RCS
+T74	SubstanceOrExposureMeasured 6684 6686	RD
+T75	SubstanceOrExposureMeasured 6691 6693	TD
+T76	SubstanceOrExposureMeasured 6802 6810	particle
+T77	SampleTypePersonal 6891 6916	personal exposure samples
+T78	SubstanceOrExposureMeasured 6943 6950	alkanes
+T79	SubstanceOrExposureMeasured 6999 7005	Quartz
+T80	IndustryWorkplace 7018 7029	Agriculture
+T81	OccupationJobTitle 7299 7321	inner wall bricklayers
+T82	IndustryWorkplace 7602 7612	collieries
+T83	IndustryWorkplace 7727 7731	mine
+T84	SubstanceOrExposureMeasured 7895 7910	respirable dust
+T85	OHMeasurementDevice 8080 8098	colorimetric tubes
+T86	SubstanceOrExposureMeasured 8107 8110	SO2
+T87	SubstanceOrExposureMeasured 8224 8235	Particulate
+T88	SubstanceOrExposureMeasured 8284 8286	OC
+T89	SubstanceOrExposureMeasured 8293 8295	EC
+T90	SubstanceOrExposureMeasured 8378 8385	acetone
+T91	SubstanceOrExposureMeasured 8388 8395	toluene
+T92	SubstanceOrExposureMeasured 8398 8405	pentane
+T93	SubstanceOrExposureMeasured 8412 8418	hexane
+T94	SubstanceOrExposureMeasured 8673 8675	OC
+T95	SubstanceOrExposureMeasured 8814 8816	OC
+T96	SubstanceOrExposureMeasured 8821 8823	EC
+T97	SampleTypePersonal 8840 8857	personal exposure
+T98	IndustryWorkplace 8931 8935	farm
+T99	SubstanceOrExposureMeasured 8936 8951	respirable dust
+T100	SubstanceOrExposureMeasured 8956 8962	quartz
+T101	JobTaskactivity 8998 9012	maize planting
+T102	JobTaskactivity 9017 9033	maize harvesting
+T103	OHMeasurementDevice 9060 9069	Multiwarn
+T104	SubstanceOrExposureMeasured 9192 9200	particle
+T105	OccupationJobTitle 9211 9220	screedmen
+T106	SubstanceOrExposureMeasured 9278 9287	particles
+T107	SubstanceOrExposureMeasured 9327 9336	particles
+T108	SubstanceOrExposureMeasured 9344 9346	RD
+T109	SubstanceOrExposureMeasured 9758 9760	EC
+T110	SubstanceOrExposureMeasured 9765 9767	OC
+T111	SubstanceOrExposureMeasured 9839 9860	diesel engine exhaust
+T112	SubstanceOrExposureMeasured 9936 9971	methylene chloride soluble fraction
+T113	SubstanceOrExposureMeasured 10013 10023	total dust
+T114	SampleTypePersonal 10063 10077	breathing zone
+T115	JobTaskactivity 10108 10115	cleanup
+T116	JobTaskactivity 10353 10390	move the grinder forward and backward
+T117	SubstanceOrExposureMeasured 10686 10701	respirable dust
+T118	SubstanceOrExposureMeasured 10714 10731	respirable quartz
+T119	SubstanceOrExposureMeasured 10874 10891	respirable quartz
+T120	JobTaskactivity 10899 10912	farming tasks
+T121	SubstanceOrExposureMeasured 11101 11107	diesel
+T122	SubstanceOrExposureMeasured 11141 11165	diesel exhaust emissions
+T123	SubstanceOrExposureMeasured 11194 11210	diesel emissions
+T124	SubstanceOrExposureMeasured 11217 11240	coal mine dust aerosols
+T125	IndustryWorkplace 11296 11301	mines
+T126	SubstanceOrExposureMeasured 11344 11348	Dust
+T127	SubstanceOrExposureMeasured 11530 11534	PAHs
+T128	IndustryWorkplace 11594 11611	trucking industry
+T129	SubstanceOrExposureMeasured 11719 11725	quartz
+T130	SubstanceOrExposureMeasured 11894 11912	crystalline silica
+T131	SubstanceOrExposureMeasured 12455 12470	respirable dust
+T132	SubstanceOrExposureMeasured 12475 12478	RCS
+T133	IndustryWorkplace 12490 12505	coal production
+T134	SubstanceOrExposureMeasured 12617 12623	quartz
+T135	SubstanceOrExposureMeasured 13045 13051	quartz
+T136	IndustryWorkplace 13128 13135	highway
+T137	SubstanceOrExposureMeasured 13622 13628	silica
+T138	SubstanceOrExposureMeasured 13669 13675	quartz
+T139	IndustryWorkplace 13741 13753	Stonemasonry
+T140	SubstanceOrExposureMeasured 13901 13929	respirable total particulate
+T141	SubstanceOrExposureMeasured 14394 14413	ultrafine particles
+T142	SubstanceOrExposureMeasured 14574 14582	particle
+T143	IndustryWorkplace 14604 14615	paving site
+T144	JobTaskactivity 14706 14723	paving activities
+T145	SubstanceOrExposureMeasured 14882 14888	diesel
+T146	SubstanceOrExposureMeasured 15037 15043	silica
+T147	SubstanceOrExposureMeasured 15068 15074	silica
+T148	SampleTypePersonal 15224 15232	personal
+T149	SampleTypePersonal 15249 15256	samples
+T150	JobTaskactivity 15476 15497	mechanical demolition
+T151	JobTaskactivity 15518 15535	manual demolition
+T152	JobTaskactivity 15581 15598	farming processes
+T153	JobTaskactivity 15624 15630	manual
+T154	JobTaskactivity 15635 15645	mechanical
+T155	JobTaskactivity 15660 15675	removed the CBA
+T156	JobTaskactivity 15723 15733	and placed
+T157	SubstanceOrExposureMeasured 15937 15955	crystalline silica
+T158	SubstanceOrExposureMeasured 16124 16126	EC
+T159	JobTaskactivity 16230 16252	concrete floor sanding
+T160	OHMeasurementDevice 16300 16339	direct-reading respirable dust monitors
+T161	SubstanceOrExposureMeasured 16456 16458	OC
+T162	SubstanceOrExposureMeasured 16768 16775	hopanes
+T163	IndustryWorkplace 16829 16837	stations
+T164	JobTaskactivity 16868 16876	turn-out
+T165	JobTaskactivity 16881 16898	return to station
+T166	SubstanceOrExposureMeasured 17002 17020	crystalline silica
+T167	JobTaskactivity 17039 17051	Leaf pulling
+T168	SubstanceOrExposureMeasured 17104 17108	dust
+T169	SubstanceOrExposureMeasured 17113 17119	quartz
+T170	SubstanceOrExposureMeasured 17231 17252	thoracic mass aerosol
+T171	SubstanceOrExposureMeasured 17268 17276	α-quartz
+T172	SubstanceOrExposureMeasured 17279 17287	oil mist
+T173	SubstanceOrExposureMeasured 17290 17304	organic carbon
+T174	SubstanceOrExposureMeasured 17307 17309	OC
+T175	SubstanceOrExposureMeasured 17318 17334	elemental carbon
+T176	SubstanceOrExposureMeasured 17337 17339	EC
+T177	OccupationJobTitle 17592 17608	long-haul driver
+T178	OccupationJobTitle 17656 17670	P and D driver
+T179	IndustryWorkplace 17916 17925	shop area
+T180	SubstanceOrExposureMeasured 18551 18554	DEE
+T181	OHMeasurementDevice 18669 18671	DC
+T182	OHMeasurementDevice 18739 18743	UCPC
+T183	SampleTypePersonal 18755 18786	personal breathing zone samples
+T184	SubstanceOrExposureMeasured 18985 19000	Respirable Dust
+T185	SubstanceOrExposureMeasured 19003 19032	Respirable Crystalline Silica
+T186	SubstanceOrExposureMeasured 19037 19068	Diesel Engine Exhaust Emissions
+T187	IndustryWorkplace 19083 19105	Tunnelling Environment
+T188	SubstanceOrExposureMeasured 19106 19120	Inhalable dust
+T189	OHMeasurementDevice 19368 19390	air sampling cassettes
+T190	SubstanceOrExposureMeasured 19973 19979	quartz
+T191	OHMeasurementDevice 20149 20165	standard cyclone
+T192	SubstanceOrExposureMeasured 20166 20183	respirable quartz
+T193	OHMeasurementDevice 20243 20246	PAS
+T194	OccupationJobTitle 20328 20343	ramp attendants
+T195	OccupationJobTitle 20374 20385	bus drivers
+T196	SubstanceOrExposureMeasured 20561 20567	silica
+T197	IndustryWorkplace 20646 20656	locomotive
+T198	SubstanceOrExposureMeasured 20849 20867	speciated organics
+T199	SubstanceOrExposureMeasured 21165 21180	respirable dust
+T200	SubstanceOrExposureMeasured 21405 21407	RD
+T201	SubstanceOrExposureMeasured 21412 21415	RCS
+T202	IndustryWorkplace 21434 21451	concrete crushers
+T203	IndustryWorkplace 21771 21776	mines
+T204	SubstanceOrExposureMeasured 21892 21894	EC
+T205	IndustryWorkplace 21935 21945	coal mines
+T206	IndustryWorkplace 22044 22065	tunnelling conditions
+T207	SubstanceOrExposureMeasured 22068 22078	total dust
+T208	OHMeasurementDevice 22107 22114	miniRam
+T209	SubstanceOrExposureMeasured 22333 22335	Ce
+T210	SubstanceOrExposureMeasured 22384 22399	respirable dust
+T211	IndustryWorkplace 22421 22437	maintenance shop
+T212	IndustryWorkplace 22442 22457	turnaround area
+T213	SubstanceOrExposureMeasured 22707 22723	Hydrogen Sulfide
+T214	SubstanceOrExposureMeasured 22726 22748	Oxygen Carbon Monoxide
+T215	SubstanceOrExposureMeasured 22767 22784	respirable quartz
+T216	SubstanceOrExposureMeasured 22788 22803	respirable dust
+T217	SubstanceOrExposureMeasured 22830 22856	Volatile organic compounds
+T218	SubstanceOrExposureMeasured 22859 22862	VOC
+T219	SubstanceOrExposureMeasured 22873 22880	benzene
+T220	SubstanceOrExposureMeasured 22885 22897	formaldehyde
+T221	SubstanceOrExposureMeasured 23075 23089	Inhalable dust
+T222	JobTaskactivity 23103 23117	citrus harvest
+T223	SubstanceOrExposureMeasured 23163 23177	inhalable dust
+T224	IndustryWorkplace 23190 23212	table grape operations
+T225	SubstanceOrExposureMeasured 23317 23322	smoke
+T226	SubstanceOrExposureMeasured 23344 23359	sulphur dioxide
+T227	IndustryWorkplace 23388 23394	garage
+T228	OccupationJobTitle 23400 23420	construction workers
+T229	JobTaskactivity 23446 23477	smooth poured concrete surfaces
+T230	SubstanceOrExposureMeasured 23531 23546	respirable dust
+T231	SubstanceOrExposureMeasured 23551 23569	crystalline silica
+T232	SubstanceOrExposureMeasured 23744 23748	Dust
+T233	SubstanceOrExposureMeasured 23815 23831	elemental carbon
+T234	SubstanceOrExposureMeasured 23999 24007	particle
+T235	OccupationJobTitle 24192 24217	bathroom fitting fettlers
+T236	SubstanceOrExposureMeasured 24230 24232	EC
+T237	SubstanceOrExposureMeasured 24323 24325	EC
+T238	SubstanceOrExposureMeasured 24375 24390	respirable dust
+T239	SubstanceOrExposureMeasured 24395 24401	quartz
+T240	SubstanceOrExposureMeasured 24437 24439	EC
+T241	SubstanceOrExposureMeasured 24572 24586	total aldehyde
+T242	IndustryWorkplace 24624 24637	fire stations
+T243	IndustryWorkplace 24686 24698	fire station
+T244	IndustryWorkplace 24735 24745	engine bay
+T245	SubstanceOrExposureMeasured 24759 24761	EC
+T246	SubstanceOrExposureMeasured 24803 24805	EC
+T247	OccupationJobTitle 24919 24937	freight conductors
+T248	SubstanceOrExposureMeasured 24984 24986	EC
+T249	SubstanceOrExposureMeasured 24996 24998	EC
+T250	OccupationJobTitle 25290 25293	bus
+T251	OccupationJobTitle 25298 25311	lorry drivers
+T252	OccupationJobTitle 25328 25339	bus drivers
+T253	OccupationJobTitle 25348 25361	lorry drivers
+T254	SubstanceOrExposureMeasured 25450 25454	dust
+T255	OHMeasurementDevice 25543 25546	HAM
+T256	SubstanceOrExposureMeasured 25643 25664	diesel engine exhaust
+T257	SubstanceOrExposureMeasured 25839 25853	diesel exhaust
+T258	SubstanceOrExposureMeasured 25871 25887	elemental carbon
+T259	SubstanceOrExposureMeasured 25890 25892	EC
+T260	SubstanceOrExposureMeasured 26081 26085	dust
+T261	IndustryWorkplace 26133 26147	oil shale mine
+T262	SubstanceOrExposureMeasured 26425 26432	Sulfate
+T263	IndustryWorkplace 26669 26686	diesel coal mines
+T264	OccupationJobTitle 26695 26701	helper
+T265	SampleTypePersonal 26708 26738	personal breathing zone sample
+T266	SubstanceOrExposureMeasured 26751 26766	respirable dust
+T267	SubstanceOrExposureMeasured 26924 26926	EC
+T268	SubstanceOrExposureMeasured 27094 27096	EC
+T269	SubstanceOrExposureMeasured 27100 27102	OC
+T270	OccupationJobTitle 27171 27177	driver
+T271	SubstanceOrExposureMeasured 27542 27548	quartz
+T272	OccupationJobTitle 27639 27645	miners
+T273	IndustryWorkplace 27655 27659	mine
+T274	JobTaskactivity 27834 27848	shaft drilling
+T275	JobTaskactivity 27853 27865	support work
+T276	SubstanceOrExposureMeasured 28136 28144	particle
+T277	IndustryWorkplace 28258 28268	engine bay
+T278	JobTaskactivity 28288 28296	turn-out
+T279	JobTaskactivity 28300 28306	return
+T280	SubstanceOrExposureMeasured 28495 28517	respirable particulate
+T281	SubstanceOrExposureMeasured 28520 28522	RP
+T282	SubstanceOrExposureMeasured 28529 28532	NO2
+T283	SubstanceOrExposureMeasured 28657 28663	silica
+T284	IndustryWorkplace 28753 28770	stonework masonry
+T285	IndustryWorkplace 28794 28811	gray iron foundry
+T286	IndustryWorkplace 28937 28942	booth
+T287	SubstanceOrExposureMeasured 28975 28984	particles
+T288	SubstanceOrExposureMeasured 29030 29033	CO2
+T289	IndustryWorkplace 29170 29178	railroad
+T290	IndustryWorkplace 29336 29341	depot
+T291	JobTaskactivity 29354 29379	collected more containers
+T292	OccupationJobTitle 29389 29398	Labourers
+T293	OccupationJobTitle 29403 29413	shop hands
+T294	JobTaskactivity 29466 29483	material handling
+T295	JobTaskactivity 29486 29495	equipment
+T296	JobTaskactivity 29500 29517	vehicle operation
+T297	JobTaskactivity 29520 29539	coating preparation
+T298	JobTaskactivity 29542 29550	painting
+T299	JobTaskactivity 29557 29575	work site clean-up
+T300	SubstanceOrExposureMeasured 29588 29617	Respirable Crystalline Silica
+T301	OccupationJobTitle 29644 29656	Farm Workers
+T302	SubstanceOrExposureMeasured 29675 29681	quartz
+T303	SubstanceOrExposureMeasured 29713 29719	quartz
+T304	SubstanceOrExposureMeasured 29731 29740	bulk dust
+T305	IndustryWorkplace 29894 29911	trucking industry
+T306	OHMeasurementDevice 30068 30075	cyclone
+T307	OHMeasurementDevice 30107 30129	extended cowl cassette
+T308	SubstanceOrExposureMeasured 30330 30333	RCS
+T309	JobTaskactivity 30380 30390	repointing
+T310	OccupationJobTitle 30660 30669	mechanics
+T311	OccupationJobTitle 30742 30750	mechanic
+T312	SubstanceOrExposureMeasured 30751 30753	EC
+T313	SubstanceOrExposureMeasured 30758 30765	hopanes
+T314	SubstanceOrExposureMeasured 30897 30903	quartz
+T315	OccupationJobTitle 30990 30997	cutters
+T316	SubstanceOrExposureMeasured 31358 31362	dust
+T317	SubstanceOrExposureMeasured 31399 31403	dust
+T318	SubstanceOrExposureMeasured 31620 31622	EC
+T319	SubstanceOrExposureMeasured 31627 31641	diesel exhaust
+T320	SubstanceOrExposureMeasured 31646 31669	man-made mineral fibers
+T321	SubstanceOrExposureMeasured 31672 31676	MMMF
+T322	OccupationJobTitle 31721 31738	long-haul drivers
+T323	SubstanceOrExposureMeasured 31891 31894	DPM
+T324	SubstanceOrExposureMeasured 31897 31922	diesel particulate matter
+T325	SubstanceOrExposureMeasured 31946 31948	EC
+T326	SubstanceOrExposureMeasured 31951 31967	elemental carbon
+T327	SubstanceOrExposureMeasured 31974 31976	OC
+T328	SubstanceOrExposureMeasured 31979 31993	organic carbon
+T329	SubstanceOrExposureMeasured 32014 32017	DPM
+T330	SubstanceOrExposureMeasured 32126 32136	total dust
+T331	SubstanceOrExposureMeasured 32139 32141	TD
+T332	OccupationJobTitle 32167 32177	carpenters
+T333	SubstanceOrExposureMeasured 32214 32229	respirable dust
+T334	SubstanceOrExposureMeasured 32232 32234	RD
+T335	OccupationJobTitle 32243 32253	carpenters
+T336	JobTaskactivity 32405 32422	Concrete Drilling
+T337	SubstanceOrExposureMeasured 32502 32505	RCS
+T338	SubstanceOrExposureMeasured 32510 32512	RD
+T339	IndustryWorkplace 32540 32552	indoor arena
+T340	OccupationJobTitle 32610 32621	Coal miners
+T341	IndustryWorkplace 32634 32639	mines
+T342	SubstanceOrExposureMeasured 32657 32673	diesel emissions
+T343	OHMeasurementDevice 32714 32757	DustTrak direct-reading particulate monitor
+T344	IndustryWorkplace 32862 32869	station
+T345	SubstanceOrExposureMeasured 32870 32883	Asphalt fumes
+T346	SubstanceOrExposureMeasured 32895 32913	organic substances
+T347	SubstanceOrExposureMeasured 32919 32927	particle
+T348	IndustryWorkplace 33037 33041	mine
+T349	SubstanceOrExposureMeasured 33171 33177	quartz
+T350	SubstanceOrExposureMeasured 33294 33306	diesel fumes
+T351	IndustryWorkplace 33376 33381	mines
+T352	IndustryWorkplace 33583 33589	mining
+T353	IndustryWorkplace 33594 33618	underground construction
+T354	SubstanceOrExposureMeasured 34166 34180	diesel exhaust
+T355	SubstanceOrExposureMeasured 34196 34212	elemental carbon
+T356	IndustryWorkplace 34222 34239	railroad industry
+T357	SubstanceOrExposureMeasured 34349 34353	dust
+T358	IndustryWorkplace 34379 34385	tunnel
+T359	OHMeasurementDevice 34443 34467	open faced sampling head
+T360	SubstanceOrExposureMeasured 34740 34758	particulate carbon
+T361	SubstanceOrExposureMeasured 34762 34771	elemental
+T362	SubstanceOrExposureMeasured 34776 34790	organic carbon
+T363	OHMeasurementDevice 34832 34846	MOUDI samplers
+T364	SubstanceOrExposureMeasured 34962 34968	carbon
+T365	SubstanceOrExposureMeasured 34973 34976	ion
+T366	SubstanceOrExposureMeasured 35144 35149	PM2.5
+T367	IndustryWorkplace 35198 35203	mines
+T368	SubstanceOrExposureMeasured 35497 35513	diesel emissions
+T369	SubstanceOrExposureMeasured 35705 35711	quartz
+T370	JobTaskactivity 35735 35749	manual process
+T371	JobTaskactivity 35785 35803	mechanical process
+T372	IndustryWorkplace 35825 35834	Bus depot
+T373	IndustryWorkplace 35841 35846	depot
+T374	SubstanceOrExposureMeasured 35915 35925	Respirable
+T375	IndustryWorkplace 36028 36044	lead locomotives
+T376	IndustryWorkplace 36095 36115	trailing locomotives
+T377	SubstanceOrExposureMeasured 36334 36348	diesel exhaust
+T378	SubstanceOrExposureMeasured 36397 36411	diesel exhaust
+T379	OHMeasurementDevice 36571 36602	10-mm nylon Dorr-Oliver cyclone
+T380	OHMeasurementDevice 37078 37097	10-mm nylon cyclone
+T381	IndustryWorkplace 37113 37121	outdoors
+T382	SubstanceOrExposureMeasured 37165 37180	respirable dust
+T383	SubstanceOrExposureMeasured 37185 37208	free crystalline silica
+T384	SubstanceOrExposureMeasured 37344 37346	OC
+T385	SubstanceOrExposureMeasured 37372 37388	Nitrogen dioxide
+T386	OHMeasurementDevice 37413 37439	direct reading instruments
+T387	OHMeasurementDevice 37444 37472	long-term passive dosimeters
+T388	SubstanceOrExposureMeasured 37489 37492	ETS
+T389	OccupationJobTitle 37573 37578	clerk
+T390	OccupationJobTitle 37583 37592	conductor
+T391	IndustryWorkplace 37617 37656	trucks meeting Euro 3 emission standard
+T392	SubstanceOrExposureMeasured 37681 37683	EC
+T393	SubstanceOrExposureMeasured 37686 37688	OC
+T394	SubstanceOrExposureMeasured 37691 37693	TC
+T395	SubstanceOrExposureMeasured 37698 37704	PM 2.5
+T396	IndustryWorkplace 37727 37740	Euro 4 trucks
+T397	SampleTypePersonal 37878 37903	Personal impactor samples
+T398	SubstanceOrExposureMeasured 37944 37956	construction
+T399	SubstanceOrExposureMeasured 37966 37984	crystalline silica
+T400	SubstanceOrExposureMeasured 37987 37993	quartz
+T401	SubstanceOrExposureMeasured 38022 38041	respirable particle
+T402	SubstanceOrExposureMeasured 38094 38108	diesel exhaust
+T403	IndustryWorkplace 38362 38367	shops
+T404	SubstanceOrExposureMeasured 38729 38733	PAHs
+T405	SubstanceOrExposureMeasured 38736 38751	Silicon carbide
+T406	SubstanceOrExposureMeasured 38788 38802	petroleum coke
+T407	SubstanceOrExposureMeasured 38807 38818	silica sand
+T408	IndustryWorkplace 38857 38873	electric furnace
+T409	SubstanceOrExposureMeasured 38891 38897	quartz
+T410	OccupationJobTitle 38971 38995	heavy equipment operator
+T411	IndustryWorkplace 39016 39034	cab of the backhoe
+T412	SubstanceOrExposureMeasured 39108 39122	Diesel Exhaust
+T413	SampleTypePersonal 39248 39264	personal samples
+T414	SubstanceOrExposureMeasured 39623 39629	silica
+T415	SubstanceOrExposureMeasured 39903 39918	Respirable dust
+T416	IndustryWorkplace 39964 39969	farms
+T417	IndustryWorkplace 39982 39986	Farm
+T418	SubstanceOrExposureMeasured 40002 40017	respirable dust
+T419	SubstanceOrExposureMeasured 40022 40039	respirable silica
+T420	JobTaskactivity 40076 40097	sweet potato planting
+T421	JobTaskactivity 40100 40113	transplanting
+T422	JobTaskactivity 40178 40190	retrofitting
+T423	OHMeasurementDevice 40270 40278	impactor
+T424	OccupationJobTitle 40530 40538	engineer
+T425	OccupationJobTitle 40634 40642	engineer
+T426	JobTaskactivity 41007 41018	wall coring
+T427	IndustryWorkplace 41179 41204	electric utility industry
+T428	OccupationJobTitle 41207 41214	lineman
+T429	OccupationJobTitle 41219 41239	winch truck operator
+T430	OccupationJobTitle 41242 41245	WTO
+T431	SubstanceOrExposureMeasured 41308 41312	dust
+T432	SubstanceOrExposureMeasured 41662 41683	diesel engine exhaust
+T433	SampleTypePersonal 41981 42000	personal DP samples
+T434	IndustryWorkplace 42092 42100	Colliery
+T435	SubstanceOrExposureMeasured 42144 42147	RCS
+T436	JobTaskactivity 42205 42227	collection of used CBA
+T437	JobTaskactivity 42232 42245	road cleaning
+T438	JobTaskactivity 42278 42285	Farming
+T439	JobTaskactivity 42307 42313	farmed
+T440	IndustryWorkplace 42327 42332	farms
+T441	IndustryWorkplace 42374 42379	farms
+T442	SubstanceOrExposureMeasured 42467 42471	dust
+T443	SubstanceOrExposureMeasured 42476 42480	1-NP
+T444	IndustryWorkplace 42535 42547	rice farming
+T445	SubstanceOrExposureMeasured 42613 42636	amorphous silica fibers
+T446	SampleTypePersonal 42725 42734	personals
+T447	SubstanceOrExposureMeasured 43088 43094	quartz
+T448	SubstanceOrExposureMeasured 43179 43194	carbon monoxide
+T449	IndustryWorkplace 43595 43600	mines
+T450	OccupationJobTitle 43773 43793	construction workers
+T451	SubstanceOrExposureMeasured 43934 43939	clays
+T452	SubstanceOrExposureMeasured 44243 44257	diesel exhaust
+T453	SubstanceOrExposureMeasured 44316 44332	nitrogen dioxide
+T454	SubstanceOrExposureMeasured 44363 44369	quartz
+T455	SubstanceOrExposureMeasured 44377 44392	respirable dust
+T456	SubstanceOrExposureMeasured 44446 44461	carbon monoxide
+T457	SubstanceOrExposureMeasured 44466 44482	nitrogen dioxide
+T458	OHMeasurementDevice 44502 44540	direct-reading electrochemical sensors
+T459	OHMeasurementDevice 44599 44636	Neotox-xl personal single-gas monitor
+T460	SubstanceOrExposureMeasured 44684 44711	respirable elemental carbon
+T461	OccupationJobTitle 44738 44751	TBM operators
+T462	SampleTypePersonal 44766 44793	Personal 8-h shift exposure
+T463	SubstanceOrExposureMeasured 44797 44812	respirable dust
+T464	SubstanceOrExposureMeasured 44815 44846	diesel engine exhaust emissions
+T465	SubstanceOrExposureMeasured 44849 44853	DEEE
+T466	SubstanceOrExposureMeasured 44861 44888	respirable elemental carbon
+T467	SubstanceOrExposureMeasured 44897 44926	respirable crystalline silica
+T468	JobTaskactivity 44950 44998	constructing an underground metro railway tunnel
+T469	SubstanceOrExposureMeasured 45024 45056	airborne amorphous silica fibers
+T470	SampleTypePersonal 45077 45094	personal sampling
+T471	OccupationJobTitle 45672 45686	Shaft drillers
+T472	SubstanceOrExposureMeasured 45715 45724	oil mists
+T473	JobTaskactivity 45776 45794	pneumatic drilling
+T474	SubstanceOrExposureMeasured 45891 45894	ARP
+T475	JobTaskactivity 46018 46042	collect recyclable waste
+T476	IndustryWorkplace 46249 46266	Equestrian Centre
+T477	SubstanceOrExposureMeasured 46270 46285	Respirable Dust
+T478	SubstanceOrExposureMeasured 46290 46319	Respirable Crystalline Silica
+T479	SubstanceOrExposureMeasured 46339 46357	crystalline silica
+T480	IndustryWorkplace 46398 46418	lignite-fired plants
+T481	IndustryWorkplace 46735 46744	terminals
+T482	SubstanceOrExposureMeasured 46798 46800	OC
+T483	IndustryWorkplace 46836 46845	terminals
+T484	OccupationJobTitle 47316 47325	Mechanics
+T485	SubstanceOrExposureMeasured 47342 47361	chrysotile asbestos
+T486	JobTaskactivity 47374 47396	maintenance activities
+T487	SubstanceOrExposureMeasured 47430 47438	asbestos
+T488	SubstanceOrExposureMeasured 47457 47462	fiber
+T489	OccupationJobTitle 47665 47671	blower
+T490	JobTaskactivity 47694 47715	fallen leaves blowing
+T491	JobTaskactivity 47720 47732	sand blowing
+T492	OHMeasurementDevice 47958 47961	pDR
+T493	OHMeasurementDevice 48050 48063	nylon cyclone
+T494	OHMeasurementDevice 48068 48071	pDR
+T495	SubstanceOrExposureMeasured 48096 48112	diesel emissions
+T496	OccupationJobTitle 48156 48162	miners
+T497	SubstanceOrExposureMeasured 48196 48211	carbon monoxide
+T498	SubstanceOrExposureMeasured 48214 48228	carbon dioxide
+T499	SubstanceOrExposureMeasured 48231 48249	oxides of nitrogen
+T500	SubstanceOrExposureMeasured 48252 48268	nitrogen dioxide
+T501	SubstanceOrExposureMeasured 48271 48285	sulfur dioxide
+T502	SubstanceOrExposureMeasured 48292 48304	formaldehyde
+T503	IndustryWorkplace 48347 48352	farms
+T504	JobTaskactivity 48369 48376	farming
+T505	OccupationJobTitle 48423 48429	farmer
+T506	IndustryWorkplace 48465 48494	car lanes with ticket payment
+T507	IndustryWorkplace 48602 48619	cash payment line
+T508	IndustryWorkplace 48682 48700	truck and bus lane
+T509	SubstanceOrExposureMeasured 48746 48756	total dust
+T510	SubstanceOrExposureMeasured 48759 48774	respirable dust
+T511	SubstanceOrExposureMeasured 48781 48789	⍺-quartz
+T512	OccupationJobTitle 48798 48812	tunnel workers
+T513	SubstanceOrExposureMeasured 48945 48961	carbon particles
+T514	SubstanceOrExposureMeasured 49007 49021	carbon dioxide
+T515	JobTaskactivity 49262 49278	maintenance work
+T516	JobTaskactivity 49305 49343	minor maintenance around fly ash areas
+T517	JobTaskactivity 49420 49447	major scheduled maintenance
+T518	IndustryWorkplace 49511 49528	interior chambers
+T519	SubstanceOrExposureMeasured 49694 49712	polycyclic content
+T520	SubstanceOrExposureMeasured 49720 49725	smoke
+T521	OccupationJobTitle 49810 49830	construction workers
+T522	JobTaskactivity 49887 49895	grinding
+T523	SubstanceOrExposureMeasured 49991 50006	respirable dust
+T524	SubstanceOrExposureMeasured 50018 50024	silica
+T525	SubstanceOrExposureMeasured 50083 50108	refractory ceramic fibers
+T526	SubstanceOrExposureMeasured 50111 50114	RCF
+T527	SubstanceOrExposureMeasured 50145 50150	MMMFs
+T528	SubstanceOrExposureMeasured 50262 50268	diesel
+T529	IndustryWorkplace 50285 50289	mine
+T530	SubstanceOrExposureMeasured 50333 50349	nitrogen dioxide
+T531	SubstanceOrExposureMeasured 50672 50682	total dust
+T532	SubstanceOrExposureMeasured 51099 51107	aldehyde
+T533	IndustryWorkplace 51143 51156	fire stations
+T534	IndustryWorkplace 51169 51180	dormitories
+T535	IndustryWorkplace 51185 51196	PPE lockers
+T536	IndustryWorkplace 51562 51572	work shops
+T537	IndustryWorkplace 51603 51629	intake shafts of the mines
+T538	SubstanceOrExposureMeasured 51863 51865	TD
+T539	SubstanceOrExposureMeasured 51868 51870	RD
+T540	SubstanceOrExposureMeasured 51877 51880	RCS
+T541	SubstanceOrExposureMeasured 52413 52442	respirable crystalline silica
+T542	JobTaskactivity 52516 52533	abrasive blasting
+T543	JobTaskactivity 52594 52617	application of coatings
+T544	OccupationJobTitle 52690 52696	cutter
+T545	SubstanceOrExposureMeasured 52718 52728	Total dust
+T546	SubstanceOrExposureMeasured 52733 52777	particulate polycyclic aromatic hydrocarbons
+T547	SubstanceOrExposureMeasured 52780 52784	PAHs
+T548	OHMeasurementDevice 52933 52976	25 mm closed-faced aerosol filter cassettes
+T549	IndustryWorkplace 53196 53202	trucks
+T550	IndustryWorkplace 53266 53271	truck
+T551	SubstanceOrExposureMeasured 53281 53304	crystalline silica dust
+T552	SubstanceOrExposureMeasured 53613 53617	dust
+T553	SubstanceOrExposureMeasured 53733 53749	nitrogen dioxide
+T554	OccupationJobTitle 53795 53813	cleaning operators
+T555	IndustryWorkplace 53939 53949	PPE locker
+T556	SubstanceOrExposureMeasured 54436 54451	carbon monoxide
+T557	SubstanceOrExposureMeasured 54490 54506	nitrogen dioxide
+T558	JobTaskactivity 54866 54886	drilling in concrete
+T559	JobTaskactivity 54891 54908	pile top crushing
+T560	SubstanceOrExposureMeasured 54960 54983	Amorphous Silica Fibers
+T561	SubstanceOrExposureMeasured 54994 55012	Particulate Matter
+T562	IndustryWorkplace 55020 55032	Rice Farming
+T563	OccupationJobTitle 55076 55083	general
+T564	OccupationJobTitle 55086 55090	food
+T565	OccupationJobTitle 55097 55123	recycling waste collectors
+T566	IndustryWorkplace 55243 55247	farm
+T567	SampleTypePersonal 55362 55365	PBZ
+T568	SubstanceOrExposureMeasured 55425 55440	respirable dust
+T569	SubstanceOrExposureMeasured 55445 55451	quartz
+T570	OccupationJobTitle 55468 55479	farmworkers
+T571	OccupationJobTitle 55842 55868	tunnel-boring machine crew
+T572	IndustryWorkplace 55881 55893	fire station
+T573	SubstanceOrExposureMeasured 55894 55897	DPM
+T574	IndustryWorkplace 55933 55943	engine bay
+T575	SubstanceOrExposureMeasured 55958 55960	EC
+T576	OHMeasurementDevice 56184 56188	pDRs
+T577	OHMeasurementDevice 56286 56293	cyclone
+T578	IndustryWorkplace 56670 56676	mining
+T579	SubstanceOrExposureMeasured 56724 56727	RCS
+T580	JobTaskactivity 56748 56762	SCL activities
+T581	SampleTypePersonal 56825 56856	personal breathing zone samples
+T582	SubstanceOrExposureMeasured 56860 56875	respirable dust
+T583	SubstanceOrExposureMeasured 56927 56931	dust
+T584	IndustryWorkplace 56947 56955	despatch
+T585	IndustryWorkplace 56960 56968	die shop
+T586	IndustryWorkplace 56990 57027	railway repair and maintenance depots
+T587	JobTaskactivity 57100 57120	adjustments are made
+T588	JobTaskactivity 57125 57142	tests carried out
+T589	OHMeasurementDevice 57316 57359	37-mm closed-faced aerosol filter cassettes
+T590	SubstanceOrExposureMeasured 57487 57493	silica
+T591	SubstanceOrExposureMeasured 57527 57529	TC
+T592	SubstanceOrExposureMeasured 57639 57641	EC
+T593	SubstanceOrExposureMeasured 57746 57748	EC
+T594	JobTaskactivity 57771 57785	asphalt paving
+T595	SubstanceOrExposureMeasured 57854 57856	EC
+T596	SubstanceOrExposureMeasured 57909 57924	respirable dust
+T597	SubstanceOrExposureMeasured 57929 57932	RCS
+T598	SampleTypePersonal 58178 58194	personal samples
+T599	SubstanceOrExposureMeasured 58403 58406	VOC
+T600	OccupationJobTitle 58494 58499	miner
+T601	SubstanceOrExposureMeasured 58511 58527	diesel emissions
+T602	OHMeasurementDevice 58550 58568	passive dosimeters
+T603	SubstanceOrExposureMeasured 58633 58636	N02
+T604	IndustryWorkplace 58789 58800	PPE lockers
+T605	IndustryWorkplace 58843 58854	engine bays
+T606	SubstanceOrExposureMeasured 59008 59010	OC
+T607	SubstanceOrExposureMeasured 59015 59017	EC
+T608	SubstanceOrExposureMeasured 59055 59058	NO2
+T609	SubstanceOrExposureMeasured 59065 59067	CO
+T610	SubstanceOrExposureMeasured 59107 59109	NO
+T611	SubstanceOrExposureMeasured 59132 59134	CO
+T612	SubstanceOrExposureMeasured 59215 59217	NO
+T613	SubstanceOrExposureMeasured 59398 59415	respirable quartz
+T614	IndustryWorkplace 59487 59493	office
+T615	SubstanceOrExposureMeasured 59619 59625	quartz
+T616	SubstanceOrExposureMeasured 59731 59734	PAH
+T617	SubstanceOrExposureMeasured 59790 59807	respirable quartz
+T618	SubstanceOrExposureMeasured 59867 59882	respirable dust
+T619	SubstanceOrExposureMeasured 59963 59967	dust
+T620	JobTaskactivity 60008 60022	biscuit firing
+T621	JobTaskactivity 60027 60034	sorting
+T622	JobTaskactivity 60052 60076	bathroom fitting glazing
+T623	SampleTypePersonal 60290 60320	personal exposure measurements
+T624	OccupationJobTitle 60349 60366	equestrian worker
+T625	IndustryWorkplace 60469 60495	European minerals industry
+T626	SubstanceOrExposureMeasured 61064 61068	Lead
+T627	OccupationJobTitle 61079 61091	taxi drivers
+T628	OccupationJobTitle 61108 61120	taxi drivers
+T629	JobTaskactivity 61121 61128	driving
+T630	SubstanceOrExposureMeasured 61221 61227	quartz
+T631	SubstanceOrExposureMeasured 61230 61242	cristobalite
+T632	SubstanceOrExposureMeasured 61249 61258	tridymite
+T633	JobTaskactivity 61379 61390	LHD mucking
+T634	IndustryWorkplace 61575 61580	mines
+T635	OccupationJobTitle 61794 61813	underground workers
+T636	SubstanceOrExposureMeasured 61866 61869	NO2
+T637	OHMeasurementDevice 62001 62021	1/2 \" metal cyclone
+T638	OHMeasurementDevice 62024 62042	Sensidyne model 18
+T639	IndustryWorkplace 62160 62164	dock
+T640	SubstanceOrExposureMeasured 62269 62284	Diesel Exhausts
+T641	SubstanceOrExposureMeasured 62419 62434	carbon monoxide
+T642	SubstanceOrExposureMeasured 62496 62499	PAC
+T643	SubstanceOrExposureMeasured 62520 62544	diesel- exhaust particle
+T644	SubstanceOrExposureMeasured 62547 62550	DEP
+T645	SubstanceOrExposureMeasured 62699 62705	diesel
+T646	OHMeasurementDevice 62732 62737	PDEAS
+T647	IndustryWorkplace 62759 62771	shuttle cars
+T648	OccupationJobTitle 62838 62859	other outdoor workers
+T649	SubstanceOrExposureMeasured 62871 62885	diesel exhaust
+T650	IndustryWorkplace 62929 62950	diesel-fuelled trucks
+T651	IndustryWorkplace 62953 62976	tractors in agriculture
+T652	IndustryWorkplace 62979 62995	shunting engines
+T653	OccupationJobTitle 63015 63034	underground workers
+T654	SubstanceOrExposureMeasured 63276 63279	CO2
+T655	SubstanceOrExposureMeasured 63296 63311	carbon monoxide
+T656	SubstanceOrExposureMeasured 63314 63316	CO
+T657	OHMeasurementDevice 63376 63391	Q Trak detector
+T658	SubstanceOrExposureMeasured 63502 63505	PAC
+T659	SubstanceOrExposureMeasured 63548 63550	EC
+T660	SubstanceOrExposureMeasured 64008 64010	EC
+T661	SubstanceOrExposureMeasured 64046 64049	DEE
+T662	SubstanceOrExposureMeasured 64141 64143	EC
+T663	SubstanceOrExposureMeasured 64147 64170	amorphous silica fibers
+T664	JobTaskactivity 64350 64364	asphalt paving
+T665	OHMeasurementDevice 64399 64408	Grimm PDM
+T666	SubstanceOrExposureMeasured 64450 64459	particles
+T667	SubstanceOrExposureMeasured 64769 64787	crystalline silica
+T668	SubstanceOrExposureMeasured 64839 64841	OC
+T669	SubstanceOrExposureMeasured 64844 64846	EC
+T670	SubstanceOrExposureMeasured 64849 64851	TC
+T671	SampleTypePersonal 65243 65260	personal sampling
+T672	SubstanceOrExposureMeasured 65479 65497	benzo ( a ) pyrene
+T673	SubstanceOrExposureMeasured 65513 65518	smoke
+T674	JobTaskactivity 65811 65821	collection
+T675	JobTaskactivity 65824 65832	handling
+T676	JobTaskactivity 65839 65866	disposal of fly ash residue
+T677	SubstanceOrExposureMeasured 65898 65900	RD
+T678	SubstanceOrExposureMeasured 65958 65961	RCS
+T679	SubstanceOrExposureMeasured 66001 66019	crystalline silica
+T680	OccupationJobTitle 66038 66045	Jammers
+T681	IndustryWorkplace 66138 66142	mine
+T682	SubstanceOrExposureMeasured 66180 66190	total dust
+T683	SubstanceOrExposureMeasured 66193 66208	respirable dust
+T684	SubstanceOrExposureMeasured 66211 66216	fiber
+T685	SubstanceOrExposureMeasured 66219 66225	quartz
+T686	SubstanceOrExposureMeasured 66228 66240	cristobalite
+T687	SubstanceOrExposureMeasured 66247 66250	SiC
+T688	SampleTypePersonal 66577 66593	personal samples
+T689	SampleTypePersonal 66836 66853	Personal Sampling
+T690	SubstanceOrExposureMeasured 66887 66902	respirable dust
+T691	SubstanceOrExposureMeasured 66918 66921	RCS
+T692	IndustryWorkplace 67060 67068	colliery
+T693	IndustryWorkplace 67164 67168	mine
+T694	JobTaskactivity 67476 67500	attach a gripping device
+T695	IndustryWorkplace 67511 67522	small crane
+T696	JobTaskactivity 67529 67572	lift the concrete block out of the pavement
+T697	SubstanceOrExposureMeasured 67782 67784	OC
+T698	SubstanceOrExposureMeasured 67913 67919	diesel
+T699	IndustryWorkplace 68055 68073	construction trade
+T700	OHMeasurementDevice 68152 68160	cassette
+T701	JobTaskactivity 68219 68236	abrasive blasting
+T702	OccupationJobTitle 68239 68247	blasters
+T703	JobTaskactivity 68274 68291	material handling
+T704	JobTaskactivity 68294 68313	moving new abrasive
+T705	JobTaskactivity 68316 68338	removing used abrasive
+T706	JobTaskactivity 68343 68358	quality control
+T707	JobTaskactivity 68365 68383	work site clean-up
+T708	JobTaskactivity 68613 68621	grinding
+T709	SubstanceOrExposureMeasured 68679 68685	quartz
+T710	SubstanceOrExposureMeasured 68749 68768	dolomitic limestone
+T711	SubstanceOrExposureMeasured 69088 69094	Silica
+T712	IndustryWorkplace 69123 69135	Construction
+T713	JobTaskactivity 69138 69155	Grinding Concrete
+T714	JobTaskactivity 69203 69215	wet grinding
+T715	JobTaskactivity 69216 69223	Cutting
+T716	OccupationJobTitle 69277 69283	sawyer
+T717	JobTaskactivity 69334 69350	overshot mucking
+T718	SubstanceOrExposureMeasured 69403 69417	diesel exhaust
+T719	SubstanceOrExposureMeasured 69448 69452	dust
+T720	SubstanceOrExposureMeasured 69502 69510	oil mist
+T721	SubstanceOrExposureMeasured 69763 69792	respirable crystalline silica
+T722	SubstanceOrExposureMeasured 69793 69803	Total dust
+T723	IndustryWorkplace 69844 69848	mine
+T724	IndustryWorkplace 69879 69893	limestone mine
+T725	SubstanceOrExposureMeasured 69894 69901	toluene
+T726	SubstanceOrExposureMeasured 69939 69945	xylene
+T727	SubstanceOrExposureMeasured 70032 70038	silica
+T728	IndustryWorkplace 70098 70105	factory
+T729	SubstanceOrExposureMeasured 70195 70199	dust
+T730	SubstanceOrExposureMeasured 70876 70892	diesel emissions
+T731	OccupationJobTitle 70896 70907	coal miners
+T732	OccupationJobTitle 71322 71329	drivers
+T733	IndustryWorkplace 71408 71416	terminal
+T734	OccupationJobTitle 71428 71434	driver
+T735	SampleTypePersonal 71598 71606	personal
+T736	SampleTypePersonal 71614 71621	samples
+T737	SubstanceOrExposureMeasured 71687 71693	Quartz
+T738	OccupationJobTitle 71748 71760	firefighters
+T739	SubstanceOrExposureMeasured 71984 71992	aldehyde
+T740	OccupationJobTitle 72375 72384	operators
+T741	OHMeasurementDevice 72590 72621	real-time monitoring instrument
+T742	OHMeasurementDevice 72622 72629	DataRAM
+T743	OccupationJobTitle 72671 72698	tunnel construction workers
+T744	OccupationJobTitle 72717 72729	taxi drivers
+T745	SubstanceOrExposureMeasured 72905 72915	total dust
+T746	SubstanceOrExposureMeasured 73280 73284	dust
+T747	JobTaskactivity 73392 73399	cutting
+T748	OccupationJobTitle 73535 73547	construction
+T749	SampleTypePersonal 73624 73641	personal exposure
+T750	OccupationJobTitle 73718 73729	bus drivers
+T751	IndustryWorkplace 73822 73827	buses
+T752	IndustryWorkplace 73878 73881	bus
+T753	JobTaskactivity 73897 73904	driving
+T754	SampleTypePersonal 73951 73989	personal , respirable dust measurement
+T755	IndustryWorkplace 74142 74150	terminal
+T756	SubstanceOrExposureMeasured 74228 74234	quartz
+T757	SubstanceOrExposureMeasured 74352 74360	oil mist
+T758	SubstanceOrExposureMeasured 74399 74407	oil mist
+T759	SubstanceOrExposureMeasured 74502 74508	fibres
+T760	SubstanceOrExposureMeasured 74511 74529	crystalline silica
+T761	SubstanceOrExposureMeasured 74532 74547	silicon carbide
+T762	SubstanceOrExposureMeasured 74550 74553	SiC
+T763	SubstanceOrExposureMeasured 74560 74575	sulphur dioxide
+T764	IndustryWorkplace 74593 74605	SiC industry
+T765	SampleTypePersonal 74676 74692	personal samples
+T766	SampleTypePersonal 74695 74727	personal STEL CO concentra­tions
+T767	SubstanceOrExposureMeasured 75015 75018	RCS
+T768	SubstanceOrExposureMeasured 75357 75367	respirable
+T769	SubstanceOrExposureMeasured 75371 75385	inhalable dust
+T770	IndustryWorkplace 75556 75563	Railway
+T771	IndustryWorkplace 75669 75681	construction
+T772	SubstanceOrExposureMeasured 75708 75712	dust
+T773	SubstanceOrExposureMeasured 75717 75720	RCS
+T774	SubstanceOrExposureMeasured 75857 75874	respirable quartz
+T775	SubstanceOrExposureMeasured 75953 75956	PAH
+T776	SubstanceOrExposureMeasured 76041 76057	elemental carbon
+T777	SubstanceOrExposureMeasured 76088 76102	diesel exhaust
+T778	SubstanceOrExposureMeasured 76132 76158	elemental carbon particles
+T779	SubstanceOrExposureMeasured 76197 76203	diesel
+T780	SubstanceOrExposureMeasured 76217 76220	DPM
+T781	SubstanceOrExposureMeasured 76309 76322	submicrometer
+T782	OHMeasurementDevice 76350 76358	cyclones
+T783	SubstanceOrExposureMeasured 76430 76447	respirable silica
+T784	SubstanceOrExposureMeasured 76549 76563	coal mine dust
+T785	OccupationJobTitle 76619 76625	miners
+T786	OccupationJobTitle 76707 76727	construction workers
+T787	SubstanceOrExposureMeasured 76952 76966	diesel exhaust
+T788	IndustryWorkplace 76990 77007	trucking industry
+T789	SubstanceOrExposureMeasured 77012 77020	particle
+T790	OHMeasurementDevice 77187 77204	DustTrak samplers
+T791	SubstanceOrExposureMeasured 77210 77215	PM2.5
+T792	SubstanceOrExposureMeasured 77220 77223	PM1
+T793	SubstanceOrExposureMeasured 77256 77259	PM1
+T794	SubstanceOrExposureMeasured 77292 77297	PM2.5
+T795	IndustryWorkplace 77310 77322	vehicle cabs
+T796	IndustryWorkplace 77432 77436	mine
+T797	IndustryWorkplace 77517 77522	metal
+T798	IndustryWorkplace 77527 77541	nonmetal mines
+T799	IndustryWorkplace 77551 77565	oil shale mine
+T800	OccupationJobTitle 77573 77588	surface workers
+T801	OccupationJobTitle 77606 77636	drivers of non-diesel vehicles
+T802	OccupationJobTitle 77639 77646	turners
+T803	OccupationJobTitle 77651 77661	locksmiths
+T804	IndustryWorkplace 77667 77681	metal workshop
+T805	OccupationJobTitle 77687 77696	operators
+T806	IndustryWorkplace 77703 77729	oil shale processing plant
+T807	OccupationJobTitle 77733 77742	mechanics
+T808	JobTaskactivity 77759 77806	maintenance of electrically powered water pumps
+T809	SampleTypePersonal 77847 77864	personal exposure
+T810	SubstanceOrExposureMeasured 77945 77947	TD
+T811	OccupationJobTitle 77971 77989	demolition workers
+T812	SubstanceOrExposureMeasured 78512 78528	elemental carbon
+T813	SubstanceOrExposureMeasured 78663 78675	total carbon
+T814	SubstanceOrExposureMeasured 78845 78861	elemental carbon
+T815	JobTaskactivity 79204 79212	grinding
+T816	SubstanceOrExposureMeasured 79279 79292	thoracic dust
+T817	IndustryWorkplace 79339 79354	loading machine
+T818	OccupationJobTitle 79453 79472	Underground workers
+T819	IndustryWorkplace 79594 79608	oil shale mine
+T820	JobTaskactivity 79667 79678	maintenance
+T821	IndustryWorkplace 79692 79701	coal mine
+T822	SubstanceOrExposureMeasured 79740 79746	quartz
+T823	SubstanceOrExposureMeasured 80275 80278	DEE
+T824	SubstanceOrExposureMeasured 80282 80300	particulate matter
+T825	SubstanceOrExposureMeasured 80388 80392	dust
+T826	SubstanceOrExposureMeasured 80393 80399	silica
+T827	IndustryWorkplace 80430 80435	Mines
+T828	OccupationJobTitle 80474 80501	tunnel construction workers
+T829	JobTaskactivity 80672 80688	slab sawing jobs
+T830	SubstanceOrExposureMeasured 80838 80840	TC
+T831	SubstanceOrExposureMeasured 80918 80920	TC
+T832	SubstanceOrExposureMeasured 80988 81007	ultrafine particles
+T833	SubstanceOrExposureMeasured 81290 81298	nitrogen
+T834	SubstanceOrExposureMeasured 81376 81382	silica
+T835	SubstanceOrExposureMeasured 81828 81834	quartz
+T836	IndustryWorkplace 82038 82050	fire station
+T837	SubstanceOrExposureMeasured 82430 82446	1 : 2-benzpyrene
+T838	SubstanceOrExposureMeasured 82449 82465	3 : 4-benzpyrene
+T839	SubstanceOrExposureMeasured 82472 82491	1 : 12-benzperylene
+T840	IndustryWorkplace 82539 82545	garage
+T841	SubstanceOrExposureMeasured 82680 82684	dust
+T842	SubstanceOrExposureMeasured 82689 82693	1-NP
+T843	IndustryWorkplace 82826 82842	siding worksites
+T844	SubstanceOrExposureMeasured 82892 82898	silica
+T845	OccupationJobTitle 82978 82989	contractors
+T846	SubstanceOrExposureMeasured 83069 83083	diesel exhaust
+T847	SubstanceOrExposureMeasured 83137 83141	dust
+T848	OccupationJobTitle 83158 83166	laborers
+T849	SubstanceOrExposureMeasured 83193 83199	silica
+T850	SubstanceOrExposureMeasured 83244 83246	EC
+T851	OccupationJobTitle 83324 83334	carpenters
+T852	SubstanceOrExposureMeasured 83382 83392	total dust
+T853	SubstanceOrExposureMeasured 83454 83469	respirable dust
+T854	OHMeasurementDevice 83535 83549	charcoal tubes
+T855	SubstanceOrExposureMeasured 83597 83604	benzene
+T856	SubstanceOrExposureMeasured 83671 83679	Nicotine
+T857	SubstanceOrExposureMeasured 83726 83734	nicotine
+T858	SampleTypePersonal 83763 83780	personal exposure
+T859	SubstanceOrExposureMeasured 84004 84018	Inhalable dust
+T860	SubstanceOrExposureMeasured 84045 84054	endotoxin
+T861	SubstanceOrExposureMeasured 84059 84079	total microorganisms
+T862	SubstanceOrExposureMeasured 84180 84189	Endotoxin
+T863	SubstanceOrExposureMeasured 84523 84530	benzene
+T864	OccupationJobTitle 84663 84669	Driver
+T865	IndustryWorkplace 84700 84723	truck freight terminals
+T866	IndustryWorkplace 84788 84796	terminal
+T867	IndustryWorkplace 84816 84824	terminal
+T868	OccupationJobTitle 85005 85020	shunter drivers
+T869	OccupationJobTitle 85062 85075	train drivers
+T870	SubstanceOrExposureMeasured 85188 85202	diesel exhaust
+T871	IndustryWorkplace 85220 85245	electric utility industry
+T872	IndustryWorkplace 85496 85504	terminal
+T873	SubstanceOrExposureMeasured 85551 85554	SiC
+T874	IndustryWorkplace 85921 85942	Tunnelling Operations
+T875	SubstanceOrExposureMeasured 86327 86333	quartz
+T876	SubstanceOrExposureMeasured 86348 86363	respirable dust
+T877	SubstanceOrExposureMeasured 86369 86384	respirable dust
+T878	JobTaskactivity 86489 86513	installing drop ceilings
+T879	JobTaskactivity 86533 86549	concrete pouring
+T880	SubstanceOrExposureMeasured 87047 87057	respirable
+T881	SubstanceOrExposureMeasured 87060 87068	thoracic
+T882	SubstanceOrExposureMeasured 87075 87096	inhalable particulate
+T883	SubstanceOrExposureMeasured 87141 87143	OC
+T884	OccupationJobTitle 87161 87178	long-haul drivers
+T885	SubstanceOrExposureMeasured 87190 87192	EC
+T886	OccupationJobTitle 87234 87261	tunnel construction workers
+T887	IndustryWorkplace 87410 87417	farming
+T888	IndustryWorkplace 87511 87518	farming
+T889	SubstanceOrExposureMeasured 87793 87795	EC
+T890	JobTaskactivity 88016 88023	packing
+T891	JobTaskactivity 88028 88036	cleaning
+T892	JobTaskactivity 88044 88057	driving cycle
+T893	SubstanceOrExposureMeasured 88141 88143	EC
+T894	JobTaskactivity 88303 88329	supplying an assembly line
+T895	JobTaskactivity 88341 88357	warehouse duties
+T896	SubstanceOrExposureMeasured 88814 88821	Hopanes
+T897	SubstanceOrExposureMeasured 88826 88834	steranes
+T898	SampleTypePersonal 88863 88879	personal samples
+T899	SubstanceOrExposureMeasured 88905 88911	silica
+T900	SubstanceOrExposureMeasured 88998 89027	respirable crystalline silica
+T901	SubstanceOrExposureMeasured 89030 89036	quartz
+T902	SubstanceOrExposureMeasured 89041 89053	cristobalite
+T903	SubstanceOrExposureMeasured 89160 89176	elemental carbon
+T904	SubstanceOrExposureMeasured 89179 89181	Ce
+T905	SubstanceOrExposureMeasured 89186 89200	sulfur dioxide
+T906	SubstanceOrExposureMeasured 89203 89206	SO2
+T907	SubstanceOrExposureMeasured 89211 89223	nitric oxide
+T908	SubstanceOrExposureMeasured 89226 89228	NO
+T909	SubstanceOrExposureMeasured 89233 89249	nitrogen dioxide
+T910	SubstanceOrExposureMeasured 89252 89255	NO2
+T911	SubstanceOrExposureMeasured 89264 89290	volatile organic compounds
+T912	SubstanceOrExposureMeasured 89293 89297	VOCs
+T913	IndustryWorkplace 89300 89317	Gray iron foundry
+T914	JobTaskactivity 89360 89378	manufacturing gray
+T915	JobTaskactivity 89383 89404	ductile iron castings
+T916	SubstanceOrExposureMeasured 89560 89563	CO2
+T917	OccupationJobTitle 89715 89726	bus drivers
+T918	OccupationJobTitle 90058 90064	miners
+T919	SubstanceOrExposureMeasured 90129 90136	toluene
+T920	SubstanceOrExposureMeasured 90389 90392	RCS
+T921	SubstanceOrExposureMeasured 90549 90553	dust
+T922	SubstanceOrExposureMeasured 90558 90564	quartz
+T923	OHMeasurementDevice 90585 90598	nylon cyclone
+T924	OHMeasurementDevice 90603 90606	pDR
+T925	SubstanceOrExposureMeasured 90659 90663	dust
+T926	OHMeasurementDevice 90688 90691	pDR
+T927	SampleTypePersonal 90754 90770	breath­ ing zone
+T928	SubstanceOrExposureMeasured 90840 90850	total dust
+T929	SubstanceOrExposureMeasured 90870 90885	respirable dust
+T930	SubstanceOrExposureMeasured 90909 90926	respirable quartz
+T931	JobTaskactivity 91092 91104	dry handling
+T932	IndustryWorkplace 91306 91311	mines
+T933	IndustryWorkplace 91360 91370	engine bay
+T934	SubstanceOrExposureMeasured 91799 91801	EC
+T935	SubstanceOrExposureMeasured 91806 91808	OC
+T936	SubstanceOrExposureMeasured 91930 91933	DEA
+T937	OHMeasurementDevice 92024 92029	PDEAS
+T938	SubstanceOrExposureMeasured 92032 92059	Methylene chloride extracts
+T939	SubstanceOrExposureMeasured 92067 92086	diesel particulates
+T940	SubstanceOrExposureMeasured 92205 92226	motor vehicle exhaust
+T941	SubstanceOrExposureMeasured 92300 92302	OC
+T942	IndustryWorkplace 92310 92314	mine
+T943	SubstanceOrExposureMeasured 92387 92390	RCS
+T944	IndustryWorkplace 92582 92596	truck bay area
+T945	SubstanceOrExposureMeasured 92834 92848	diesel exhaust
+T946	SubstanceOrExposureMeasured 92851 92854	RSP
+T947	SubstanceOrExposureMeasured 93069 93075	quartz
+T948	IndustryWorkplace 93108 93113	farms
+T949	OccupationJobTitle 93114 93121	Drivers
+T950	OccupationJobTitle 93156 93165	collector
+T951	JobTaskactivity 93168 93178	demolition
+T952	SampleTypePersonal 93424 93452	Personal exposure monitoring
+T953	SubstanceOrExposureMeasured 93457 93472	carbon monoxide
+T954	SubstanceOrExposureMeasured 93567 93573	quartz
+T955	IndustryWorkplace 93673 93683	bus depots
+T956	JobTaskactivity 93727 93746	general maintenance
+T957	JobTaskactivity 93749 93761	body repairs
+T958	JobTaskactivity 93764 93774	hydraulics
+T959	JobTaskactivity 93777 93788	engineering
+T960	SubstanceOrExposureMeasured 93829 93835	quartz
+T961	SubstanceOrExposureMeasured 93976 93982	silica
+T962	SubstanceOrExposureMeasured 94093 94095	EC
+T963	IndustryWorkplace 94111 94126	lead locomotive
+T964	IndustryWorkplace 94196 94217	truck repair workshop
+T965	SubstanceOrExposureMeasured 94283 94286	RCS
+T966	SubstanceOrExposureMeasured 94421 94443	elemental carbon total
+T967	SubstanceOrExposureMeasured 94446 94450	EC-T
+T968	SubstanceOrExposureMeasured 94523 94539	elemental carbon
+T969	SubstanceOrExposureMeasured 94566 94570	EC-T
+T970	OHMeasurementDevice 94581 94614	37 mm diameter open-face cassette
+T971	SubstanceOrExposureMeasured 94634 94638	EC-C
+T972	OHMeasurementDevice 94678 94697	10 mm nylon cyclone
+T973	SubstanceOrExposureMeasured 94745 94749	EC-M
+T974	SubstanceOrExposureMeasured 94752 94775	elemental carbon–Marple
+T975	OHMeasurementDevice 94806 94824	two-stage impactor
+T976	OHMeasurementDevice 94834 94848	Marple sampler
+T977	SubstanceOrExposureMeasured 94984 94986	RD
+T978	SubstanceOrExposureMeasured 94991 94994	RCS
+T979	JobTaskactivity 95017 95025	Sweeping
+T980	JobTaskactivity 95030 95041	Clearing Up
+T981	SubstanceOrExposureMeasured 95042 95044	EC
+T982	SubstanceOrExposureMeasured 95378 95392	Sulfur dioxide
+T983	IndustryWorkplace 95447 95460	apparatus bay
+T984	JobTaskactivity 95461 95478	Concrete Grinding
+T985	IndustryWorkplace 95671 95675	mine
+T986	SubstanceOrExposureMeasured 95959 95961	OC
+T987	SubstanceOrExposureMeasured 96004 96006	EC
+T988	SampleTypePersonal 96073 96090	Personal Exposure
+T989	OccupationJobTitle 96798 96801	WTO
+T990	OccupationJobTitle 96806 96813	lineman
+T991	SubstanceOrExposureMeasured 96860 96878	crystalline silica
+T992	SubstanceOrExposureMeasured 96923 96929	quartz
+T993	SubstanceOrExposureMeasured 96930 96945	Respirable dust
+T994	SubstanceOrExposureMeasured 96980 96997	respirable quartz
+T995	IndustryWorkplace 97027 97031	mine
+T996	IndustryWorkplace 97181 97189	terminal
+T997	OccupationJobTitle 97244 97250	driver
+T998	SubstanceOrExposureMeasured 97377 97383	Diesel
+T999	IndustryWorkplace 97574 97582	Colliery
+T1000	SubstanceOrExposureMeasured 97595 97610	respirable dust
+T1001	SubstanceOrExposureMeasured 97628 97634	quartz
+T1002	OccupationJobTitle 97735 97752	long-haul drivers
+T1003	OccupationJobTitle 98015 98021	miners
+T1004	SampleTypePersonal 98024 98041	personal exposure
+T1005	SubstanceOrExposureMeasured 98045 98048	NO2
+T1006	IndustryWorkplace 98080 98085	mines
+T1007	SubstanceOrExposureMeasured 98166 98175	particles
+T1008	SubstanceOrExposureMeasured 98215 98223	particle
+T1009	OHMeasurementDevice 98259 98263	SMPS
+T1010	SubstanceOrExposureMeasured 98309 98313	UFPs
+T1011	SubstanceOrExposureMeasured 98363 98366	DEE
+T1012	JobTaskactivity 98443 98449	paving
+T1013	IndustryWorkplace 98450 98457	outdoor
+T1014	SubstanceOrExposureMeasured 98512 98521	particles
+T1015	OHMeasurementDevice 98570 98587	Andersen impactor
+T1016	SubstanceOrExposureMeasured 98644 98653	particles
+T1017	OHMeasurementDevice 98667 98679	cyclone head
+T1018	SubstanceOrExposureMeasured 98687 98691	TSPs
+T1019	IndustryWorkplace 98767 98782	diesel vehicles
+T1020	IndustryWorkplace 98790 98817	diesel pick-up and delivery
+T1021	IndustryWorkplace 98828 98834	trucks
+T1022	IndustryWorkplace 98862 98878	diesel forklifts
+T1023	OccupationJobTitle 98889 98900	Firefighter
+T1024	SubstanceOrExposureMeasured 98913 98931	total particulates
+T1025	SubstanceOrExposureMeasured 99229 99246	respirable quartz
+T1026	OccupationJobTitle 99278 99289	dockworkers
+T1027	OccupationJobTitle 99294 99307	P & D drivers
+T1028	IndustryWorkplace 99738 99750	construction
+T1029	OccupationJobTitle 99798 99805	shifter
+T1030	JobTaskactivity 99806 99827	supervised operations
+T1031	IndustryWorkplace 99839 99843	mine
+T1032	SubstanceOrExposureMeasured 100273 100288	respirable dust
+T1033	SubstanceOrExposureMeasured 100407 100409	TC
+T1034	IndustryWorkplace 100684 100699	mining industry
+T1035	SubstanceOrExposureMeasured 100818 100822	dust
+T1036	SubstanceOrExposureMeasured 101055 101059	dust
+T1037	SubstanceOrExposureMeasured 101211 101225	inhalable dust
+T1038	SubstanceOrExposureMeasured 101228 101243	respirable dust
+T1039	SubstanceOrExposureMeasured 101250 101267	respirable quartz
+T1040	OccupationJobTitle 101381 101400	underground workers
+T1041	SubstanceOrExposureMeasured 101993 102002	Total PAH
+T1042	SubstanceOrExposureMeasured 102222 102234	citrus dusts
+T1043	SubstanceOrExposureMeasured 102298 102313	Sulphur dioxide
+T1044	IndustryWorkplace 102379 102385	garage
+T1045	IndustryWorkplace 102666 102688	maintenance department
+T1046	SubstanceOrExposureMeasured 102911 102913	EC
+T1047	SubstanceOrExposureMeasured 103084 103101	respirable silica
+T1048	SubstanceOrExposureMeasured 103106 103112	quartz
+T1049	IndustryWorkplace 103116 103127	agriculture
+T1050	SubstanceOrExposureMeasured 103439 103457	particulate matter
+T1051	OccupationJobTitle 103491 103497	miners
+T1052	IndustryWorkplace 103654 103658	mine
+T1053	SampleTypePersonal 103686 103706	sampling methodology
+T1054	SampleTypePersonal 103709 103717	personal
+T1055	OccupationJobTitle 103780 103841	workers occupied in various non-diesel production assignments
+T1056	SubstanceOrExposureMeasured 103924 103926	EC
+T1057	SubstanceOrExposureMeasured 103931 103933	OC
+T1058	IndustryWorkplace 103972 103991	trailing locomotive
+T1059	SubstanceOrExposureMeasured 104047 104051	DEFs
+T1060	IndustryWorkplace 104059 104074	lead locomotive
+T1061	SubstanceOrExposureMeasured 104134 104150	elemental carbon
+T1062	SubstanceOrExposureMeasured 104167 104183	table grape dust
+T1063	SubstanceOrExposureMeasured 104228 104245	respirable quartz
+T1064	SubstanceOrExposureMeasured 104249 104264	respirable dust
+T1065	IndustryWorkplace 104291 104313	table grape operations
+T1066	SubstanceOrExposureMeasured 104359 104362	PAC
+T1067	SubstanceOrExposureMeasured 104386 104392	Silica
+T1068	JobTaskactivity 104419 104453	installation of fibercement siding
+T1069	JobTaskactivity 104598 104614	cut paving slabs
+T1070	IndustryWorkplace 104795 104806	locomotives
+T1071	SubstanceOrExposureMeasured 104985 104988	RCS
+T1072	OccupationJobTitle 104991 105012	Sand blasting workers
+T1073	SubstanceOrExposureMeasured 105035 105050	respirable dust
+T1074	OccupationJobTitle 105071 105088	polishing workers
+T1075	SubstanceOrExposureMeasured 105501 105511	total dust
+T1076	SubstanceOrExposureMeasured 105514 105529	respirable dust
+T1077	SubstanceOrExposureMeasured 105536 105544	⍺-quartz
+T1078	SubstanceOrExposureMeasured 105697 105702	smoke
+T1079	IndustryWorkplace 105725 105731	garage
+T1080	SubstanceOrExposureMeasured 105768 105773	smoke
+T1081	SubstanceOrExposureMeasured 105827 105839	hydrocarbons
+T1082	JobTaskactivity 105959 105966	cutting
+T1083	SubstanceOrExposureMeasured 106080 106086	silica
+T1084	SubstanceOrExposureMeasured 106108 106126	crystalline silica
+T1085	IndustryWorkplace 106308 106325	mining operations
+T1086	IndustryWorkplace 106402 106406	mine
+T1087	OccupationJobTitle 106618 106629	bus drivers
+T1088	OccupationJobTitle 106659 106668	mechanics
+T1089	SubstanceOrExposureMeasured 106731 106733	EC
+T1090	SubstanceOrExposureMeasured 107109 107115	quartz
+T1091	SubstanceOrExposureMeasured 107121 107136	respirable dust
+T1092	SubstanceOrExposureMeasured 107170 107187	respirable quartz
+T1093	SubstanceOrExposureMeasured 107615 107617	EC
+T1094	SubstanceOrExposureMeasured 107620 107622	OC
+T1095	SubstanceOrExposureMeasured 107625 107627	TC
+T1096	SubstanceOrExposureMeasured 107630 107632	BC
+T1097	SubstanceOrExposureMeasured 107637 107643	PM 2.5
+T1098	OccupationJobTitle 108282 108288	miners
+T1099	IndustryWorkplace 108356 108367	potash mine
+T1100	IndustryWorkplace 108372 108376	mill
+T1101	OccupationJobTitle 108490 108517	tunnel construction workers
+T1102	IndustryWorkplace 108543 108561	construction sites
+T1103	SubstanceOrExposureMeasured 108637 108652	respirable dust
+T1104	SubstanceOrExposureMeasured 108678 108684	quartz
+T1105	OccupationJobTitle 108759 108770	dockworkers
+T1106	IndustryWorkplace 108774 108783	terminals
+T1107	SubstanceOrExposureMeasured 108842 108844	EC
+T1108	SubstanceOrExposureMeasured 109108 109110	EC
+T1109	SampleTypePersonal 109140 109168	Personal Exposure Monitoring
+T1110	JobTaskactivity 109169 109186	Field preparation
+T1111	JobTaskactivity 109218 109225	harvest
+T1112	SubstanceOrExposureMeasured 109519 109529	total dust
+T1113	OccupationJobTitle 109568 109581	train drivers
+T1114	IndustryWorkplace 109661 109678	Mining operations
+T1115	SubstanceOrExposureMeasured 109787 109793	quartz
+T1116	SubstanceOrExposureMeasured 110085 110100	Respirable dust
+T1117	IndustryWorkplace 110114 110136	table grape operations
+T1118	JobTaskactivity 110150 110162	leaf pulling
+T1119	IndustryWorkplace 110527 110548	underground locations
+T1120	SubstanceOrExposureMeasured 110592 110596	dust
+T1121	SubstanceOrExposureMeasured 110749 110764	respirable dust
+T1122	SubstanceOrExposureMeasured 110769 110786	respirable quartz
+T1123	IndustryWorkplace 110926 110939	apparatus bay
+T1124	IndustryWorkplace 110995 111009	Blasting areas
+T1125	OccupationJobTitle 111107 111118	coal miners
+T1126	SubstanceOrExposureMeasured 111130 111146	diesel emissions
+T1127	OccupationJobTitle 111154 111160	miners
+T1128	OccupationJobTitle 111274 111286	fire fighter
+T1129	SubstanceOrExposureMeasured 111330 111347	total particulate
+T1130	SubstanceOrExposureMeasured 111572 111581	emissions
+T1131	SubstanceOrExposureMeasured 111955 111971	diesel emissions
+T1132	OccupationJobTitle 112016 112022	miners
+T1133	SubstanceOrExposureMeasured 112124 112126	CO
+T1134	SubstanceOrExposureMeasured 112129 112131	NO
+T1135	SubstanceOrExposureMeasured 112136 112139	NO2
+T1136	IndustryWorkplace 112447 112453	office
+T1137	IndustryWorkplace 112456 112466	engine bay
+T1138	IndustryWorkplace 112471 112480	mess area
+T1139	SubstanceOrExposureMeasured 112511 112526	respirable dust
+T1140	SubstanceOrExposureMeasured 112812 112815	RSP
+T1141	OccupationJobTitle 112916 112922	miners
+T1142	SubstanceOrExposureMeasured 112934 112950	diesel emissions
+T1143	OccupationJobTitle 113309 113324	surface workers
+T1144	SubstanceOrExposureMeasured 113350 113356	diesel
+T1145	SubstanceOrExposureMeasured 113414 113416	RD
+T1146	SubstanceOrExposureMeasured 113421 113424	RCD
+T1147	SubstanceOrExposureMeasured 113604 113619	respirable dust
+T1148	SubstanceOrExposureMeasured 113662 113679	respirable quartz
+T1149	IndustryWorkplace 113737 113745	terminal
+T1150	SubstanceOrExposureMeasured 114156 114162	quartz
+T1151	SubstanceOrExposureMeasured 114209 114219	total dust
+T1152	OccupationJobTitle 114256 114280	outdoor concrete workers
+T1153	OccupationJobTitle 114292 114313	shotcreting operators
+T1154	SubstanceOrExposureMeasured 114344 114346	EC
+T1155	SubstanceOrExposureMeasured 114363 114388	diesel particulate matter
+T1156	SubstanceOrExposureMeasured 114441 114447	quartz
+T1157	IndustryWorkplace 114451 114458	farming
+T1158	IndustryWorkplace 114471 114475	Mine
+T1159	SubstanceOrExposureMeasured 114631 114635	dust
+T1160	IndustryWorkplace 115037 115044	station
+T1161	SubstanceOrExposureMeasured 115061 115075	Diesel Exhaust
+T1162	SubstanceOrExposureMeasured 115085 115099	Diesel Exhaust
+T1163	JobTaskactivity 115121 115150	drill holes through the block
+T1164	IndustryWorkplace 115161 115166	crane
+T1165	JobTaskactivity 115215 115238	lift the concrete block
+T1166	SubstanceOrExposureMeasured 115248 115255	hopanes
+T1167	SubstanceOrExposureMeasured 115260 115268	steranes
+T1168	IndustryWorkplace 115285 115289	mine
+T1169	SampleTypePersonal 115301 115317	personal samples
+T1170	SubstanceOrExposureMeasured 115336 115343	hopanes
+T1171	SubstanceOrExposureMeasured 115401 115409	steranes
+T1172	IndustryWorkplace 115579 115587	railroad
+T1173	SubstanceOrExposureMeasured 116016 116022	silica
+T1174	SubstanceOrExposureMeasured 116129 116131	EC
+T1175	OHMeasurementDevice 116186 116220	37-mm-diameter open-face cassettes
+T1176	SubstanceOrExposureMeasured 116839 116845	quartz
+T1177	SubstanceOrExposureMeasured 116859 116874	respirable dust
+T1178	OccupationJobTitle 117071 117085	carmen welders
+T1179	JobTaskactivity 117110 117117	welding
+T1180	SubstanceOrExposureMeasured 117135 117152	respirable quartz
+T1181	SubstanceOrExposureMeasured 117235 117237	TC
+T1182	OccupationJobTitle 117256 117259	WTO
+T1183	SampleTypePersonal 117260 117276	personal samples
+T1184	OccupationJobTitle 117360 117367	linemen
+T1185	IndustryWorkplace 117564 117575	locomotives
+T1186	SubstanceOrExposureMeasured 118318 118333	respirable dust
+T1187	SubstanceOrExposureMeasured 118338 118344	quartz
+T1188	SubstanceOrExposureMeasured 118606 118612	quartz
+T1189	IndustryWorkplace 118739 118745	citrus
+T1190	IndustryWorkplace 118750 118772	table grape operations
+T1191	IndustryWorkplace 118826 118830	farm
+T1192	SampleTypePersonal 118886 118907	Personal measurements
+T1193	SampleTypePersonal 118951 118967	personal samples
+T1194	JobTaskactivity 119033 119040	burning
+T1195	SubstanceOrExposureMeasured 119041 119057	elemental carbon
+T1196	SubstanceOrExposureMeasured 119473 119477	dust
+T1197	SubstanceOrExposureMeasured 119482 119496	diesel exhaust
+T1198	SubstanceOrExposureMeasured 119700 119702	EC
+T1199	SubstanceOrExposureMeasured 119705 119707	OC
+T1200	SubstanceOrExposureMeasured 119714 119719	PM2.5
+T1201	SubstanceOrExposureMeasured 119911 119915	dust
+T1202	SubstanceOrExposureMeasured 119958 119964	PMresp
+T1203	SubstanceOrExposureMeasured 120062 120068	silica
+T1204	OHMeasurementDevice 120310 120333	high-flow-rate samplers
+T1205	SubstanceOrExposureMeasured 120346 120356	total dust
+T1206	SampleTypePersonal 120394 120411	personal sampling
+T1207	SubstanceOrExposureMeasured 120680 120694	diesel exhaust
+T1208	SubstanceOrExposureMeasured 120722 120729	exhaust
+T1209	OHMeasurementDevice 120854 120910	borosilicate glass filter holders with a fritted support
+T1210	SubstanceOrExposureMeasured 121135 121143	particle
+T1211	SubstanceOrExposureMeasured 121158 121161	NO2
+T1212	SubstanceOrExposureMeasured 121289 121291	Ce
+T1213	SampleTypePersonal 121340 121351	PBZ samples
+T1214	OccupationJobTitle 121496 121508	fire fighter
+T1215	SubstanceOrExposureMeasured 121522 121546	diesel exhaust emissions
+T1216	SubstanceOrExposureMeasured 121591 121601	total dust
+T1217	JobTaskactivity 121650 121657	welding
+T1218	OccupationJobTitle 121706 121729	tunnel concrete workers
+T1219	SubstanceOrExposureMeasured 121734 121749	respirable dust
+T1220	IndustryWorkplace 121757 121775	furnace department
+T1221	SubstanceOrExposureMeasured 121802 121805	SiC
+T1222	SubstanceOrExposureMeasured 121814 121820	quartz
+T1223	SubstanceOrExposureMeasured 121831 121843	cristobalite
+T1224	IndustryWorkplace 121878 121891	potash mining
+T1225	OccupationJobTitle 122019 122033	Shaft drillers
+T1226	OccupationJobTitle 122038 122067	tunnel-boring machine workers
+T1227	SubstanceOrExposureMeasured 122105 122128	respirable alpha-quartz
+T1228	SampleTypePersonal 122271 122288	personal exposure
+T1229	SubstanceOrExposureMeasured 122299 122301	EC
+T1230	SubstanceOrExposureMeasured 122304 122306	OC
+T1231	SubstanceOrExposureMeasured 122309 122311	TC
+T1232	SubstanceOrExposureMeasured 122316 122322	PM 2.5
+T1233	IndustryWorkplace 122354 122359	truck
+T1234	SubstanceOrExposureMeasured 122385 122393	Nicotine
+T1235	IndustryWorkplace 122437 122443	tunnel
+T1236	SampleTypePersonal 122487 122503	personal samples
+T1237	IndustryWorkplace 122524 122532	railroad
+T1238	SubstanceOrExposureMeasured 122563 122571	nicotine
+T1239	SubstanceOrExposureMeasured 122597 122614	respirable quartz
+T1240	OccupationJobTitle 122630 122645	drill operators
+T1241	SubstanceOrExposureMeasured 122680 122684	dust
+T1242	OccupationJobTitle 122713 122728	drill operators
+T1243	JobTaskactivity 122736 122744	drilling
+T1244	SubstanceOrExposureMeasured 122796 122802	quartz
+T1245	JobTaskactivity 122822 122829	farming
+T1246	SampleTypePersonal 122922 122958	personal breathing zone measurements
+T1247	IndustryWorkplace 123058 123072	oil shale mine
+T1248	SubstanceOrExposureMeasured 123095 123110	respirable dust
+T1249	SampleTypePersonal 123127 123141	breathing zone
+T1250	IndustryWorkplace 123267 123289	underground coal mines
+T1251	IndustryWorkplace 123314 123320	mining
+T1252	OccupationJobTitle 123441 123465	railroad operating crews
+T1253	SampleTypePersonal 123657 123681	personal exposure sample
+T1254	IndustryWorkplace 123814 123844	underground mining environment
+T1255	OccupationJobTitle 123866 123880	MHW collectors
+T1256	SubstanceOrExposureMeasured 123884 123886	EC
+T1257	SubstanceOrExposureMeasured 123889 123891	OC
+T1258	SubstanceOrExposureMeasured 123898 123900	TC
+T1259	OccupationJobTitle 123931 123938	drivers
+T1260	SubstanceOrExposureMeasured 124154 124156	RD
+T1261	SubstanceOrExposureMeasured 124327 124330	RCS
+T1262	SampleTypePersonal 124567 124584	personal sampling
+T1263	JobTaskactivity 124752 124778	raw materials were crushed
+T1264	SubstanceOrExposureMeasured 124936 124951	respirable dust
+T1265	JobTaskactivity 125039 125050	LHD mucking
+T1266	SubstanceOrExposureMeasured 125057 125072	respirable dust
+T1267	IndustryWorkplace 125205 125210	mines
+T1268	IndustryWorkplace 125303 125308	mines
+T1269	SubstanceOrExposureMeasured 125344 125350	Fibers
+T1270	SubstanceOrExposureMeasured 125616 125633	respirable quartz
+T1271	IndustryWorkplace 125754 125810	manufacture of ceramic household and ornamental articles
+T1272	SubstanceOrExposureMeasured 125877 125894	respirable quartz
+T1273	SubstanceOrExposureMeasured 125936 125938	TC
+T1274	IndustryWorkplace 126001 126020	trailing locomotive
+T1275	SubstanceOrExposureMeasured 126301 126316	Sulphur dioxide
+T1276	SubstanceOrExposureMeasured 126319 126322	So2
+T1277	SubstanceOrExposureMeasured 126329 126341	formaldehyde
+T1278	SubstanceOrExposureMeasured 126344 126348	CH2O
+T1279	SubstanceOrExposureMeasured 126409 126418	n-alkanes
+T1280	IndustryWorkplace 126461 126465	yard
+T1281	SampleTypePersonal 126478 126495	personal exposure
+T1282	SubstanceOrExposureMeasured 126569 126572	DEA
+T1283	OccupationJobTitle 126714 126721	drivers
+T1284	OccupationJobTitle 127043 127069	continuous miner operators
+T1285	OccupationJobTitle 127078 127087	belt crew
+T1286	SubstanceOrExposureMeasured 127410 127416	Quartz
+T1287	OHMeasurementDevice 127554 127567	DPM Cassettes
+T1288	SubstanceOrExposureMeasured 127586 127598	total carbon
+T1289	SubstanceOrExposureMeasured 127601 127603	TC
+T1290	SubstanceOrExposureMeasured 127608 127615	organic
+T1291	SubstanceOrExposureMeasured 127618 127620	OC
+T1292	SubstanceOrExposureMeasured 127627 127643	elemental carbon
+T1293	SubstanceOrExposureMeasured 127646 127648	EC
+T1294	IndustryWorkplace 127779 127790	locomotives
+T1295	SubstanceOrExposureMeasured 127813 127815	EC
+T1296	JobTaskactivity 127956 127991	loose/free jumping 2–4 young horses
+T1297	JobTaskactivity 128011 128026	jumping a horse
+T1298	SubstanceOrExposureMeasured 128202 128216	diesel exhaust
+T1299	SubstanceOrExposureMeasured 128580 128582	EC
+T1300	SubstanceOrExposureMeasured 128640 128650	ultrafines
+T1301	SubstanceOrExposureMeasured 128723 128725	TC
+T1302	SampleTypePersonal 128792 128828	personal breathing zone air sampling
+T1303	SubstanceOrExposureMeasured 128846 128861	respirable dust
+T1304	SubstanceOrExposureMeasured 128866 128872	quartz
+T1305	SubstanceOrExposureMeasured 128898 128902	VOCs
+T1306	OccupationJobTitle 129063 129076	carboselector
+T1307	SubstanceOrExposureMeasured 129172 129194	respirable fraction of
+T1308	SubstanceOrExposureMeasured 129209 129213	dust
+T1309	SubstanceOrExposureMeasured 129235 129254	Culturable bacteria
+T1310	OHMeasurementDevice 129472 129489	MSA nylon cyclone
+T1311	JobTaskactivity 129655 129671	concrete cutting
+T1312	SubstanceOrExposureMeasured 129684 129690	quartz
+T1313	SubstanceOrExposureMeasured 129746 129765	respirable particle
+T1314	SubstanceOrExposureMeasured 130138 130141	RCS
+T1315	SubstanceOrExposureMeasured 130688 130703	respirable dust
+T1316	SubstanceOrExposureMeasured 130708 130725	respirable quartz
+T1317	SubstanceOrExposureMeasured 131081 131095	Diesel exhaust
+T1318	SubstanceOrExposureMeasured 131140 131174	dichloromethane extractable matter
+T1319	OccupationJobTitle 131246 131269	cutting machine workers
+T1320	OccupationJobTitle 131272 131287	drill operators
+T1321	OccupationJobTitle 131308 131314	miners
+T1322	OccupationJobTitle 131320 131349	operators of mobile machinery
+T1323	OccupationJobTitle 131356 131368	sand fillers
+T1324	SubstanceOrExposureMeasured 131561 131566	total
+T1325	SubstanceOrExposureMeasured 131569 131578	elemental
+T1326	SubstanceOrExposureMeasured 131585 131599	organic carbon
+T1327	SubstanceOrExposureMeasured 131728 131748	carbonaceous species
+T1328	IndustryWorkplace 131785 131790	lanes
+T1329	SubstanceOrExposureMeasured 131919 131923	dust
+T1330	SubstanceOrExposureMeasured 132109 132111	EC
+T1331	SubstanceOrExposureMeasured 132118 132132	diesel exhaust
+T1332	SubstanceOrExposureMeasured 132187 132192	PM2.5
+T1333	SubstanceOrExposureMeasured 132253 132255	EC
+T1334	SubstanceOrExposureMeasured 132274 132286	total carbon
+T1335	SubstanceOrExposureMeasured 132361 132363	OC
+T1336	SubstanceOrExposureMeasured 132411 132423	total carbon
+T1337	IndustryWorkplace 132842 132851	terminals
+T1338	SubstanceOrExposureMeasured 133097 133110	respirable EC
+T1339	SubstanceOrExposureMeasured 133115 133117	OC
+T1340	SampleTypePersonal 133140 133164	workers ' breathing zone
+T1341	OHMeasurementDevice 133228 133255	25-mm SKC aluminum cyclones
+T1342	OccupationJobTitle 133375 133386	Train crews
+T1343	SubstanceOrExposureMeasured 133742 133760	crystalline silica
+T1344	SubstanceOrExposureMeasured 133793 133797	dust
+T1345	OccupationJobTitle 134081 134089	painters
+T1346	OccupationJobTitle 134093 134109	office personnel
+T1347	OccupationJobTitle 134162 134173	Maintenance
+T1348	OccupationJobTitle 134178 134204	electrical section workers
+T1349	SubstanceOrExposureMeasured 134254 134258	dust
+T1350	SubstanceOrExposureMeasured 134290 134294	dust
+T1351	OHMeasurementDevice 134442 134463	size-selector cyclone
+T1352	OHMeasurementDevice 134466 134473	Casella
+T1353	SubstanceOrExposureMeasured 134641 134658	respirable quartz
+T1354	OccupationJobTitle 134990 135001	demolishers
+T1355	OccupationJobTitle 135006 135019	tuck pointers
+T1356	JobTaskactivity 135136 135150	abrasive tasks

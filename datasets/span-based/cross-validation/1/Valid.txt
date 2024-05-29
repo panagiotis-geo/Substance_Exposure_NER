@@ -1,0 +1,1156 @@
+In general , the results were similar
+Samples in the locomotive cab were taken at the brakeman’s seat and at the console in front of the engineer
+Standards at 5 , 10 and 20 wg/mL plus a blank were run by autosampling overnight so that each set of 2 or 3 samples was preceded and followed by standards .
+The correction factor for ETS particles from nicotine concentrations was derived from environmental chamber studies and confirmed by regressing RSP on nicotine among workers in this study who were non-diesel exposed
+In Table IV , EC results from other studies are tabulated for comparison , and in Table V , the ratio of EC to TC representing various work environments has been shown where the EC is reported as percent of TC
+1980-1984
+A potential index of outdoor emissions can be based on heavy truck counts per mile collected by individual states or DOT .
+Two-tailed tests were used .
+Usually MOUDI return samples were collected only on the last day of sampling
+Pearson’s correlation coefficient was used to investigate the correlations between the exposure indicators
+Lithuania
+These models explained 15 percent and 12 percent of the variance of the dust exposures , respectively
+p < 0.01 )
+Exposure measurements were carried out on 2 consecutive working days prior to the day of health examination
+The results of the measurements of respirable dust and quartz dust for the total population and those for the three separate populations are lognormally distributed
+Upon return to the station , each firefighter started wearing his pump again
+All result showed that at no time was the ambient within the stations above any 10 Hr corrected exposure standard .
+Station 3
+Exposure to respirable dust increased when working at shoulder level or near-field worker-source distance
+Sulfur dioxide
+p < 0.01 )
+The average EC is similar to the OC in the consistency of EC among samples within a group ( except for hostlers )
+This library contains over 1,000 books , 25,000 pieces of vintage truck sales literature , over 30,000 vintage truck magazines , and 5,000 owner , repair , and sales manuals and is available to members of the society
+Traffic Volume and Road Use
+This means that results are not sufficiently accurate to enable subtle distinctions of the sort needed for optimisation , or for discrimination between alternative systems to be made
+Airborne concentrations associated with wet handling jobs would likely be low or non-existent
+Although the fibers did not have needlelike or hairlike shapes , ends of fibers were sometimes sharply pointed
+GM exposures for respirable dust above the Norwegian SiC industry-specific OEL of 0.5 mg m−3 were also found for refinery crusher operators in all plants and mix , charger , charger/mix and sorting operators in Plant C
+To provide a visual indication of peaks in smoke concentration as buses passed , a continuous sampler was also used at sites A and P , in which smoke was collected on a strip of Whatman No 1 paper .
+In underground work areas high potential exposure jobs included those of miners working at the ore face and those engaged in ore transportation while jobs in the ore diminution sections of the metallurgical areas with high exposure potential included those of crusher , milling and conveyor attendants
+Recommended guidance on engineering controls for stone masonry work involving power tools ( HSE , 2006 ) were not complied with on any of the sites visited
+However , the GM ratios for the separate plants were close to 1
+MATERIALS AND METHODS
+components
+Briefly , after each sample has been spiked with deuterated internal standards , the filter is Soxhlet extracted with toluene for 24 h
+Determinants of Dust Exposure in Tunnel Construction Work
+Methods
+The sampling and analytical error ( SAE ) for both the 10-mm nylon cyclone and aluminum cyclone using the FTIR analytical method was 0.25
+Respirable dust
+retrofitted ) , smoking habits ( smoker vs
+Generally , haulage and shuttle car locations have similar distributions for DEA ( table 5 ) , with median concentrations of 0.75 and 0.65 mg/m3 , respectively
+We toured the production areas , however , and the mine safety engineer explained the work practices and production methods
+The extracts were fractionated on silica cartridges ( Bond-Elut LRC
+One personal exposure sample from an open cab tractor towing a torch gave results of 1.83 mg/m3 total dust , 0.30 mg/m3 respirable dust , and 0.07 mg/m3 respirable quartz
+Samples for airborne amorphous silica fibers were collected with personal sampling pumps ( MSA model G ) using a 10-mm nylon respirable dust cyclone at a flow rate of 1.7 L/min
+ABSTRACT
+The shunter drivers had exposures similar to those of the local train drivers
+The exposures when work conditions were reported to be \" worse than usual \" were 6.0 mg/m3 ( GSD = 2.0 ) , 2.0 mg/m3 ( GSD = 1.7 ) , and 0.10 mg/m3 ( GSD = 3.8 ) , respectively
+The SAE for the aluminum cyclone using the XRD analysis was 0.16 .
+Mean area background and truck bay TC concentrations were 18 and 121 pg/m5 , respectively
+Seven of the same 23 samples have also been included as surrogate personal exposure samples for conductors/trainmen
+Most of the RCS ( quartz ) masses collected with the high-flow-rate samplers were above the limit of detection ( 62 % to 84 % ) relative to the low-flow-rate samplers ( 58 % to 78 % )
+The other sampling locations—haulageway , shuttle car , and scientist—were located near mining personnel and diesel activity
+2 ) .
+Although the measurements were quoted as respirable dust , the sampling method was for total respirable dust
+Measurement uncertainties presented for these data are the larger of the one-sigma standard deviations between tests or the root mean square of the analytical measurement uncertainties ( SQRT ( ( replicate precision ¤ analyte concentration ) 2 C ( analyte detection limit ) 2 )
+Farm , agricultural activity , and relative humidity were the most significant determinants of respirable silica exposure in the regression analyses ( Table IV )
+These differences increased in statistical significance when smokers were excluded from the analysis .
+Site 11 is a railway station where engines may be left running while trains are standing at platforms
+Sometimes the space was isolated from adjacent spaces using plastic sheeting , whereas at other times there was no isolation
+8 times less than the LOC ( 0.1 mg/m3 EC ) .
+The agreement between the estimated exposure in the first time period by the historical model and the last time period by the development model showed a regression coefficient ( B ) = 2.42 , 95 % confidence interval ( CI ) 1.99–2.84 , an intercept value of 0.018 and an R2 value of 0.81 ( Fig
+EXECUTIVE SUMMARY
+Sampling times for the PDEAS and MOUDI varied with aerosol concentration and mining activity to avoid overloading the impaction substrates and to minimize particle bounce
+A total of 19 side-by-side sample replicates for each high-flow and low-flow sampler pair were collected from work tasks involving limestone and sandstone
+The geometric mean exposures of the workers at the other sites ( B , C , D ) were 48 percent ( total dust ) , 55 percent ( respirable dust ) , and 87 percent ( ⍺-quartz ) lower than those of workers at job site A
+These time-weighted average exposure measures are used to estimate dose-response relations , and are also used as surrogate measures of the total diesel exhaust exposure .
+No significant differences were observed in NO , , CO , and SO , STELs , and SO TWAs when
+Exposure to sulphur dioxide was generally low
+The LOD and LOQ for the analysis were 0.01 and 0.03 mg/sample , respectively .
+Concentration by State
+The fiber analysis required an average of a full day of electron microscopy per sample
+However , the conductor generally spends slightly less time in the cab due to the need to inspect the train prior to a run
+The relationship between acoustic rhinometry data prior to nasal decongestion and the covariates occupational group and age were investigated by means of analysis of variance ( ANOVA )
+The sample collection method was modified by increasing the volume of air drawn through the filter from 2.5 to 2.75 l min−1
+Five of the 10 states with the highest mean concentration are Rocky Mountain States , Nevada , Utah , Montana , Colorado , and Idaho .
+Therefore , the data reported do not reflect the distribution of trucks operated by each company , and how accurately these data represent long-haul and P & D trucks driven by unionized trucking company workers is uncertain .
+The mean total carbon concentrations were over 4-fold higher in the bus and truck lanes ( mean 167.7 , SD 79.8 µg/m3 , n = 59 shifts ) compared with the two types of car lanes , with cash payment ( mean 39.2 , SD 29.5 , n = 54 shifts
+Exposures exceeding the NIOSH REL for silica of 0.05 mg/m3 included 63 percent ( 17 ) of the laborers , 40 percent ( 2 ) of the operating engineers , and 50 percent ( 1 ) of the ironworkers .
+Study design
+However , with instances of very high exposure , even when average exposure over time is at or below an acceptable exposure limit , the risk of silicosis appears to be higher than a linear model would predict [ Smith , 1992
+The strongest correlations were observed between inhalable dust and endotoxin in citrus ( r = 0.877 ) and inhalable dust and total microorganisms in table grapes ( r = 0.894 )
+All measurements were performed between May and November 1999
+Interestingly , the quartz concentrations were found to change little between 1946 and the 1970s for quarry , wet process , drying , and milling workers
+The considerable spread of values obtained is noteworthy
+In the analysis a ranking of the building material is used according to its quartz content
+Samples were wet sieved through a 63-μ sieve in order to separate sand from silt and clay
+Values below the limit of detection were treated as follows : readable values above the background noise level were directly applied in calculations and modelling , while non-readable values were substituted with the lowest readable value divided by the square root of two ( Eduard , 2002 ) .
+The respirable < 7 µm dust thus collected was measured by weighing the filters before and after sampling
+Dilution of on the-road emissions entering the cab depends on the distance between vehicles and their average speeds , both of which affect the amount of turbulent mixing
+As mentioned earlier , noise exposure of the crew was also measured during this survey
+Table 3 shows respirable crystalline silica exposure profiles for the 7 selected exposure groups
+Samples 8–14 in Table I indicate a potential for quartz concentrations to exceed the assigned protection factor ( APF=25 ) for the continuous flow type CE respirator being used .
+This samples the fraction of particles that enter the nose and mouth with a 50 % cut-off point of particles with a diameter of 100 mm
+The highest geometric mean ( GM ) exposures to total dust ( 6-7 mg/m3 ) and respirable dust ( 2-3 mg/m3 ) were found for the shotcreters , shaft drillers , and tunnel-boring machine workers
+The first samples collected were harvest samples , and therefore the first samples analyzed were harvest samples
+The TWA values for each worker are presented in S2 File
+The saw was driven by two-stroke engine with a capacity of 65 cm3 and a nominal speed of 5100 rpm
+In addition to the application of coatings by brush or spray , painters also cleaned surfaces ( usually with compressed air ) , did surface preparation ( touch ups , filled dents on surfaces , and grinding ) and did work site clean-up
+In addition , neither company had developed a written respiratory protection program as required by OSHA or an effective silicosis prevention program .
+The time-weighted average concentration of silica for exposed and unexposed participants can be seen in Table 2
+To investigate the impact of the exposure modifying factors , a \" baseline \" working condition was defined and only the category levels for a single category were allowed to vary
+One area sample in the turnaround area produced an extreme EC-C concentration of 0.025 mg/m3 , considerably higher than other area samples , except those taken on board locomotives
+The companies invited to participate in he feasibility study are the 4 largest national , unionized , less-than-truckload freight carriers in the United States
+The alfa-quartz content in the respirable dust sample was measured by using the FT-IR PE-1600 spectrophotometer
+METHODS
+Exposure data were analysed using mixed-effects modelling to investigate determinants of RCS exposure and their contribution to the individual’s mean exposure
+Summary statistics of particle concentrations observed in driver cabs are presented in Tables I-III by job description , smoking , and predicted window status , as well as the ambient conditions observed at the home terminal during the sampling trips
+Note that the efficiency of local controls is expressed as a fraction , and that the multiplier used to obtain the reduction in active emission due to the controls is expressed as 1 minus the efficiency of the controls
+The research team drove the van on the hard shoulder of the road , while traffic ran at 70 kph in the left lane
+A direct-reading instrument was employed as a means of evaluating multiple exposures to the same agent on site and for those trades where traditional task-based sampling did not yield meaningful results because of the task duration being too small
+The excavation work was finished , and the study was performed during on-going concrete work
+Concentrations in the pre-control data were found to follow a lognormal distribution
+ABSTRACT
+Population characteristics were obtained from the questionnaire administered to the construction workers ( van Deurssen et al. , 2014 ) .
+This may be due to the loamy sand and sandy loam soil types in the regions in this study
+Hypothesis of log normal distribution of exposure data could not be rejected ( Shapiro-Wilk statistic : 0.97
+RESULTS
+Spirometry was performed using a pneumotachograph ( Vitalograph , Birmingham , UK ) which was calibrated daily by a 1 L syringe
+These three counties were among those with the highest potential for exposure to respirable quartz due to the soil type , respirable quartz content of the soil , and amount of harvested cropland ( Stopford , personal communication )
+Particle number size distribution of ultrafine particles as measured by an SMPS at a road paving site is shown in Figure 2
+Symptoms and Pulmonary Function
+Air concentrations were summarized by geometric means ( GM ) , GSD , minimum concentrations ( Min ) , and maximum concentrations ( Max ) using maximum likelihood estimation ( MLE )
+To test whether the individual PAC median value for the
+The remainder of the job categories had moderate or low exposures to respirable dust .
+The mean levels of TC for the collectors , smokers , workers on larger trucks , and on trucks meeting Euro Standard 3 were significantly higher than the levels of the drivers , non-smokers , workers on smaller trucks , and those working on trucks meeting Euro Standard 4
+Wet concrete was applied using a remote controlled nozzle application
+To calculate the various statistics , gas detector tube results recorded as less than the limit of detection were assigned values equal to half the limit of detection as follows : carbon monoxide 3 p.p.m .
+The subjects were evaluated for FEV1 , FVC , biomarkers in sputum , and respirable dust both before and during mucking operations
+General aspects of measurement strategy
+the EC ratio is only 1.65 compared with over 9 for hopanes
+The selected toll station was located on the First Highway , 10 km south from Taipei City
+Latvia
+Work site clean-up was generally conducted using dry sweeping , shovelling , or compressed air
+This analytical descriptive study was done among two groups of exposed and unexposed workers of an insulator manufacturing plant from June to August 2015
+The logistic regression analysis was therefore applied to the original multivariate data set , and the response variable was defined as respirable quartz values greater than 50 µg.m−3 .
+Andersen Instruments , Atlanta , GA )
+The semi-continuous analyzer collects sample for 1 h , and then analyzes them for 1 h , resulting in 12 h of measurement every day
+Experiments conducted using the LHD were employed in a conventional 4 m*4 m tunnel decline
+The corresponding values for total carbon in the study by Lewne et al
+Respirable quartz concentrations are expressed as an 8-hr time-weighted average ( TWA ) in micrograms per cubic meter ( µg.m−3 ) .
+The airborne concentrations of the crystalline constituents in the individual samples were then obtained by multiplying the concentration of respirable dust with the percentage of crystalline constituents detected in the combined sample .
+The DOT maintains information on traffic counts on all of the federal and statewide highways starting in 1970 .
+and 2 ) two weighings of both the tare weight and gross weight were performed
+over 8 h for Draeger tube , 250 p.p.m
+Limited sampling was also conducted among dock workers at one additional breakbulk terminal and among me­chanics at a small , independent truck repair shop
+But also cements are normally finely ground when manufactured and the cement component of the paving kerb , breeze block and facia block may have more particles in the respirable size range to begin with
+Locomotives are brought into this area for inspection and tuning
+All collected samples were analyzed for their tridymite , cristobalite , and quartz contents by using the X-ray diffraction method
+Workers potentially exposed to silica exposure in stonework masonry ( SIC 1741 ) , plastering drywall work ( SIC 1742 ) , and tile , marble , and mosaic work ( SIC 1743 ) were estimated at 44,989 employees
+The distribution by years worked was highly skewed with a mean of 9.5 years and median of 5.2 years
+Meteorological Data
+Figures 2 and 3 show the relationship between respirable dust and elemental carbon and organic carbon , respectively , for personal samples
+MATERIALS AND METHODS
+ASSESSMENT OF CONTROLS
+the filters were composed of felted layers of salicylic acid crystals [ Hatch et al. , 1947 ]
+The University of Minnesota and the U.S
+The study was prompted by concerns regarding lead , noise , and other hazards typically associated with demolition and construction activities , and was conducted in cooperation with the university’s Office of Environment , Health , and Safety , as well as a general construction contractor and several special trade subcontractors
+These measurements were obtained using Sensidyne 5LC colorimetric detector tubes ( Sensidyne , Inc. , Clearwater , FL )
+This would be expected due to outside air being drawn into the station areas through air conditioners , and little ventilation within the station areas c.f the engine bays
+No significant models for total dust exposure were found ( Table XII ) .
+In contrast , the total sulfur concentra­tion agreed within 21 % between the 2 samplers
+The same task was done over the longer shifts so the 8-hr assessment was likely to be representative of exposure during the shift on that day .
+In contrast , in the local government where Company D is located , CBA is collected separately and sent to coal briquette recycling facilities where it is used as an industrial resource
+This indicates that the former workers were exposed to significantly higher fractions of OC compared to EC .
+The limit of detection for the gravimetric analysis was 14 pg for Mylar® filters and 12 pg for PVC filters
+Analyses for EC were possible , however , and the measured concentrations were in the range of 96.5 to 377.2 µg/m3 with a GM of 202.4 µg/m3 ( Table 10 )
+Results
+Diesel Exhaust
+The PVC filters were used for gravimetric analysis
+angle grinders
+Subjects were fitted with either a nylon cyclone or a pDR sampling device on each sampling day
+This data will allow investigators to match speed , acceleration , elevation , and location with the various exposure peaks and spikes apparent in the real-time data to determine their causes more accurately .
+Also deleted were 15 samples from this data set that were analyzed for cristobalite
+At least 5 min were allowed to elapse between determinations of closing volume and transfer factor , respectively , to avoid influences of different gas mixtures .
+Personal samples ( EC , OC , gases ) were taken on the controllers ( three each day ) over their work shift , excluding break periods
+Samples within plant and job groups were combined , if possible , from the same persons
+These results strongly suggest , however , that this cohort experienced a wide range of exposures to diesel exhaust and that the source-receptor approach is useful for analyzing the exposure
+The highest mean tho­racic dust exposures were found in installation of drop ceilings and wall tiles , excavation support work , pipejacking , and laying conduit/pipe in trenches
+225-5-7 ) with a 37 mm diameter and a 5 µm-pore size
+however , high exposure to fibres and respirable dust still occurs in the furnace department .
+The study was approved by the institutional review boards of the University of North Carolina School of Public Health and the National Institute of Environmental Health Sciences .
+Most of the fibre sampling ( 90 % ) was initiated during the first half of the shift due to practical considerations
+There were 39 sampling sessions conducted to collect 6365 min of data with an overall GM of 0.66 mg/m3 ( GSD=3.07 )
+The mixed-effects model is described by the following equation :
+Correlations were also studied for the other groups but we did not find any uniform pattern for the correlations , except for EC and TC which correlated strongly ( P < 0.01 ) as were expected .
+The Norwegian OEL for mixed respirable dust is 0.5 mg m−3 in the furnace department and furnace-related areas of the SiC industry ( The Norwegian Labour Inspection Authority , 2007 )
+In all other sections the percentage of quartz in the respirable dust was between 24 % and 33 % and the TLV of 0.1 mg/m3 was exceeded ( table 3 ) .
+1999 )
+This is a direct-reading aerosol monitor based on detection by ( IR ) light scattering that responds to particles in the range of 0.1-10 µm with a dynamic range of 0.001 to 400 mg/m3
+Whereas in the past they performed most major engine and body repair on company trucks in house , currently they are responsible primarily for preventive maintenance , such as oil and tire changes
+Group A ( tunnel construction workers ) included six workers engaged in the construction of a road tunnel in Stockholm
+Carbon monoxide was not measured , as this gas was not expected to induce chronic respiratory effects
+Study objectives and dust exposure
+Through visits for 1 to 2 days with senior management , personnel managers , and record managers at the 4 trucking companies , the extent of computerized records and the type and quality of information available were assessed
+underground work areas of the mine and sections of the metallurgical works of the mine that deal with ore diminution ( crushing and milling ) and handle tailings .
+Stationary sampling was performed on Nucleopore filters ( polycarbonate ) with a diameter of 25 mm and pore size of 0.2 µm , coated with carbon before sampling , in Dewell-Higgins cyclones , coupled with a vacuum pump ( Becker Equipment Inc. , Wuppertal , Germany ) connected to a gas meter at a flow of 2 L/min
+In general , levels of the individual markers were lower in yard samples than in corresponding indoor samples from the same terminal .
+The inorganic and quartz content dust variables were both highly correlated with the total respirable particulate
+RESULTS
+The rationale behind the grouping was to have as many different groups as reasonably possible but to have as many measurement results as necessary behind each group for a statistically meaningful evaluation .
+METHODS
+The GM of RD was 0.27 mg/m3 ranging from no detectable RD during wood work to a maximum of 1.50 mg/m3 when installing gypsum on walls
+The NIOSH recommended standard for nitrogen dioxide exposure contains a fifteen-minute ceiling value of 1 ppm
+Repair shops and service areas are usually located in one or more separate buildings on the terminal site
+Data are presented in detail in the tables of Appendix A .
+Amorphous silica fibers were seen on many of the samples
+Eight common construction tasks were evaluated for quartz and respirable dust exposure by collecting 113 personal task period samples for cleanup
+In this study , both parametric and non-parametric statistics are reported , with a general finding that they are consistent , and lead to identical or near identical conclusions .
+Performance of High-Flow-Rate Samplers for Respirable Crystalline Silica Measurement Under Field Conditions : Preliminary Study
+None of the subjects were current asthmatics and no subjects reported taking anti-inflammatory medications
+X=1/N Σ Xi.X
+A Comparison of Sampling and Analytical Methods for Assessing Occupational Exposure to Diesel Exhaust in a Railroad Work Environment
+Worker participation was voluntary , and subjects were recruited in coordination with the organization’s Health and Safety unit and depot managers .
+A number of PPE lockers were open areas attached to the engine bays
+This is because many local governments do not operate dedicated CBA jobs , and CBA workers were difficult to recruit as research subjects
+Catalytic particle filters of diesel exhausts are one method of rendering the emissions less irritant , although they will not remove irritant gases
+Air sampling measurements were collected over an eight hour work shift
+In other companies , some of the managers of smaller terminals and persons whose job title was listed as trainee were union members
+Actions to further minimise fire fighter exposures and improve fire fighter personal protective clothing storage at the participating fire stations , other fire stations and future fire stations
+Respiratory protection equipment was used at 30 % of the construction sites
+A fourth company , manufacturing large products which did not follow the occupational safety and health program ( Factory D
+One personal exposure sample appeared to be an outlier , EC concentration was near zero and hopane levels were also very low , which had an impact on the hopane regression statistics
+ABSTRACT
+Because slab sawing was done on four separate days , further data analysis was performed to better characterize slab sawing
+A consent form was signed by all of the workers involved
+The protocol for the initial five mines included sampling underground mine maintenance and production workers for 5 consecutive days
+On the surface , the mechanics had the highest exposures ( 31 ug/m3 )
+each job group was handled in a similar manner
+The mean mutagenicity +S9 among cigarette smokers unexposed to diesel ( clerks , carmen ) , adjusted for urinary cotinine , ambient nicotine ( ETS ) , and the standard mutagen was 3.18 revertants/p~mole creatinine ( Table 4 )
+In ( Ave EC conc ) = 2.538 + 0.72*z ( r2 = 0.98 )
+These models for the drill and blast workers explained 27–38 percent of the variance of the three types of dust exposures .
+Field sampling was conducted over a period of 7 days between 26 June and 18 September 2014
+Smoking pack-years were calculated by summing the products of average daily smoking amount in 20-cigarette packs and smoking duration in years
+Exposure to Dust and Particle-associated 1-Nitropyrene of Drivers of Diesel-powered Equipment in
+In regression analysis , the distribution of residuals was checked by graphical means
+On the other hand , the 1946 study commissioned by the silica sand industry probably indicated concern about silicosis risk among employees , possibly leading to process changes or environmental controls to reduce workers ' exposures
+as high as 480 yg/m3 , The table contains both measured levels of total suspended particulates and the number of runs per 8-hr period ( runs/ shift )
+Respirable aerosol concentrations are also similar at the haulage and shuttle car locations , and again the return airway respirable aerosol concentrations are higher than concentrations in the haulageway and on the shuttle cars
+The prevalences of eye symptoms , headaches , difficult or labored breathing , nausea , and wheeze were higher among the garage workers , while the prevalence of sneeze was higher among the battery workers ( Table 3 ) .
+Filters were weighed individually and then composited by job group within each railroad for further analysis
+However , the data will be useful in assessing how conditions have changed over time if a year- by-year analysis can be provided .
+To reduce dust levels in the indoor arena , occasionally , the surface was dampened using a water hose mounted on a ladder ( approximately 3 m high ) , which was moved around the arena for a maximum of one hour
+Databases maintained by the Federal Highway Administration and the Bureau of Transportation Statistics , both in the US Department of Transportation ( DOT ) , were identified and reviewed to determine the nature of current and historical information on highway traffic counts and road use by different types of vehicles .
+Concrete drillers in the intervention group used control measures for a significant greater proportion of time spent on abrasive tasks during follow-up , compared to baseline ( P < 0.05
+Specifically , highest ARPs were seen for the shop workers , who have the highest exposure to diesel exhaust , and lower ARP levels were obtained for the other job categories , which have little or no diesel exposure
+In mine dust no 1-NP was detected
+Two concrete cutting and drilling companies were interested in characterizing workplace exposures to silica and respirable dust , in order to develop or enhance existing respiratory protection policies
+Neither local exhaust ventilation ( LEV ) nor mechanically assisted dilution ventilation was present at any of the depots investigated .
+Occupational exposure to crystalline silica has been linked to silicosis , some forms of cancer , and certain autoimmune diseases
+Organic carbon , PAHs and alkanes show similar lack of correlation between personal and area samples as was seen for the dockworkers
+A stringent driving schedule incorporating loaded and unloaded cycles was used that represented as much as possible the normal driving cycle of the vehicle if it were being used underground ( total time for the cycle was 5 hours )
+RD samples were collected and analysed gravimetrically according to HSE MDHS 14/4 , the limit of detection ( LOD ) for RD was 0.05 mg
+We used NO2 as an indicator of the gas phase .
+To compare sampling methods , several samplers were hung side-by-side in the turnaround and heavy repair areas and on board the locomotives
+P and D drivers remain local and drive within the city , whereas long-haul drivers travel between cities
+1.5 times higher than the average outside concentration , but similar to the Loganlea outside average ( 44 ppb ) , and considerably less than the 10 Hr corrected exposure standards for any of the individual aldehydes such as formaldehyde and acrolein .
+DryCal DC-Lite primary flow meter
+The VOC , simple inorganic compounds and PAH values were below the established LOCs
+Individual firefighters averaged five alarms of 17 min total duration per alarm
+The super- natant was analyzed in duplicate for interleukin 1 beta ( IL- 1β ) , interleukin 4 ( IL-4 ) , interleukin 6 ( IL-6 ) , interleukin 8 ( IL-8 ) , IL-10 , and tumor necrosis factor alpha ( TNF-α ) using commercially available ELISA kits ( Biosource International , Camarillo , CA )
+A total of 40 % of the fiber , 55 % of the quartz , 73 % of the cristobalite , and 7.6 % of the SiC samples were below LOD
+The sample PVC filters were ashed in a muffle furnace , dispersed ultrasonically , and filtered on silver membranes
+among the other male unionized workers combined ( 42.0 % ) but not significantly so ( P = 0.10 )
+Larger social influence seemed associated with increased quartz exposure levels only ( P < 0.01 )
+The current study updated the population with 3,663 cases and 4,805 controls from the TORONTO , CAPUA ( Cáncer de Pulmón en Asturias ) , and ICARE ( Investigation of Occupational and Environmental Causes of Respiratory Cancers ) studies in Canada , Spain , and France , respectively ( Supplementary Table 1 )
+Truck Registration and Use Data
+were 19.7 μg TC/m3 and 9.5 μg TC/m3
+For indoor spaces the far field is defined by the boundary walls of the space , while outdoors the far field is defined as being within 10 m of the subject
+Detailed data on the number of exposed workers by industrial sector and gender are shown in Table 3 .
+• fertilizing : sowing of mineral fertilizers , fertilizing with natural fertilizers ;
+The following authentic standards were used for quantifying hopanes and ster­anes : C27 20R -5®,14®,17®-cholestane ( purchased from Aldrich ) , and 17^ ( H ) , 21^ ( H ) -hopane ( purchased from Chiron AS , Norway )
+A multiple comparison of means test in SAS yielded three statistically different exposure groups when compared at the alpha = 0.1 significance level
+The sampling flow was 1.7-2.1 L.min-1
+Sputum cell findings
+The LOD and LOQ for quartz were 10 μg/sample and 33 μg/sample , respectively while the LOD and LOQ for respirable dust were 30 μg/sample and 87 μg/sample , respectively .
+MSP Corp. , Minneapolis , MN ) were implemented at the U site to provide size-resolved chemical characterization
+In addition , the interaction term between job and climate was highly significant ( p < 0.0001 ) .
+These consisted of either flexible ducts connected to a central duct system and exhaust fan or drive-under canopy exhaust hoods located at each repair bay .
+The time was also noted each time the vacuum cleaner bag was changed in order to determine how long it took the vacuum cleaner to reach its capacity
+In short , there was no common thread indicating consistent interacting effects by particular subgroups .
+The use of potency equivalence factors ( PEFs ) allowed the studied PAC concentrations to be expressed as benzo [ a ] pyrene equivalents ( B [ a ] Peq )
+For each combination of job title and company size , the average exposure was estimated in each model , resulting in 33 comparisons
+In addition to the ambient and personal samples , micro-orifice uniform deposit impactor samplers ( MOUDI
+shaft drilling and shotcreting ) because overloading of the sampling filters was anticipated
+The indoor workers in Group B ( garage workers—diesel ) had statistically higher levels of NO2 than Groups C–G , and for some of the other indicators , both Group B and Group C ( garage workers—petrol ) had higher levels than the outdoor workers in Group E ( other outdoor workers exposed to diesel exhaust ) and the drivers in Groups F and G .
+Results were reported as milligrams of crystalline silica ( quartz ) per cubic meter of air
+The paired sample t-test was used to compare lung function data , which was normally distributed
+GM exposures > 10 μg m−3 were found among the cleaning operators in Plant A , sorting operators in Plants B and C and the mix , charger and payloader operators in Plant C
+The coefficients of variation are of the same order as those found in repeated determinations on general atmospheric smoke ( Commins , to be published ) .
+All depots contained one stone cutting workshop which contained the following tools : a water-cooled primary cutting saw and hand tools including disc polisher/cylinder polisher
+Total extractable organic compounds were determined gravimetrically on an aliquot of a methylene chloride extract of the sample , which was evaporated to dryness
+All extraction and testing were carried out in a room fitted with yellow fluorescent lights to minimize potential photooxidation .
+Statistical differences of air concentrations between job groups were observed for all contaminants , except for OC , EC , and ammonia ( P > 0.05 )
+For respirable quartz , the temporal trend was actually reversed with increasing exposure concentrations during those years ( +4.1 % per campaign )
+The samples were collected at a flow rate of 3.4 l/min
+DUST CONCENTRATIONS
+Pre- and post-control air sampling was conducted for diesel exhaust constituents in two firre stations
+The ore was processed during two 12 h shifts that required 80 miners , 20 mobile equipment mechanics , 4 fixed-maintenance mechanics , and 4 electri­cians
+The reading range of the instrument is 1lg/m3–4x105lg/m3
+METHODS AND FINDINGS
+Table IV lists the correlation coefficients relating in-cab particle measurements to observed terminal background conditions , as well as EPA AIRS measurements of PM2.5 and CO within a 50–100 km radius of the terminal ( not route specific )
+However , for the personal sample , only 13 percent of the total mass was in the respirable range ( < 3.5l m ) , and for the area sample 30 percent was in the respirable range
+Most of the uncertainties reflect the standard deviations between averaged samples , as the between sample variability was greater than the analytical uncertainty in most cases
+Based on information gathered from the walkthrough , special trade subcontractor in 11 occupational groups having potential exposure to crystalline silica , lead , diesel exhaust , and noise were selected for quantitative assessment during a three-day follow-up survey conducted in June 2000
+Respirable dust and quartz run-time average concentrations by activity are presented in Table II
+The holders were again connected by vacuum tubing to a bellows-type pump , a flowmeter , and a dry gas meter
+Numerical values of outliers may or may not be shown
+This problem will be further compounded by the introduction of lower occupational exposure standards for RCS
+Both are associated with cumulative exposure , that is , Exp = ΣCiTi , ( Ci = average concentration for time interval i and Ti = its duration ) and is typically expressed with the units , mg-years/m3 .
+Information on the numbers and vital status of relevant members of the Central States Pension Fund and theWestern Conference Pension Trust was obtained
+These results indicate weak dust monitoring at these mines which may increase the risk of nonmalignant disease in many miners
+All but one were neversmokers
+The proportion of RCS sampled in the respirable dust was greater with the SIMPEDS combinations than with the 10-mm nylon combinations , and there was more variability in the proportion of RCS in respirable dust in the 10-mm nylon trials ( 0.2 to 0.4 , compared with 0.6 to 0.7 for SIMPEDS )
+Multiple regression analysis was performed to identify the main exposure determinants for EC and OC
+This produced a second exposure index , the adjusted respirable particle concentrations
+L = exposure limit for respirable dust ( mg/m3 ) and
+All other divisions including management , human resources , and hospitality services , were not included in the study .
+The LOD for cristobalite on the filters is 0.015 mg and the LOQ is 0.03 mg .
+There are 20 tollbooths , 10 used to collect the toll from traffic from Taipei City to Taipei County ( from north to south ) , and the remaining 10 booths collect toll from the opposite traffic flow
+( iii ) management support of proactive health and safety culture ( e.g
+Crystalline silica is a commonly used mineral in various industries and construction activities , and it is so important introducing potential biomarkers to identify early indicators of biological effects in its high-risk occupational exposures .
+Instrument calibrations were made at least every hour .
+The EC data for the lead locomotive are displayed in Figure 6
+The cyclone sampler with a heat treated quartz filter ( Gelman Sciences Pallflex , Ann Arbor , Mich. ) was used to collect samples for elemental and organic carbon analysis ( diesel particulate )
+RESULTS
+Sputum samples were diluted with 10 % Sputolysin® ( Cal- biochem , San Diego , CA ) in phosphate buffered saline with penicillin-streptomycin and 0.5 % bovine serum albumin
+where the \" % quartz \" is the percent-by-weight of quartz in the personal respirable dust sample
+Quality assurance
+During the first two of the three major phases of the analysis , the furnace temperature is increased ( stepped ) one or more times to drive off the various carbon species in stages , resulting in a carbon species profile or thermogram ( plot of detector response versus time )
+Mean levels for closed cab samples were : 1.02 f/cc , tractor used for field preparation
+These results indicated that the evaluation of farmers’ exposure to dust should be based on the examination of samples taken in the respiratory zone while performing individual work activities .
+Fluid-phase measurements
+However , EC in PM1 was chosen as the primary marker of diesel exposure because of interest in a marker of fresh diesel and other vehicle emissions before they had agglomerated into the accumulative mode of atmospheric aerosols
+Because of limited temporal coverage in the EPA monitoring network ( collected only every other day ) , the AIRS data could not be matched directly with each individual driver route
+A total of 108 personal breathing zone respirable dust air samples were collected
+Although a reasonably clear day had been chosen for this experiment , the concentrations of smoke and hydrocarbons outside during the first period were rather high , due to the emission of smoke from a number of nearby domestic chimneys
+The spatial distribution was found to be reasonably uniform
+The presence of crystalline silica in two airborne dust samples suggests a \" potential \" for higher exposures
+We have studied air pollution in diesel bus garages where there are clearly defined groups of men who are regularly exposed to relatively high concentrations of exhaust products
+Colourimetric Dräger Tubes
+All sampling trains were post-calibrated
+Slovakia : Magnesite Mining
+DP was measured using submicron samplers developed by the U.S.Bureau of Mines , and the results were verified using quantitative scanning electron microscopy
+The highest figure is the one for the background site ( C ) at Merton in April 1956 , when there were high concentrations of coal smoke from domestic chimneys nearby , and this figure is similar to that seen in a coal mining area during winter in still earlier studies of benzo ( a ) pyrene in urban air
+Prefired quartz fiber filters were loaded in the dichotomous sampling cassettes just prior to each survey
+For each day that monitoring was conducted the daily high and low temperatures and the average relative humidity was ob­tained from the nearest airport
+All diesel engines used No
+Filters and tubes for collection of oil mist and oil vapor were mounted in series during sampling
+ABSTRACT
+The mixed model used the following equation :
+The carbon monoxide-single breath technique gave values for transfer factor ( TLco , mmol * min-1 * kPa-’ ) and was measured using a gas mixture made up of 0.3 % carbon monoxide and 10 % helium , 20 % oxygen , with the remainder nitrogen
+The numbers of each type of locomotive sampled are as follows : EMD [ SD-45 ( 1 ) , SD-40-2 ( 5 ) , SD-40 ( 2 ) , GP-9 ( 4 ) , GP-38 ( 2 ) ] and GE [ U-33 ( 3 ) , U-30 ( 1 ) ] .
+an organization manufacturing large items which did not follow the mandated occupational safety and health program ( Factory B
+The above results suggest the existence of intrinsic differences among possible pollutant sources .
+As it will not be possible to specifically identify vehicles with exhaust leaks into the cabs , one goal of a detailed exposure assessment could be to determine if cab design is a significant predictor of exposure , and how exposure is broadly affected by model year and maintenance practices
+About 59 % of these workers measured at baseline were reassessed during follow-up
+similarly , humidity on the day of measurement was factored into three groups : < = 25 g.m−3 , > 25 – < = 45 g.m−3 , and > 45 g.m−3 , while respirable dust exposure was grouped as follows : < = 0.2 mg.m−3 , > 0.2 – < = 0.5 mg.m−3 and > 0.5 mg.m−3
+Since no significant differences for concentrations could be observed between atomisation on/off a reduction factor for the heavy type of plate compactor ( CH ) could be derived only for 'real-time ' dust concentrations ( 56 % ) .
+Or , perhaps dust control was not implemented for these jobs at these particular plants to the extent that it was for bagging , loading , and screening jobs .
+This relationship was used to adjust the pDR-derived concentrations to be comparable with the standard nylon cyclone values
+Casella cyclones collect the respirable dust fraction , which is relevant in determining exposure to respirable quartz
+The airborne silica concentration was significantly different between two exposed and unexposed groups ( P < 0.001 , 0.27 [ 0.11 ] vs
+By lung cancer subtype , increasing cumulative EC exposure was associated with increasing ORs of squamous cell ( P trend < 0.01 ) and small cell carcinomas ( P trend = 0.02 ) in men ( Table 3 )
+The overall geometric mean of silica exposure levels for samples collected during programmed inspections was 0.077 mg/m3
+For occupations without measurement data , exposure concentrations from similar occupations with measurement data were assigned using expert decisions
+These cumulative exposures are proportional to the total amount of each substance deposited or absorbed in the subject 's respiratory tracts during their total exposures .
+Plants 7-9
+Thus data from the first period ( L # 1 ) were obtained from a different location than data for the 2 later periods
+These data are shown in Table 5 for information only .
+The minimum detection limits for IL-10 , MMP-9 and fibronectin were < 0.5 pg.mL-1 , < 0.156 ng.mL-1 and 10 mg.L-1 , respectively .
+The mean ( range ) number of years spent working underground was 18 ( 3-39 ) yrs .
+All of the power plants selected for this study process and handle fly ash disposal in a dry state .
+EC concentrations ranged from 0.7- 4 µg/m3 ( AM = 1.8 µg/m3
+The P-Trak and EEPS profiles in Figure 3 indicate a PNC peak of 400,000 particles/cm3 and of more than 10,000,000 particles/cm3 , respectively
+The highest mean inhalable dust exposures were found in installation of drop ceilings and wall tiles , laying conduit/pipe in trenches , pipejacking , as well as concrete finish work and excava­tion support work
+4 ( c )
+Of the 44 area sample sets , 21 were taken at turnaround locations , 14 were collected in the heavy repair area , and 9 sets were sampled on board locomotives .
+An effort to identify additional statewide inspections was completed by searching the WISHA industrial hygiene laboratory 's data bank for inspections in construction with silica sampling results spanning the years 1996 through 2002
+At two plants , site visits were conducted during unscheduled outages ( termed emergency outages ) that involved shutting down the boilers and entry into interior chambers due to equipment failure that required immediate repairs
+Statistical analysis
+The first phase is done in a 100 % helium atmosphere , during which time the organic and inorganic ( carbonate ) carbon are volatilized
+but was considerably less than the previous ACGIH TLV of 3 ppm .
+The mining building was one of four multi-storey laboratory/classroom buildings being retrofitted on the university’s campus at the time of this study
+The fibres were counted with a light microscope according to World Health Organization ( WHO ) counting criteria ( WHO , 1997 ) with a detection limit of four fibres which amounts to 0.016 fibres cm−3 with a sampling time of 2 h .
+Two areas of potential diesel exhaust exposure were identified at each yard : the turnaround area and the heavy repair area
+Higher levels were reported for the period 1974–1977 , prior to the creation of MSHA .
+In 1995 the American Conference of Governmental Industrial Hygienists added diesel exhaust to their Notice of Intended Changes at a proposed threshold limit value of 150 ug/m3 .
+During the period ( 2008–2012 ) , only a slight downward temporal trend was visible for respirable dust ( −1.8 % per campaign )
+Detailed exposure data , including regular monitoring of benzene , benzo [ a ] pyrene , carbon monoxide , and nitrogen oxides , were available since 1987 for 1 of the 2 Polish bus companies
+the robustness of the systems underpinning the effectiveness of engineered exposure controls or Respiratory Protective Equipment , suggests that employers who have made assessments are likely to maintain effective ongoing exposure control , those who have not are not likely to achieve control .
+Mutagenicity ( revertants per milliliter equivalent of urine ) was determined from a straight-line least-squares regression , followed by subtraction of the slope from the extraction control PBS sample
+Working with the horses when longeing , free jumping or during riding lessons and raking the arena surface lead to increased dispersion of the footing material and visible clouds of dust in the arena
+Further laboratory details are available in OSHA ( 1996 ) .
+We selected representative lanes to measure the PM2.5 concentrations in the tollbooths at different types of traffic flow during the three shifts
+Quartz filters were backed by the PUF/XAD- 4/PUF cartridges ( Zielinska et al
+The highest fire station concentration obtained was Loganlea ( 13.5 ppb ) , which and ca
+Air velocity in inlet was adjusted to 1.25 m/s according to Danish legislation
+The results of the air sampling are presented in Table III , which describes measured task-based exposures for each of the trades
+The measured concentrations of benzene and xylenes were well below current exposure criteria .
+A similar absence of dose response was seen among non-tobacco users for mutagenicity - S9
+The contribution of the determinants of exposure was evaluated by their influence on the estimated mean exposure as well as their influence on the reduction of the between-worker variance
+Manufacturers perform these tests on their engines and submit the data to EPA , which may independently conduct further testing
+Two replicate samples were taken during removal of all wall tiles ( +- 10.5 m2 ) from a single bathroom with and without atomisation and two samples during removal of a part of the floor tiles ( +- 0.3 m2 ) from a single bathroom with and without atomisation
+500 u l aliquots were spiked onto precleaned quartz lters
+The MSHA permissible exposure limit is roughly equivalent to a TWA limit of 100 µg/m3 of quartz .
+Exposure determinants the number of trucks , and wind speed
+Only four of the products were used at the companies at the time of the exposure monitoring as most of the substitute products are used on a project-specific basis
+We used the available data for large , well-ventilated spaces , shown in Table 13 , although the actual ventilation rates were much higher than this .
+It should be noted that the Control competence ratings ranged from 0 to 5 , where 0 indicated manifest failure and was numerically valid .
+Pharmacia & Upjohn Diagnostics Sverige AB , Uppsala , Sweden )
+Exposures to dust and gases were determined by means of personal sampling , and two or more agents were measured for each person for at least two days
+The high-flow-rate samplers included in this study were ( i ) CIP10-R ( Arelco ARC , Paris , France ) with polyurethane foam in a rotating cup sampling at a flow rate of 10 l/min , ( ii ) GK2.69 ( BGI Inc. , Waltham , MA ) with 37-mm 5-μm pore size PVC filters ( GLA 5000
+Samples with > 10 % decrease in air flow rate over the sampling period were rejected .
+Half the samples in each job or work area were obtained with each filter type : the PVC for x ray diffraction analysis and the glass fibre for hydrocarbon analysis
+Site 33 is a toll booth where vehicles will have to pull away from a standing start , again putting a heavy load on the engine .
+The sampler ( URG-2000-25A , University Research Glassware Corp. , Carrboro , North Carolina , USA ) had an inlet nozzle and a greased impactor plate that eliminated particles with an aerodynamic diameter greater than 2.5 µm from the air stream before collection on the filter
+1820-037 , Whatman GF , Madistone , UK ) on top of a cellulose acetate fil- ter ( AAWP03700 , Whatman GF , Madistone , UK ) and tubes containing 150 mg charcoal ( 100 mg in front section ) ( No
+A sampling rate of one reading every second minute was selected
+Such gaps may be breaks in the gear-shift rubber boot or the seal between the cab and engine compartment , both of which depend on the type of cab , company repair and maintenance practices , and age of the vehicle
+To calibrate the three sampling devices ( nylon cyclone , pDR 1000 , and pDR 1200 ) to each other , side-by-side area samples were collected
+The extract is then concentrated , purified through a 10 % deactivated SPE silica cartridge with dichloromethane : acetone 39:1
+For all of the measurement trips the following contaminants were measured : carbon monoxide , nitric oxide , nitrogen dioxide , total particulates , total hydrocarbons , and total aldehydes
+An hypothesis is presented and supported with data that gaseous organic carbon constituents of diesel exhaust adsorb onto not only the submicron elemental carbon particles found in diesel exhaust , but also mining ore dusts
+Current Chemical Exposures Among Ontario Construction Workers
+Post-control sampling was conducted on four tours over a four-day sampling period
+Fig 2 shows plots of mean TC levels for job tasks , smoking habits and vehicle factors
+Statistical software R was used to determine sample size and select the participants by random sampling among nonsmoker workers
+Stan Development Team ) is presented in the Supplementary data , available at Annals of Occupational Hygiene online .
+The Pearson correlation coefficient between RCS and TD was 0.655 ( p < 0.01 ) , which was a high value and higher than between RCS and RD , which was 0.213 ( p < 0.05 ) , which was at a low level
+Industrial Hygiene Survey of Respirable Crystalline Silica Dust Exposure in the Ready-Mixed Concrete Industry
+Employees were initially sent a cover letter and a 4-page detailed questionnaire including questions on date of birth , height and weight , educational status , job title , smoking history , duration of work in the
+Filters were stored in a freezer prior to analysis
+In conclusion , miners in an underground iron ore mine demonstrated persistent airway inflammation that was as pronounced after a 4-week holiday as after a 3-month period of work underground in the mine .
+Personal samples of nitrogen dioxide ( NO2 ) and respirable particulate ( RP ) were collected over the shift on 232 workers in four diesel bus garages
+Smoke tubes were used to observe relative pressures through doorways separating the apparatus bay from the living quarters .
+During this 5-year time period , there was only one sample per mine for 69 % of all mines and there were fewer than 10 samples per mine for 93 % of mines
+Aim : The aims of this study have been to investigate the occurrence of systematic differences in the personal exposure to motor exhaust between different groups of taxi , bus and lorry drivers , and to study if these are influenced by the choice of exposure indicator
+TMCA2=0.9 cm2 was correlated to a subjective feeling of nasal congestion ( Pearson correlation=0.4 , p=0.001 )
+The data were analyzed with SAS statistical software version 9.3 ( MIXED procedure
+A summary is presented in Table VII
+First , for the years 1974-1979 , the ratios of the geometric means of the plant-job-specific respirable quartz measurements to the geometric means of the 10 job-specific respirable quartz measurements were calculated for each of the four plant categories
+The fire department was composed of six fire stations , of which two were selected for this study
+The mean difference between total dust for demolition workers and carpenters was 11.4 ( 95 % confidence interval 3.46–37.1 ) mg/m3
+The average of the respirable mass concentration ratios for CIP10-R/SIMPEDS , GK2.69/10-mm nylon , FSP10/SIMPEDS , and FSP10/10-mm nylon pairs and the range of the quartz concentration ratios for the CIP10-R/SIMPEDS , CIP10-R/10-mm nylon , GK2.69/10-mm nylon , FSP10/SIMPEDS , and FSP10/10-mm nylon pairs included unity with an average close to unity , indicating no likely difference between the reported values for each sampler
+In particular , a Polish copper mine and a Slovakian iron mine were excluded because of possible coexposure to radon or arsenic
+A median particle concentration of 3.4x104 cm−3 ( interquartile range 1.3x 104–7.5x 104 cm−3 ) was measured close to the screedmen walking behind the paving machine .
+Active Air Sampling using SKC pumps
+The better agreement for sulfur measured on the Teflon filters compared to quartz mea­ surements of sulfate can be explained by the fact that Teflon is more inert to sulfur dioxide gas sorption than quartz ( Coutant 1977 )
+OELs for respirable crystalline silica
+In the campaigns described above it was decided at an early stage to monitor the gaseous components in a way that would allow for significant information to be obtained in this respect
+Our study confirmed that sanitation workers who work outdoors could be exposed to RCS
+In total 209 workers participated in the exposure study and most of the workers ( 77 % ) were monitored on more than one occasion
+However , this should not obscure the occurrence of risk factors on less frequently sampled jobs
+Again , as noted for jobs , temporal trends estimated for respirable dust were steeper than trends for respirable quartz .
+There are a number of factors that may contribute to over-exposures , including the isolation of the blasting area , housekeeping , and inappropriate use of respiratory protective equipment
+Highest GM of fibre exposures was found in the furnace and sorting areas in all plants , and the cleaning operators in Plant A had the highest exposure to fibres ( 2.7 fibres cm−3 )
+Casella Ltd , Bedford , UK ) and the amount was determined by colorometric analysis
+the worksite area samples in Figure 3a–f to determine whether on-site sources or urban sources dominate freight terminal carbon concentrations
+Results
+Although the very large number of samples produced results with P < 0.05 , the adjusted value of R2 was only 0.004
+Why the Atlanta measurements for dockworkers using propane forklift trucks were so much higher was not clear , although the number of samples obtained in our data set was small .
+RCS 8-h TWA data for materials limestone and lime mortar were not included in the model because of the large number of non-detect data
+Respirable particulates were evaluated using a 10-mm nylon cyclone connected by Tygon tubing to the PM 10 inlet
+Statistical analyses of the field data distributions in general indicated that the exposures to elemental carbon in submicrometer­ sized particulates were lognormally distributed
+A more detailed description of sampling strategy and job groups has been reported elsewhere .
+The long-haul drivers were driving in the evening on suburban and rural highways , whereas the P & D drivers were driving into Atlanta during the day and were frequently in heavy traffic
+The average weight change and standard deviation of blanks was 0.001 + 0.001 ug ( n = 17 ) .
+FINDINGS
+Data were obtained from the same source as these data , that is , they were taken by MSHA and its predecessor agencies for compliance purposes
+There was no significant difference in TVOL1 between the two groups
+The percentage of crystalline silica in the respirable dust is in every instance lower than that of the bulk material being cut
+food ) , age of the diesel vehicle ( 1‒5 yrs , 6‒10 yrs and 11‒15 yrs )
+Full chemical and physical analysis was carried out on all the fuels by a petroleum industry laboratory using standardized analytical methods
+Before the intervention took place , sample size calculations were performed assuming an 30 % reduction in exposure , based on a comparable study in the wood processing industry ( Lazovich et al. , 2002 )
+Personal exposure assessment and assessment of engineering factors
+At the end of each run the instruments were collected and the flow rate of the pumps verified ( Matheson Rotameter , model 763011-603
+Because of the large number of workers eligible to participate , a random sample of these eligible workers per company was included in the baseline measurements ( i.e
+Sulfur dioxide
+Information on climate can be obtained from the NOAA National Climate Data Center
+Air sample analysis included total weight gain by gravimetric analysis according to NIOSH Analytical Method 600 and respirable crystalline silica ( quartz and cristobalite ) using x-ray diffraction , as per NIOSH Analytical Method 7500
+Psychosocial factors covered topics like knowledge and beliefs regarding effectiveness of controls , risk perception , social influence , and motivation
+ABSTRACT
+ABSTRACT
+The Limit of Detection is 0.015 mg
+This higher exposure was anticipated in part because drivers must lean out of the cabin window to see the rail track during coupling and uncoupling operations and when maneuvering rolling stock into sidings or sheds
+This information is necessary to match background conditions with the individual driver routes more closely .
+VOC were collected in syringes from the canisters and analysed by GC-MS spectrometry
+Two measurements of EC and nitrogen dioxide , and three measurements of inhalable dust were obtained for each miner
+workers performing protection and securing work ( shotcreting operators who apply wet concrete , support workers )
+Historical changes in factors may produce corresponding changes in both the composition and the intensity of exposure
+This effectively demonstrates the impact or enhancement due to the worksite area or job type , whereas a normalized concentration of 1 indicates that the personal exposure and the worksite area concentrations are on the same level as the urban background .
+Weather had little effect on the ter-minal docks sampled by Zaebst because there were no doors or they were never closed
+Material worked on , worker task , RPE , LEV , job title , weather , level of enclosure , and task duration were introduced as fixed variables , and three sources of random variance were looked at—between-depot variability , between-workers within-depot variability , and within-worker variability
+Job tasks occurring with a frequency of n < = 3 were not included in the analysis
+Major positive interference , however , was found from environmental tobacco smoke ( ETS ) and inorganic respirable particles from other emission sources
+All EC/OC/TC , BC and PM 2.5 results were classified using environmental and occupational variables such as job task ( collector vs
+A heavy ( high capacity ) jackhammer [ Wacker EHB 7 , beat frequency 1300 - 2000 b/min , weight approximately 9 kg ] was used while cutting concrete slabs
+For this reason , the radii of monitor values were averaged over the study week and compared with the average driver exposures from each sampling trip .
+Therefore , driver exposure is considered the sum of urban background and the combined roadway/personal activity
+Workers who often had respiratory work-related symptoms generally had a slightly greater mean acute reduction in FEV1 and FEF50 than did those who did not have these symptoms , but these differences were not statistically significant .
+Engine manufacturers are also able to provide model and engineering specifications for diesel engines manufactured before 1980 .
+In this time period a discussion about health effects and the corresponding necessity to lower the existing threshold limits for the components NO and NO2 was started as well
+Among the smoking diesel-exposed subjects , the adjusted mean mutagenicities for the three strata of ARP ( low to high ) were 3.12 , 3.93 , and 3.54 , respectively ( x z = 0.48 , p > 0.05 )
+Study Population
+Other potentially harmful exhaust products include oxides of nitrogen and aldehydes
+All of the rock caverns and tunnels had a one-way ventilation system
+Depending on water availability at the site , one of the following two water sources was used : a water truck filled off-site , or piped water from an on-site plumbing system .
+The geometric mean and GSD airborne silica exposure levels by industries and type of inspections are shown in Table 2
+The determination of α‐quartz in the respirable fraction was analysed by X‐ray diffraction 11
+Using the SAS general linear models procedure to analyze variance on the log transformation of the data , airborne fiber levels could be divided into four groups , from highest to lowest : ( 1 ) field preparation
+A qualitative ventilation assessment was conducted at each fire station to determine the pressure differentials between the apparatus bay and the living quarters
+For the light plate compactor , atomisation reduced quartz exposure with approximately 88 % , where no significant reduction could be observed for the heavy weight type .
+Prior to enter the study the test subjects were informed in writing about object and methods of the study and an informed consent form was completed
+Dust-Trak ( model 8520
+Table II lists the various federal and authoritative OELs that were used as “working OELs” for this analysis
+NIOSH has classified crystalline silica as a potential occupational carcinogen
+Sample collection into Canister
+The equipment used to perform a given task can greatly affect the resultant exposure level ( Table III )
+This B [ a ] Peq concentration time the B [ a ] P unit risk factor gives an estimation of the lung-cancer risk attributable to the PACs considered
+however , this appeared to be better controlled at Companies 1 and 4 as abrasive accumulation was mostly restricted to the areas where blasting was done
+Truck Windows and Exposure
+The limit of detection ( LOD ) is the smallest concentration that can be detected with reasonable certainty for a given analytical procedure , and the reporting limit ( R.L ) is the minimum concentration of an analyte that can be measured within specified limits of precision and accuracy of the analytical procedure
+The cigarette smoke was generated in a 34 m® environmental chamber , with aluminum walls and ducts , operated at the Pierce Foundation Laboratory ( New Haven , Conn . )
+Among the DEE exposed workers , the correlation was very high between EC and OC ( Spearman R=0.86 , p < 0.0001 ) and soot ( R=0.91 , p < 0.0001 )
+C = concentration of respirable dust ( mg/m3 ) .
+5 to around 3 ppm in mine No
+- The occurrence of more than 10 % of samples above 150 µg/m3 for any particular job or mine ,
+At each facility , an individual completed a ques­tionnaire regarding the type of truck bay ventilation system ( if any ) available at the site
+All of the companies provided coveralls , but they were not always worn by the workers
+Truck Engine Certification Data and Emission Factors
+Area air samples for oxides of nitrogen were collected and analyzed in accordance with NIOSH method 6014
+Although these subgroups were relatively small , especially never smokers , we found that the above patterns were highly consistent across the three groups ( see figure 1 and online supplementary tables S1a–c )
+The laser transmission was monitored through the filter during the cycle to minimise interferences caused by elemental carbon formed during the pyrolysis of organic carbon
+Few workers reported use of personal protective respirators , except shotcreting operators who used filtering half mask respirators with P3 filters for filtering solid and liquid particles ( 3MTM ) part of the sampling time
+The average air flow calculated from these measurements was 96 cubic feet per minute ( range : 86 to 106 cfm )
+A general description of the jobs , activities , and plant locations are presented in Table II
+Lung cancer ELRs associated with lifetime occupational EC exposure at 50 , 20 , and 1 μg/m3 were 3.0 % , 0.99 % , and 0.04 % , respectively , for both sexes combined .
+The aim of this study was to investigate which possible agent ( s ) causes the inflammatory reaction , with emphasis on ultrafine particles
+For cleanup , one tool , the backpack blower , generated higher exposures than other hand tools
+A real-time aerosol monitor ( miniRAM Model PDM-3 , MIE , Billerica ) that worked on the light-scattering principle was used to record the profile of particles smaller than 10 lm during the workday
+The volume of truck traffic can be estimated from the number of trucks assigned to a particular terminal at each point in time , which is available historically from truck company records and outside sources
+The measurements are described against the calibrant gas ( isobutylene ) , and logged over one minute averaging periods
+Measured exposure concentrations appeared to be log-normally distributed
+500 400^ CO E possibly suggesting a job-related exposure
+Wide temporal variation in ultrafine levels was apparent , with peak concentrations of 4–5 × 105 particles/cm3 over the integration period of 1 min
+The OSHA IMIS database contained personal sample measurements of silica exposure ( n = 11,036 ) collected during 3,732 OSHA inspections conducted between 1988 and 2003
+Similar statistically significant consistent downward temporal trends were found for the sites enrolled from the start of the dust monitoring programme from whom 95 % of data in the IMA-DMP database originated
+and an organization manufacturing small items which did not follow a health and safety program ( Factory C
+On average quartz exposure decreased 86 % with use of atomisation during scrapping tiles , whereas the use of atomisation during demolition of concrete slabs reduced quartz exposure with 64 %
+⍺-Quartz was measured by x ray diffraction after oxidising the PVC filter matrix and sample in a low temperature radio frequency combuster and then depositing the unoxidised residue on a silver membrane filter
+Lightly loaded and idling diesel emissions have low EC and high OC and are indistinguishable from general gasoline engine emissions .
+One sub-study ( sub-study I ) consisted of demolition activities , whereas the other ( sub-study II ) consisted of compacting soil .
+Quality Control
+25°C ) , a 2 % O2/He mixture introduced and the temperature again increased step wise ( ca
+0.8 m from floor ) and adjacent to door
+Both gravimetric analysis and i.r
+The limit of quantitation was 2 percent for both forms of crystalline silica in bulk samples .
+The greatest number of measurements occurred in the construction sector ( N = 505 men , GM = 0.045 mg/m3 , GSD = 1.71 ) , and the lowest level of exposure was in the manufacturing of basic metals sector ( N = 181 men , GM = 0.007 mg/m3 , GSD = 2.62 )
+Three risk factors ( mean > 50 mg/m3 , > 10 % of samples > 150 µg/m3 , and exposure to freshly fractured quartz ) were present for stone polishers/cutters and ball mill operators ( Table V )
+Analytical Methods
+A two-way ANOVA of log-transformed values for mountain states and type of mine showed significant differences between states , by type of mine , along with significant interaction
+Direct on-filter analysis for quartz and , where appropriate cristobalite , was carried out in accordance with MDHS 51/2 and MDHS 76
+The industrial hygienist did a walk through survey of the premises and recorded information such as type of equipment used and organization of work
+and Never Stand Still : The His-tory of Consolidated Freightways , Inc and CNF Transpor-tation , Inc 1929-2000 ( Durr and Cantelon 1999 ) .
+Mixed samples may be elevated due to amount of surface grinding represented in these samples
+Because the type of forklift trucks used should have been the primary determinant of the level of dock workers’ elemental carbon exposures , a second analysis of variance was performed comparing dock workers’ exposures by forklift truck engine type : diesel , gasoline , and propane
+The overall background exposure ( 270 p.p.m. ) is only just above the detection limit but is less than the corresponding personal exposure value ( 650 p.p.m . )
+Sirianni and colleagues ( 22 ) found that cutting oil mists and airborne creosote made OC levels very high in an engine factory and a wood treatment plant where diesel equipment was used .
+The detection limit ( DL ) of this method , for both EC and OC , is < 2.8 pg per filter.’5’
+The blast helmets were worn only while actively conducting abrasive blasting
+Description of construction sites
+Sampling was conducted between June and September , periods of relatively high activity
+Exposure measurements
+Figure 2 is a schematic diagram showing a typical room-and-pillar section with the location of the stationary sampling points used in the sampler field tests
+A 6-fold range in AEM levels was found across job groups-—from clerks witha bout 7 ug/ m3 exposure to repair shop workers with exposures around 45 ug/m3 .
+The type of drill rig was a major determinant of all three types of exposures when drilling was performed for > 1.0 hours
+Sampling was conducted in March and April , 1985 , in New York and Boston , and May and June , 1985 , in Los Angeles
+sand blasting : blasting sand
+The personal breathing zone samples indicated a respirable quartz dust concentration of 0.66 mg/m3 for the 191-minute sample duration
+There were 206 workers sampled for respirable dust and silica
+This too is responsible for some of the sample variability
+and whether these complaints occur in a par­ticular season of the year .
+Surface workers and their matches are shown separately
+Generally , helper locomotive crews make only three to four trips a day through these long tunnels and their exposure levels are within OSHA standards .
+PAH analysis
+Plant characteristics
+The reference measure of exposure ( OSHA standard ) for most substances is the \" 8-hour time weighted average \" ( TWA ) in one 8-hour work shift for a 40 hour work week .
+SiC is produced as either green or black crystals from a mixture of high-grade quartz sand and petrol coke
+they were , therefore , classified as intermittent high exposure
+The adjusted geometric mean quartz concentrations for the plants were usually lower than the unadjusted mean because , in general , more measurements were collected during the early years when quartz exposures were higher and greater weighting was given these high-early samples when unadjusted mean exposures were calculated
+7
+In total , 68 construction workers had at least one measurement on both occasions
+The additional sites B and Q had been set up in places considered to be particularly affected by pollution during the morning run-out
+The sampling method has been described in detail elsewhere
+Though perhaps higher than desirable , the dust concentrations are within the exposure limits
+Whereas in 1994/1995 dpm has been measured and evaluated as \" total carbon \" , it was determines as \" elemental carbon ( ec ) \" since then .
+Multivariate regression models were used to identify determinants associated with the dust exposures within the job groups .
+Comparison with Table 5 and 6 shows that the maximum levels measured are several orders of magnitude lower than those found in tunnel operations
+Together with the 10 Hr engine bay continuous samplers , a number of instantaneous measurements and active sampling techniques were applied for the activities as listed in table .
+The exposure rating implies the range that most likely contains the true 95th percentile .
+The sampling was performed between November 2002 and December 2003 and included two sampling periods of two work weeks ( total 10 days )
+This study underlines the need for multidisciplinary workplace exposure control strategies although larger study populations are necessary to determine a possible causal association between organizational and psychosocial factors and psychosocial factors and control measures .
+mean daily temperature 24–28 C ) , whereas only one campaign was achieved during the winter season ( 9–10 of January 2002
+The average mass change of 1-day blanks were subtracted from the mass change for samples collected that day
+Separately for men and women , unconditional logistic regression models were used to calculate the odds ratios ( ORs ) and 95 % confidence intervals ( CIs ) of lung cancer associated with various categorical EC exposure metrics , including ever/never exposure , duration of exposure ( < 10 , 10–19 , 20–29 , and > 29 yr ) , and cumulative exposure ( quartiles of exposure distribution among controls : > 0–22 , 23–70 , 71–178 , > 178 μg/m3-years )
+The same procedure was repeated on the second day , and the subjects also completed a questionnaire on their medical history , nonworkplace exposures , diet , cigarette smoking , and other lifestyle factors
+This is most likely due to a sampling system malfunction on the first day of sampling
+Much of the data on smoking and window status are missing , which complicated the modeling effort
+same methods , but on 25-mm filters
+However , between 2008 and 2012 , there is a slight difference between unadjusted and adjusted time trends especially for respirable dust
+n = 4 ) using an electronic randomization tool ( www.randomizer.org . )
+Particulate samples were analyzed to measure concentrations of EC and OC
+however , the relationships are very clear for both EC and hopanes ( Supplementary Figure S1
+Further , 85 percent of the participants believed that it was , at least , \" very likely \" that HPDs would reduce their long-term hearing loss
+Silica baseline survey
+Ultrafine particles
+In August 1996 , the Occupational Safety and Health Administration ( OSHA ) implemented a nationwide Special Emphasis Program ( SEP ) for establishments in construction , general industry , and maritime to ensure worker protection from over-exposure to crystalline silica dust
+Samples were collected using an air sampling pump ( Sidekick pump
+Determinants were treated as fixed effects and worker as a random effect
+But it is unknown why drying and milling job exposures , which were some of the higher quartz exposures in 1946 , were not shown to decrease over 30 years
+to 5 p.m . )
+Personal samples were collected using 37­ mm prefired quartz-fiber filters and analyzed for concentrations of EC and OC using the thermal-optical method ( NIOSH Method
+Operator , helper , and area concentrations are shown in Figure 5 for those cases in which helper and area sampling was conducted
+5’
+Hand sawing is typically done for short durations when space is inadequate for a larger walk-behind saw
+The mean exposure levels across job groups showed a moderate variability ( Table IV ) .
+p < 0.01 )
+Next , one or more long-haul drivers drive the trailer to the regional hub terminal closest to the delivery point
+A direct reading dust monitor was used both near the working environment of the worker and at the background to quantify the ( relative ) contributions of the different sources mentioned above .
+Cook 's D influence statistic identified no more than two unduly influential observations for any analysis , and these were excluded from the final models .
+Measurements used for the analyses reported here were taken during 33 sampling campaigns between winter 2000/2001 and winter 2016/2017
+The drip trays were emptied if necessary
+This was especially important because a number of other truck freight terminals are in the area , the terminals are located on one of the runway approaches to the international airport , and a major 8-lane interstate highway is within a half mile
+It was not expected that window status ( open vs
+It has to be recognised that the results of the monitoring show exposures as they were on the day , when a visit was made by appointment .
+sporadic measurements of total dust were also available
+and hydrogen sulfide ( H2S ) were measured using a Rae Systems MultiRae Plus four gas detector
+The limit of detection ( LOD ) for EC with this method is in the range 2–5 lg/m3 .
+The sampler contains two filter compartments
+In spite of the challenges in accurately measuring blaster exposure , the measurements were still , for the most part , over the 8-h OEL
+On some of these variables quantitative information could be obtained
+ABSTRACT
+and the bay
+Variables with P-values > 0.2 in univariate models were excluded from further analysis
+Shotcreting , however , generated particulate that might cause exposure to respirable dust above the WEL .
+In their study , a different method for analyzing carbon was used—the German method BGI 505-44
+The final models explained 72 and 83 % of the between-worker variance , and 69 and 22 % of the day-to-day variability for respirable dust and quartz , respectively .
+However , these results are subject to misclassification of exposures , since direct observations were not made on window status
+The laborers and operating engi­neers had the highest percentages of quartz as part of their respi­rable dust exposures
+75 % of the total sampled mass , with a diesel contribution of around 40 % ( corresponding to particles smaller than
+The temperature range ( daily high and low ) during the summer of 1996 was between 16 and 35°C
+Therefore , data are presented for a total of 22 miners from whom paired sputum samples were available
+The depth of the cut is usually specified by an architect
+Filters were equilibrated in an environmentally controlled weighing area at the University of North Carolina-Chapel Hill for at least 2 hours before pre- and postweighing on a microbalance ( SN 1114410420 , Mettler-Toledo , Columbus , Ohio )
+However , profound differences were observed in actual exposure levels , both in absolute and in relative terms .
+associations were strongest for squamous and small cell carcinomas and weaker for adenocarcinoma
+This small-scale monitoring campaign provides additional personal data on exposures experienced by underground tunnel construction workers .
+Samples collected at mine M arc MOUDI samples collected at each mine .
+As is to be expected , the number concentrations inside the booth ( which is where the workers would be exposed ) are much lower than outside
+Arithmetic and geometric means and standard deviations for the dataset were calculated as a whole and as classified by job , mine , and state
+For demolition the rivet buster and sledgehammer produced the highest exposures , and for concrete cutting the handheld and table saws were higher than the slab saw with water control .
+The rate of water supply to the saw was monitored by two floating ball type liquid flow indicators with ranges of 0.07-0.55 and 0.2-2 l min-1 , along with a liquid flow sensor with ranges of 0.05-1.5 and 0.2- 9 l min-1 , both attached to the side of the tunnel
+METHODS
+The expected numbers of person-years and cases of lung cancer among male workers exposed to diesel emissions were determined ( Table 5 )
+Miners had increased numbers of inflammatory cells , mainly alveolar macrophages and neutrophils , and increased concentrations of fibronectin , metalloproteinase-9 and interleukin-10 in induced sputum compared with controls .
+All filters were conditioned for at least 24 h before weighing
+PBZ and general area samples were collected over the three days of pre-control sampling
+and outdoors near the mine exhaust shaft , to estimate maximum ambient concentrations
+in total 0.17 L/min
+Crops and livestock produced on the sandy and sandy loam farms included maize , wheat , sunflower , water melon , pumpkin , potatoes , cattle , and sheep
+Respiratory protection was not worn during mucking operations
+Crystalline silica content was analyzed following National Institute for Occupational Safety and Health ( NIOSH ) Method 7500 using a Diano XRD 8000 diffractometer , with a copper tube operated at 50 kV and 15 mA
+Samples analyzed included 100 percent of burn samples , 75 percent of upwind samples , 70 percent of field preparation samples , 60 percent of duplicate samples , and 50 percent of harvest samples
+In order to gain insight into the feasibility and reliability of the questionnaire , it was tested in a pilot study among 25 workers not involved in the next study phases .
+1
+p = 0.01 ) with cereal planter operators ' exposures exceeding those of cereal tractor operators , cereal soil preparation , and Other activity ( Wilcoxon tests
+All statistical models were adjusted for the matching variables , age ( as a continuous variable ) and smoking status ( current , former , never )
+Personal and area air samples were taken using cyclone samplers to minimize possible interference with the NIOSH 5040 method by ore dust being mined
+The aluminum silicates are most likely dominated by feldspars and layer silicates such as biotite and smectite ( based on X-ray results , above )
+Large amounts of inorganic material were found in most of the furnace area samples and in all of the product area samples ( table 4 )
+PM mass concentration distribution , calculated using the Dust-Trak , indicated that 85 % of the particles were within the respirable fraction and that 79 % of those were smaller than 1µm
+Shake out was conducted to remove the molding media around the metal casting and shot blasting was then performed
+Results for PAHs and ultrafines at the reference positions are shown in Table 2
+One company computerized its payroll records starting in 1972 , and the other has noncomputerized payroll records from 1979 to 1995 and computerized payroll information since 1995 .
+Concrete drillers and tuck pointers had the highest exposures for quartz and respirable dust ( 0.20 and 3.43mg m−3 , respectively )
+Performed measurements corresponded to a total of 255 working hours for carpenters and 113 working hours for demolition workers ( pauses excluded ) .
+Cereal planter operator ( Multivariate Odds Ratio ( OR ) 4.56 , 95 % CI : 1.79–8.89 ) and levels of quartz % > 10 µg.m−3 ( Multivariate OR 6.01 , 95 % CI : 3.52–9.71 if quartz % > 10 but < = 20 µg.m−3 , and Multivariate OR 5.32 , 95 % CI : 2.56–8.34 if quartz % > 20 µg.m−3 ) were clear determinants of quartz over-exposure
+METHODS
+From January 1997 , the ISO/CEN convention came into effect
+Elemental carbon exposure ( n = 12 ) averaged 538 ± 512 ( range 91-1800 ) μg/m3
+in well maintained vehicles this may be limited to a small puff on acceleration , but in others dense black clouds may be emitted , particularly at full load
+The Durbin–Watson ( DW ) value was used to present a lack of autocorrelation in the residuals of a regression model as being higher than the test bound based on the significance level , sample size , and the number of included variables
+Therefore , exposures more likely changed in a stepwise fashion across the various plants as controls were implemented
+Background levels in the air of EC in the United States are about 2–3 μg/m3 according to Birch and Cary. ( 12 ) Outdoor occupational exposure levels of EC in Sweden found by Lewne et al. ( 20 ) were reported to be 7.8 μg EC/m3 for construction machine operators and 4.1 μg EC/m3 for other outdoor workers exposed to diesel exhaust ( calculated as geometric mean )
+The impinger dust measurements in mppcf had to be converted to mass per volume ( µm/m3 ) to compare them to the respirable quartz measurements collected with a cyclone pre-separator
+With the exception of one Boston fire station , all kitchens and television rooms were on the first floor and adjacent to the main equipment floor
+The total lymphocyte count ( p=0.00044 ) and three of the four major lymphocyte subsets ( ie , CD4+
+and 4 ) factors that influence personal exposure to DPM .
+Thus , in Company D , a team dedicated to the collection of CBA was operating and collected CBA contained in plastic bags using an ordinary truck without a press roll while visiting sites in the area for approximately four hours
+In total , 22 miners were studied , once after a holiday of at least 2 weeks and the second time after 3 months of regular work
+those doing jobs with low and high potential dust exposure
+Soil grain size analysis
+DEE ( Fig 1 )
+Air sampling for diesel exhaust concentrations was performed at eight operating headquarters of a major southeastern electric utility company during two separate seasons .
+The additional low rate samplers were run primarily to check the distribution of smoke around the garages , and they were not analysed for hydrocarbons
+The measured air concentrations were used without further adjustments
+The Ethics Committee of Umea University ( Umea , Sweden ) approved the study .
+In addition , a tracer method based on ultrafine particle measurements was used to estimate the spatial distribution of total carbon and PAHs at the sites monitored
+Geer et al. , 2007 ) , and risk propensity ( Meertens and Lion , 2008 )
+Control and RPE competence assessments
+TVEA is a work sampling method designed to collect information on exposure determinants that vary across the day by recording this data at set time intervals throughout the sampling period
+The sum of this equation is 4.28 , exponentially this results in an estimated elemental carbon concentration of 72 l g/m3
+The analytical method for the respirable dust samples requires a minimum amount of silica to be present in order to state with certainty that it was present in the sample
+Summary statistics for particles based on the open-shut designation for nonsmoking P & D drivers are provided in Tables I-III
+No difference was found between samples extracted and analyzed immediately and those stored for 4
+Furthermore , the underlying influence of agricultural activity ( i.e. , the different activities performed at the different farms ) , not the farm or county per se , was the most likely reason for the observed variability in exposure .
+In this case there seems to be a simultaneous increase in the generation of micron and nano- sized particles at the paving site .
+Variance components were estimated using multiple linear mixed models
+lower flammability limit ( LFL )
+( MSA ) cassette modified to collect particles less than 1.1 um in aerodynamic diameter at an air flow of 1 L/min according to NIOSH Analytical Method 5040
+Personal samples were collected from all miners working on two representative production sections
+Atmospheric carbon dioxide will of course contribute to these results .
+Of the 7 sites awarded a rating for adequacy of RPE , no sites achieved a rating of 4 , i.e
+This indicated a system of exposure control sufficiently robust that ongoing compliance with the WEL could be anticipated
+Six stationary respirable dust samples , taken for characterization of dust particles , ranged from 0.1 mg/m3 when clearing rubble in the open air to 4 mg/m3 when demolishing with hand held hammers
+The remaining 7,209 personal samples collected during 2,512 OSHA inspections were used in this analysis .
+Crystalline silica was analyzed by either Fourier transform infrared analysis ( FTIR ) or by X-ray diffraction ( XRD )
+The LOD was four fibers for the analyzed area of the filter .
+Of a total of 88 samples , 21 were not valid , due to irregularities or pump failure during measurements , leaving 67 samples for analysis
+The hopanes and steranes for which authentic standards were not available were quantified based on the response factor of standards most closely matched in volatility and retention char­acteristics .
+In the event sample tampering was suspected , because it was not possible to observe the operation continuously , the sample was considered spoiled and excluded from the data set .
+PNC peaks of up to 500,000 particles/cm3 and a PM mass concentration peak of 4 mg/m3 ( Figure 2 ) recorded with the P-Trak and Dust-Trak , respectively , were associated with the observation of the crossing of container trucks equipped with cooling systems .
+The highest level measured was 828 p.p.m
+More details on the development and content of the intervention have been described elsewhere ( Oude Hengel et al. , 2014 )
+The passive or fugitive emission ( Ep ) generally represents emission from resuspension of settled dust or evaporation of spilled volatile liquids
+Or ,
+There was a clear difference between the number of ultrafine particles when paving and prior to paving ( and when the paving temporarily stopped during the day )
+A summary describing the activity , conditions , controls and data from each site report is shown in Appendix B of this document , together with a summary line that is carried forward to the overall data table , included as table 6 in Appendix A .
+This group builds , maintains , and repairs property , buildings , bridges , and track using specialized equipment and other construction vehicles
+Correlations between TD and RD for the two professions were tested ( Spearman’s correlation ) .
+These results exceeded the NIOSH REL on four of the five sampling days
+The amount of extractable matter in the suspended particles provides a third index of exposure to diesel exhaust
+Statistical differences of air concentrations between job groups were observed for all contaminants , except for OC , EC , and NH3 ( P > 0.05 )
+There was no attachment on the FSP10 to attach the sampler to the worker , and workers complained that the FSP10 was very heavy and bulky
+Analysis Using BDA
+Four of the five workers had exposures significantly above the TLV of 3 mg/m3 for respirable particulates ( containing less than 1 % silica ) , as well as the Occupational Safety and Health Administration ( OSHA ) permissible exposure limit ( PEL ) of 5 mg/m for nuisance respirable dust .
+Table 4 illustrates that the tasks of grinding and cutting result in average RCS exposures of between 32 and 70 times the exposures recorded for the task of decorating
+The furnace and ladle repair jobs consistently had a high exposure , with a 3.9–8.0 times higher average exposure than the core maker .
+The PBZ samples for respirable crystalline silica were collected in accordance with NIOSH Method 7500 , using 5.0 μm pore-size PVC filters and a 10-mm nylon cyclone to remove the non-respirable fraction ( > 4 μm mass-median aerodynamic diameter [ MMAD ] ) at a flow rate of 1.7 Lpm
+The adsorbents are extracted by addition of acetonitril
+Productivity and Performance
+A statistical model was used to predict the quartz exposure estimates from 1974 to 1988 for the 120 plant- job-year categories ( four plant , ten job , and three year categories )
+The validity of the proposed exposure reconstruction method was evaluated using the exposure data obtained during the visits
+One stationary sample indicated a four hour average of 7.3 ppm ( 18-9 mg/m3 ) near one of the furnaces
+Company 2 also used compressed air to clean out the abrasive system prior to changing abrasives ( although this did not occur at the time of the assessment ) .
+More than half of the entire unionized workforce and of the long-haul drivers were between the ages of 35 and 54 in both years
+During paving , a higher concentration was observed
+Forward stepwise regression was used to introduce variables significant at the P ≤ 0.001 level one at a time
+For comparisons to the law , a TLV is calculated for each sample as an 8-h TWA .
+Only MHW workers who use diesel-powered trucks were included in this study
+Samples were analyzed by Galson Laboratories ( East Syracuse , NY )
+( Eurofins Miljø are accredited by The Danish Accreditation Fund )
+The seven stations used in the trials , Cairns , Townsville , Rockhampton , Maroochydore , Caboolture , Loganlea and Anzac Avenue ( Toowoomba ) showed that the ambient air quality in Fire stations across the state was typically at or below the outside ambient air , except for the short term activity start of shift when some engine bays showed elevated levels of the contaminates of concern
+The differences among worker exposure and worksite areas are more pronounced for the organic tracers than OC or EC ( Figure 2b )
+Respirable dust sample measurements were collected on preweighed PVC filters and analyzed by gravimetric analysis ( Cahn 21 Automatic Electrobalance , Ventron Corporation , CA )
+Cross draft was estimated ( none , low , medium , high ) using prior researcher experience and observation of visible dust as a guide
+The shafts had no mechanical ventilation system
+Descriptive statistics for these exposure measures are presented in Table I
+Although the effectiveness of dust suppression did not depend on blade type , a diamond blade was more effective with the pressurised water system overall , because its use enabled a slab to be cut in approximately one minute using a single pressurisation of the tank , whereas when the resin disc was used the tank needed to be re-pressurised a number of times during cutting .
+Table II summarises the effectiveness of atomisation for the different types of equipment
+EC was approximately lognormally distributed and the distribution of respirable dust , OC and TC was also slightly skewed
+Part of the reason for this overestimation may have been the difficulty in judging the impact of general ventilation on controlling exposure
+Fibers containing silica were identified by their characteristic fluorescent X rays using a Quantex ( thin window ) X-ray detector and a Kevex Delta Class Analyzer
+Stratified analyses by job title were performed to evaluate the effect of control measures on exposure and to explore the association between control measures and psychosocial factors
+Additionally , cubic spline models were used to visualise the temporal trends in a less restricted ( non-linear ) manner
+Correlations between exposure variables were evaluated using Spearman’s correlation coefficient .
+Cutting with and without controls was carried out on the same day to minimise the effects of the variable weather conditions
+Filter samples of EC TWAs ranged from 1.7 to 29.0 μg/m3 with a geometric mean of 4.8 μg/m3 and the OC TWAs ranged from 13.5 to 107.8 μg/m3 with a mean of 39.6 μg/m3
+The limits of detection in bulk samples were 0.8 percent for quartz and 1 percent for cristobalite
+This may be due to a variety of reasons
+It sponsors yearly meetings and truck shows at which members display trucks that are more than 25 years old
+sacking and patching concrete
+MSHA incorporated the 1973 American Conference of Governmental Industrial Hygienists ( ACGIH ) threshold limit value ( TLV ) as the permissible exposure limit ( PEL ) for respirable mass of mineral dust containing quartz [ CFR , 1997 ]
+Exposures for table grape operations on June 17 were higher than the other days , despite potential loss due to overloading
+to calculate model accuracy using the sum of the square of the mean difference between the predictive and measured values ( bias ) and the square of the standard deviation of the mean difference ( precision ) .
+The activities sanding and drilling were significantly associated with elevated respirable dust and quartz exposure ( factors ranging from 1.5 to 4.5 )
+Only 43 ( 34.4 % ) of these 125 workers completed the job matrix in sufficient detail to allow for meaningful analysis
+Sample Averages
+The size cut point during the current study was 2.5 gm , so more material would have been collected using the samplers implemented here .
+The estimated slopes ( 1.19 and 0.75 for the EC-T versus EC-C comparison , and the EC-M versus EC-C comparison , respectively ) are both statistically significant ( p < 0.05 )
+The third pair of bars shows samples above the ACGIH Threshold Limit Value ( TLV ) of 0.025 mg/m3 for respirable crystalline silica .
+To prevent overloading , sampling times were limited to about 15 minutes for most filters
+Although the companies included in the feasibility study employed many women , they were mainly in jobs not exposed to diesel exhaust
+The respirable dust samples were analysed for quartz , cristobalite and non-fibrous SiC content
+The instrument was set to an airflow rate of 1.7 L/min
+The only form of crystalline silica detected in the samples was quartz
+Current occupational exposures to chemical agents were assessed as part of an epidemiological study pertaining to the cancer and mortality patterns of Ontario construction workers
+The background EC level measured upwind was substantially higher in the urban location
+No attempt was made to assess the contribution from side-stream smoking .
+were placed in plastic holders connected via Tygon tubing to battery-powered sampling pumps that were operating at a flow rate of 200 ml/min
+Data Editing
+For statistical tests a significance level of 0.05 was chosen .
+Particulate measurements
+During the field study , the researcher made some notes regarding the practical use of the sampling equipment
+DEA contributed a large proportion of the respirable aerosol concentrations in mines with diesel equipment , and a substantial reduction was achieved with use of a DDEF .
+Total dust samples were collected at a flow rate of 2.0 L/min with 5-μm pore size , 37-mm diameter PVC filters in polystyrene cassettes
+In the trailing locomotive only the survey staff was present , and it was considered that area samples would adequately represent the exposure of the deadheading crew .
+Sampling and gravimetric determination of respirable airborne dust was carried out following the procedures and recommendations of MDHS 14/2 , using the sampling convention in force at the time ( see below )
+and two used silica sand only ( Companies 3 and 4 )
+Mining regulations were strengthened in 1977 with the passage of the Federal Mine Safety and Health Act
+ON-SITE WORK
+5 times higher than the average background benzene concentration , but ca
+For carcinogenic compounds , a non-threshold dose–response curve is generally considered
+The average background concentrations of total Polyaromatic hydrocarbons ( PAHs ) and total diesel particulate matter ( DPM ) outside all fire stations was 0.14 μg/m3 ( range : 0.05 to 0.23 μg/m3 ) and 0.002 mg/m3 EC ( range : < 0.001 to 0.007 mg/m3 EC ) , respectively
+Diesel aerosol particulate samplers were placed on the MPV operator
+The majority of the measurements for BTEX and aldehydes were non-detects
+Of these , 84 % reported that the conditions were normal , 6 % reported it to be worse than normal and 10 % reported better than normal .
+At non-exposure baseline testing , two subjects reported some low-level exposure to diesel exhaust , two reported some dust exposure , and none reported exposure to oil mist within the previous two days .
+In order to investigate the precision and reproducibility of the thermal-optical method , a dilution tube technique was used to generate controlled atmospheres of diesel exhaust at four different concentrations
+and 20 electricians
+This approach does not measure exposure directly , but is a better assessment than area samplers for occupations that are not stationary or work in confined spaces not measured by the area samples
+The volume of the excavated tunnel was 124,000 m3
+The maximum observed peak value was 20 ppm among these workers for a 2-min averaging period , which was much higher than in the other groups of tunnel workers , for which a maximum of 7.4 ppm was observed ( concrete workers ) ( Table V )
+Fixed location sampling was also conducted for several days in 4 small rural terminals in New England
+Genetic markers for the strains were routinely verified
+The DEE-JEM consists of EC exposure ( in μg/m3 ) assigned to all 1,506 ﬁve-digit International Standard Classiﬁcation of Occupations ( ISCO ) ( version 1968 or ISCO-68 ) ( ILO , 2010 ) and was constructed based on 4,417 occupational EC measurements ( data sources available in Supplementary Methods and Table 6 )
+The RD GM concentrations of sanitation workers were affected by job task , season and employment type factors , but as for TD , the job task , season and city scale factor had a significant influence , while the employment type factor had no impact .
+Table 1a shows details of the work , the RD and RCS concentrations and the crystalline silica content of the material and the respirable dust measured for the same worker cutting paving kerb , blue brick and concrete breeze block with a petrol-driven Stihl saw without dust suppression or extraction in the same place on the same site on the same day in a trial which the site manager kindly helped HSL to carry out ( fig
+Particle bounce can still be a concern at these lower sizes , but as shown by Jones et al
+Where sampling times exceeded 8 h , exposure concentrations were adjusted to an 8 h reference period
+While the Pearson correlation coefficient between elemental carbon and DPM is very high ( r2 = 0.98 ) , the ratio of the two contaminants is variable and increases as the contaminant concentrations increase
+The concentration of respirable dust and respirable quartz were then computed using the formula :
+From among these samples taken together , 11.5 % exceeded MSHA’s permissible exposure limit as described above and among these , 8.8 % exceeded MSHA’s citation threshold value ( CTV )
+These are identified in Figures 1 and 2 .
+were mounted to the hammer in the vicinity of the chisel
+Atmospheric Contaminants – Aldehydes
+Company Databases
+Correlations between individual pollutants are assessed as well as their spatial distribution
+Analytical procedures
+All assumptions in the linear regression analysis were met by this model based on the results of residual diagnostics ( Figure S2 ) .
+The excavated cross sections ranged from 13 to 340 m2
+Background number of particles was measured for 1.5 hr before the asphalt paving started but at a time when the road was already busy .
+Particle size distribution was measured by using an SMPS ( model 3071A , TSI )
+Site visits were made to document levels of the gas-phase and
+The underground workers and the reference subjects performed the same job tasks , and had the same work schedule ( 10 h shifts with two breaks of 30 min each )
+National Institute for Occupational Safety and Health ( NIOSH ) method 6014 was used to measure NO and NO2
+The lubricating oil-impacted exhaust is by far the largest worksite area contribution for on-site and off-site workers .
+Besides rock dust , workers are exposed to DEPs generated by the heavy-duty engines for almost the whole of the shift
+The study has been executed according to the Dutch Data Protection Law .
+Miners in certain jobs are exposed to silica above permissible and recommended exposure limits
+To evaluate the NIOSH 5040 method protocol for DPM monitoring , nine air-sampling pumps with open-faced quartz filter cassettes were placed in area baskets along with those equipped with a cyclone and quartz filter
+The foreman registered information on department-specific production parameters on each shift when sampling was performed .
+In the respirable dust from the processing department , we found 57 % SiC , 0.2 % quartz and 0.1 % cristobalite , while the respirable dust in the maintenance department contained 21 % SiC , 0.5 % quartz and 0.2 % cristobalite .
+Air flow was calculated by measuring the air velocity in the vacuum cleaner hose and multiplying this by the cross-sectional area of the hose
+In four of the five sample pairs , the respirable and inhalable samples revealed similar concentrations with differences of only 0 to 2 l g/m3
+higher and the dock levels were 26 % higher
+However , the non-silica abrasives themselves also contain silica
+Ten elemental carbon samples were collected at a single work site ( a rock cavern )
+Tunnel Concrete Workers
+Previous studies show that exposures to RCS when grinding or cutting sandstone regularly exceed the OEL .
+The dock is a long ( typically 300-400 ft by about 100 ft ) , open-sided steel structure situated on an elevated concrete slab
+To match personal exposure samples with the appropriate area samples , for each personal exposure sample a percentage AM ( 0–1200 h ) and PM ( 1200–2359 h ) was calculated
+Exposure to Fibres , Crystalline Silica , Silicon Carbide and Sulphur Dioxide in the Norwegian Silicon Carbide Industry
+The measurements were performed in accordance with the guidelines recommended by the American Thoracic Society
+SKC Ltd ) sampling at a flow rate of 4.4 l/min with an SKC Legacy pump ( SKC Inc. , Eighty Four , PA ) , and ( iii ) FSP10 GSM ( Gesellschaft für Schadstoffmesstechnik GmbH , Neuss , Germany ) with 37-mm 5-μm pore size PVC filters ( GLA 5000
+using Dewell-Higgins cyclones obtained from the Casella Group Ltd
+EC/OC/TC samples were collected on 37-mm diameter , pre-fired quartz filters ( Pallflex Tissuquartz 2500QAT-UP , Pall Life sciences , USA ) mounted on a personal environmental monitor ( PEMs , Cat No 761–203 , SKC Inc. , USA ) using a personal sampling pump ( MSA Escort ELF pump , Mine Safety Appliance Co. , USA )
+The median fiber width was 0.9 μm , with a range from 0.2 to 7 μm
+The concentration of urinary neopterin ( μmol/mol creatinine ) in both groups is presented in Table 3
+About 80 % were smaller than 50 nm , and more than 50 % of the particles were smaller than 30 nm. ( 17 ) Therefore , it is important to consider the lower cutoff diameter of the particle monitor when comparing results with other measurements
+square centimeter of filter area
+Walk-through surveys of the plants were performed by one of the authors and information on jobs and tasks was collected
+However , the constancy of the conditions means that relative values are extremely reliable , and therefore the effectiveness of control systems can be specified accurately by this means
+Diesel-powered engines were introduced into the mine in the mid 1960s .
+A linear mixed-effect model for repeated measurements was used to describe trends over time
+Volunteer subjects were recruited at the start of the shift by a referral from the foreman or during the shift as workers were observed conducting activities of interest
+Horses were brought into the arena via the tacking and grooming area
+Nine-fold deuterated 1-NP ( d9-1-NP ) was used as an internal standard and was added prior to extraction
+self-efficacy ) but excluded in this analysis because of unreliable scales , i.e
+operation
+Methods
+These values account for 4.8 and 1.9 % of the measurements , respectively .
+Results of the test at the alpha = 0.10 results yield three distinct and logical occupational categories , while the results of the test at the 0.05 significance level yield mixed groupings
+Among RCS forms , the GM concentration was the highest for the cristobalite ( N = 644 , GM = 0.025 mg/m3 , GSD = 3.92 ) , and similar for quartz ( N = 589 , GM = 0.013 mg/m3 , GSD = 4.71 ) and tripoli ( N = 96 , GM = 0.012 mg/m3 , GSD = 2.02 ) .
+The exposure data were approximately log normally distributed and the geometric mean ( GM ) and geometric standard deviation of the 8-h TWA average exposure data were calculated .
+Results :
+The task to transfer CBA into a container took approximately 40 min , during which time the CBA was crushed , and the resulting dust was scattered into the air in large quantities .
+After a 2-hr equilibration period , nine area air samples for analysis of ele­mental and organic carbon were started
+Those working on trucks with a payload capacity equal to 5 tons had significantly higher exposures to OC ( 29.9 vs
+No
+The main reasons for dust exposure among carpenters was especially use of hand-held high-speed tools , grinding , lack of local exhaust ventilation , lack of cleaning during a work task , lack of cleaning before the next occupation started their work and dust exposure from other occupations who worked at the same time
+The highest levels of NH3 were found during
+These filters sometimes gave higher RCD than RD values .
+The mean concentrations of silica show reduction by a factor of 3 to 7 when dust control was used on-site , the accuracy being limited by the relatively high limit of detection for silica
+The quartz filters that we used ( Whatman QMA , 20·25 cm ) were cleaned by ultrasonication in methanol ( 30 min ) , dichloromethane ( 30 min ) and , finally , toluene ( 30 min )
+The miners were investigated twice
+The calculated to measured ratios for EC within the OC CMB model were within 0.9–1.25
+ultrafine particles ( n = 17 ) range = 58-231 × 103 particles/cm3
+transport-industry distribution and the underground mine distribution ( Fig
+EXPERIMENTAL DESIGN AND METHODS
+EC concentrations were significantly correlated with the concentrations of OC , TC and BC , but not with those of PM 2.5
+This article describes a baseline exposure study that is part of a multidimensional intervention program aiming to reduce quartz exposure among construction workers
+To estimate the quartz concentration of the dust particles smaller than 5 µm , airborne dust was collected with the I-H-F sampler which consists of a high volume air pump drawing air through two filters one foot square at 30 cubic feet per minute ( 849 L/min )
+The factors themselves are shown below :
+DryCal DC-Lite primary flow meter
+Dispersion of the pollutant depends on the proximity of the source to the person exposed ( that is , whether the source is in the person’s near or far field ) and on the directional nature of the initial dispersion
+The presence of trucks with cooling systems and older trucks with older exhaust systems was associated with peak concentrations on the direct reading instruments
+Five of the eight blasters evaluated were using silica substitutes at the time of the assessment
+All samples collected were on a full-shift personal basis with a minimum of 4 hours’ sampling duration
+The Latvian railway depot we studied included a large repair and maintenance workshop
+The collected QFE samples originally were submitted to the only commercial lab performing a thermal-optical method for EC
+During an inspection under the SEP , OSHA looks for elements of a silicosis prevention program which may be effective at preventing crystalline silica over-exposures
+Temporal trends and geometric means were estimated for each job and each mineral , as shown in table 1B , C
+The OC/EC distribution in diesel emissions will shift depending on the operating conditions and load on the vehicle
+Geometric mean ( GSD ) airborne silica exposure levels were between 0.017 mg/m3 ( GSD , 0.931 mg/m3
+Field blanks were used to control for contamination of the sampling media
+In both cases , the numbers of observations were small and the groups were heterogeneous
+demolition with handheld tools
+PVC filters , polyurethane foams , and cassettes with PVC filters were returned to the laboratory at NUIG and pre-conditioned and post-weighed , and dust concentrations were calculated
+1 ( c )
+The exposures of the truck drivers could not be distinguished from background highway concentrations but were significantly higher than background concentrations in residential areas .
+A total of 90 tunnel construction workers carried personal sampling equipment in the exposure study , and all workers were monitored twice
+Thermal desorption tubes contain three sorbent beds in consecutive layers from front to back ( Carbopack Y , Carbopack B , and Carboxen 1003 ) , which are used to capture organic compounds over a wide range of volatility
+However , the exposure-response relationship is still a subject of debate and the underlying mechanism by which DEE causes lung cancer in humans is not well understood .
+Healthy nonsmoking workers ( research workers not affiliated with the study , technical staff and office workers )
+GM = 1.6 g/m3 )
+For this reason , future site visits will include a revised sampling plan to collect this information that will be used to cross-validate the findings from the less rigorous method of estimating window status using CO2 and the indoor-outdoor temperature differential .
+grid repairing : wall ash + refractory cement
+Samples were collected side-by-side during 1 sampling pe­riod to compare results from the stationary samplers at the upper site ( U # 4 ) and 2 personal samplers
+Results were compared to the 1973 TLV for silica
+Finally , for purposes of comparison , area sam­ples were obtained to measure background concentrations of submicrometer-sized elemental and organic carbon on a major state or interstate highway located in or near each city in which exposure evaluations were done ( hereafter referred to as highway samples )
+This suggests that diesel exhaust exposures of railway workers in Russia currently are the same as exposures in most Western countries .
+for Gastec tube )
+Exposure to diesel exhaust was studied by measurement of inhalable and respirable dust at fixed locations and by personal air sampling of respirable dust
+their use requires detailed knowledge of the nature and sources of exposure in a given setting .
+This issue has been examined in detail by Birch and Carey , leading to the conclusion that “EC results obtained when collecting diesel aerosol samples with a variety of samplers were not statistically different \"
+( The Supplemental Materials contains a table of additional OELs for each substance as well as additional text regarding the California guideline , ( 6 ) the U.S
+Due to the natural nesting of workers within depots , three sources of random variance were looked at—between-depot variability , between-workers within-depot , and within-worker variability using mixed effects models ( Table 5 )
+A 100-g sample of clean , unused abrasive was collected directly from the product bag or tote and analysed according to NIOSH Method 7500 for the presence of quartz silica down to 0.1 % w/w
+The number of basis functions was limited to three ( k = 3 ) , and the smoothing parameter was estimated using the relative maximum likelihood method
+Eighteen samples were excluded as they were experimental by nature or were not representative of work conditions
+None of the workers used respiratory protection during work
+Several of the sample EC concentrations for the shunter drivers were very low at 5.3 , 6.4 , and 8.9 µg/m3
+As part of the U.S
+GMs , based on log transformation of the data , were determined for all samples and for a number of subgroups
+The morphology of fibers seen on the samples was similar to fibers in the rice ash reference samples
+After blasting , the rock is loaded and trans- ported out of the tunnel using dump trucks
+Variability in Quartz Exposure in the Construction Industry : Implications for Assessing Exposure-Response Relations
+During the first 4 days , the vehicles were operated with the DDEF installed , and on the last day the DDEF was removed
+trailing ) and window status ( open vs
+Conclusions
+For a single LHD mucking shift monitored for 60 minutes , peak concentrations for NO2 and CO , respectively , were 1.5 ppm and 22 ppm .
+Two exposure samples for personnel burning on foot gave respirable dust levels of 0.14 and 0.31 mg/m3 and respirable quartz levels of 0.02 and 0.03 mg/m3
+and ( 4 ) had been sampled repeatedly
+Results : Foundry workers were exposed to geometric means and geometric standard deviations of 0.52 ± 4.0 mg/m3 and 0.027 ± 15 mg/m3 for respirable dust and RCS , respectively
+The yard and dock measurements come closest to a 1:1 correlation , with the dock consistently biased high vs
+All particles at or near the bottom of the cell , smaller than 5 mm , were then microscopically counted in five widely spaced locations within the cell
+When this check standard does not pas the quality control check , the calibration curve is regenerated
+Because PM2.5and PM1 were measured on separate filters , the differences in sample sizes were the result of losses that occurred on only one of the filters during a given session .
+Figure 1a shows the dust concentrations for TD and RD for carpenters divided in different work task
+Table 2 shows that using 10-second average PAS measurements , the ramp booths had the highest arithmetic mean exposures of 98 nanograms ( ng ) PAH m 3 compared with 25 and 22 ng PAH m 3 for bus drivers and garage mechanics
+Geometric means , geometric standard deviations , and parametric exceedance fractions ( 27 ) were used for summary statistics in run time average and 1-min data sets
+The quartz content of the soil was += 31 % ( w/w )
+Substances measured and the range of exposures by site were : respirable dust ( n = 76 ) GM ≤ 80-179 µg/m3
+Inhalation of the hypertonic saline was made at three intervals of 5 min
+Mufulira Mine had 77 ( 76 % ) samples above the LOQ and a mean respirable dust concentration of 0.992 mg/m3 ( range 0 – 7.674 ) while Nkana Mine had 69 ( 68 % ) samples above the LOQ and a mean respirable dust concentration of 0.868 mg/m3 ( range 0 – 6.944 )
+The cohorts of miners and bus workers would meet the target statistical power , while the cohort of railway workers would have a power of 70 % to detect a 30 % increased risk .
+The exposures measured ranged up to 7 times the PEL .
+The GS-3 cyclone is designed to meet the American Conference of Governmental Industrial Hygienists , International Organization for Standardization/European Standardization Committee size-selection curve and has a 50 % cut-point of 4.0 µm aerodynamic diameter when operated at a flow rate of 2.75 l min−1
+would be expected to have the greatest potential diesel exhaust exposures , NIOSH looked at the following variables : age of the diesel-powered apparatus operating at each of the stations , the number of diesel-powered apparatus operating at each station , and the level of activity ( number of calls ) at each station
+Additional measurements were performed in situations where either no previous data was available ( long-hood forward locomotive and switchyard locomotives ) or where it was thought desirable to check the accuracy of previously recorded data ( locomotive and caboose in through freight service )
+NO2 and total dust did not exceed limits
+Vermeulen et al. , 2010 )
+all p-values were < 0.01 )
+A shift in the profile of these indicators will provide strong evidence of the desired improvements in the industries
+Assessment of PAC contribution to the total DEP lung-cancer risk
+Therefore the regions are outlined with a differently shaded background to highlight the intrinsically different exposure situation
+However , the univariate models did show some significant associations
+The sampling program provided a consistent set of diesel exhaust exposure data of similarly exposed occupational groups
+At Dalston garage small filters were run concurrently with the main samplers covering each of the four periods
+Crystalline silica occurs as a significant component of many traditional materials used in restoration stonework , and stoneworkers who work with these materials are potentially exposed to stone dust containing respirable crystalline silica ( RCS )
+Before shipment to the field , sampling media ( TIGF filters , PUF , XAD-4 ) were thoroughly cleaned as described elsewhere ( Zielinska et al
+Overall , 44 % of exposed workers had an exposure measurement equal to or above the limit recommended by SCOEL ( 0.05 mg/m3 ) , while 50 % had a value exceeding that proposed by ACGIH ( 0.025 mg/m3 )
+Determining the typical background the airborne contaminants at each station provides a reference to ( i ) establish a baseline for all seven fire stations
+Cherrie ( 1999 ) has presented information about dispersion from the source , which is reproduced in Table 13
+Respirable Concrete Dust—Silicosis Hazard in the Construction Industry
+The RCS concentrations appear to be determined by the crystalline silica content of the material as well as its softness or friability .
+The minimum and maximum task-based sample concentrations presented are values that were detectable , unless otherwise noted
+Stainless steel tubing brought air directly to the instruments inside the van
+Within the construction industry the risk of lung disorders depends on the specific professions probably due to variations in the levels of dust exposure , and with dust levels depending on the work task and job function
+A sum score composed of dummy variables of these descriptors is used to assess the influence of the determinant 'working environment '
+The aldehydes were collected on a hydroxymethyl piperazine ( DNPH ) matrix housed in glass sorbent tubes ( manufactured by Supelco , Inc . )
+In the present data analysis , 11.5 % of samples exceeded MSHA’s exposure limit and 27.2 % exceeded the REL , suggesting substantial improvement .
+This indicates an organic contribution to TC during asphalt paving that was not present in the Lewne´ study where workers were exposed to motor exhaust only .
+1
+Moreover , randomization at the organizational level minimized the risk of intervention group contamination ( Christie et al. , 2009 ) .
+with the highest concentration measured on a segment lifter
+These are situations when miners are present at the time and place that parent rock is being broken and respirable particles generated .
+The steranes and alkanes are considerably higher in the worksite area samples , indicating strong freight terminal emission sources for both of these compound types
+Personal , time weighted average samples were all much lower than the stationary samples
+Both groups with outdoor exposed workers ( Group D = construction machine operators and Group E = other outdoor workers exposed to diesel exhaust ) had similar exposure levels except for particles in size 0.1–10 lm ( DataRAM ) , for which Group D had the higher levels .
+for the analysis of imputed data were used throughout
+In the case of quartz , thoracic exposures ex­ceeded respirable exposures by a factor of more than 4.5
+At Merton , while a reduced contribution during the evening run-in ( periods 1 and 2 )
+Bayesian hierarchical models were used to evaluate the intervention effect on exposure levels
+All cutters worked outdoors in clear weather , and not under structures or near walls that could concentrate or suspend the dust near the cutter
+PELs for respirable dust containing > = 1 percent quartz for each day were calculated based on percentages of quartz in samples
+The respirable and DEA concentrations are higher in the haulage and return entries of mine N and in the re­ turn entry of mine O
+Measurements of exhaled NO were made by slow exhalation ( 20–30 s ) from total lung capacity through a Teflon mouthpiece , against a mild resistance ( target mouth pressure of 4–5 cmH2O ) to avoid nasal NO contamination
+Personal exposure samples are plotted against their respective worksite area sample in Figures 4 and 5 and in Supplementary Figures S1 and S2
+95 % CI , 1.09–1.39 ) and large cell carcinoma ( OR , 1.31
+Auxiliary ventilation consists of smaller portable fans that are placed in areas of the mine where additional ventilation is needed .
+Adjustments for the main analyses were determined a priori within the SYNERGY consortium and were identical with our previous occupational exposure publications ( Olsson et al. , 2011 , 2017 )
+The general model can be modified to reflect the specific sources of emissions experienced by drivers
+It was assumed that the RCS exposure for the remainder of the work shift was zero for the following reasons : the worker was carrying out non-stonework activities such as driving a forklift or transporting finished stone pieces to the monument , and the worker being monitored was working away from the stone workshop or any colleagues carrying out stonework
+RESULTS
+The cleaning operators in Plant A had the highest GM exposure to respirable quartz ( 20 μg m−3 )
+These inspections , however , occurred throughout this time interval and were not concentrated at the end .
+At Dalston all the instruments were grouped together at site P .
+Residuals were studied to assess the fit of the final model
+εij represents the error for subject i , on day j
+All positive control mutagens were tested at three doses in triplicate
+23 times lower than the ES10 ( 7 ppm ) .
+Varian , Harbor City , CA )
+Due to the large proportion of samples below the LOD for quartz and cristobalite , only the samples from the furnace department were used for regression modeling ( 29 and 36 % below LOD , respectively )
+small cities )
+The method for monitoring the dust concentration was sufficiently sensitive to measure a difference in concentration produced during cutting in different directions
+Workers were interviewed after sampling for their perception of the work conditions and respirator use
+Thus , information about the typical background levels of airborne contaminants immediately adjacent to the fire stations was required
+The Quint was powered by an eight-cylinder series 92 Detroit Diesel engine , which was installed in 1994
+Three dust control systems for use with cut-off saws have been evaluated on site : wet dust suppression using mains water , the same system using water from a portable water tank , and local exhaust ventilation
+Agreement between personal and stationary samplers were bet­ter than 20 % for carbon and the sum of measured species , 24 % for mass , and 93 % for sulfate
+The sampling plan was to place a sampler on each major piece of equipment within the breathing zone of the operator
+Standards on silver membranes were prepared from NIOSH reference quartz ( Q-1 ) .
+Settled dust
+At all four sides flat spray nozzles were mounted with a spraying angle of 90 — 95° , operating at a pressure of 1 bar
+84.8 μg/m3 , p = 0.004 ) than those on trucks with a payload capacity of less than 2.5 tons
+Measurements of TD , RD and respirable crystalline silica dust ( RCS ) were carried out in 5 companies ( 5 workplaces ) for demolition workers
+The first index was the concentration of respirable particles because this was simple and inexpensive to measure precisely
+ABSTRACT
+The range of these full shift area samples over all mines are reported in Table 8
+The major factors affecting dust exposure are the operator 's technique and posture during cutting , and the speed and direction of the wind
+Assessment of PAC contribution to the total DEP lung-cancer risk
+1.5 cm2 of the quartz filter was punched out and analyzed using an OCEC carbon aerosol analyzer ( Sunset Laboratory Inc. , USA )
+Detailed experimental procedures for the determination of the calibration factor are presented in the S1 File .
+For the temporal trend in respirable dust and respirable quartz analyses , a selection was made of measurements present in the exposure database as per 1 July 2017 ( 31 760 respirable dust and 27 148 respirable quartz measurements ) .
+Descriptive statistics for EC , TD , and NO measurements under winter and summer conditions ( as well as overall ) are shown in Table I
+Exposure to diesel fumes was measured in nine distribution depots engaged in the supply of drinks to the licensed trade
+Environmental Protection Agency ( EPA ) “Reference Concentration , ” ( 12 ) and the Mine Safety and Health Administration ( MSHA ) limit for the total carbon in diesel emissions. ( 13 ) ) To generate figures that contain the results for several substances a “severity ratio” was calculated by dividing the measurement by the working OEL .
+Three personal samples were also collected in the offices of some mine employees located above ground ( see Table 1 ) .
+Sulphur dioxide was measured with direct-reading electrochemical sensors with a data-logging facility built into the instrument ( PAC III Dräger Aktiengesellschaft , Lübeck , Germany )
+In this study 50 underground workers and 50 surface workers were studied
+All transformations and calculations were done using the Statistical Analysis System ( SAS )
+driver ) , waste type ( solid vs
+Workers using a drill rig with no operator cab had the highest exposure to total dust ( 7.1 mg/m3 ) , which was significantly different from the exposures resulting from using an open cab ( 2.0 mg/m3 ) or a closed cab ( 1.6 mg/m3 ) , p < 0.05 ( Table IV )
+The selected exposure levels at 50 , 20 , and 1 μg/m3 represented recommended limit values from the following : 1 ) the German Committee for Hazardous Substances in 2017 based on a study on lung irritation after controlled human exposure ( AGS , 2017 )
+In addition , 89 percent reported that there was a place nearby to get HPDs if they were needed
+Prevalence of elevated airborne crystalline silica in occupations and industries .
+Before 1995 the number of mine workers exposed to diesel exhaust was greater because approximately 12 manual workers were usually deployed in the vicinity of the diesel-powered loaders.Hungary : Bauxite Mining Regular ( monthly ) measurements were available only for carbon monoxide and nitrogen oxides in the Hungarian bauxite mine
+For the purpose of this study only the highest short time exposure value for the three gaseous components during the shifts which gave rise to the shift-data presented before are reported here
+Table 4 summarizes the results from PDEAS’s for each mine
+We verified this distribution by obtaining a straight line when the cumulative percent particulate of each impactor stage vs the corresponding cutoff were plotted on log-probability paper
+After this time period , downward trends became visible again .
+Results
+METHODS
+No correlation coefficient exceeded 0.6
+To assess the protective effect of exhausts pipe filters or respirators on pulmonary function , 15 workers in a tunnel construction site , truck and loading machine drivers , rock workers , and others were studied
+Linemen and WTOs who smoked ( GM = 74 pg/m3 and GM = 83 pg/m3 ) were found to have significantly higher personal exposure levels than nonsmokers ( GM = 54 pg/nv and GM = 57 pg/m3 )
+The long-haul drivers are not experiencing the same sources as the St Louis urban background or trucking terminal
+The quoted concentrations were obtained over 12-hour work shifts and as such are a measure of concentrations across the full work shift
+In addition , differences in the total and integrated particle number concentrations are often attributed to diffusive particle loss inside of the SMPS column
+Follow-up measurements ( i.e
+Therefore , geometric means ( GM ) and geometric standard deviations ( GSD ) of the measurements were calculated for each plant , job , and year category
+the sample results are not reported herein because they were unremarkable
+The results of air sampling at fixed sites are presented in Table 3
+The number of sampling trips to each farm varied due to the types of crops grown and weather conditions
+Conventional techniques , such as explosive attack followed by removal of the rubble by digger-filled dumpers , are used
+The inlet of the impactor is fitted with a brass insert which has a 1.O-mm diameter nozzle
+An analysis relating to degree of coalworkers ' pneumoconiosis was considered but found to be unwarranted owing to the small number of cases involved
+These areas were not usually active work sites .
+For respirable quartz , an exposure model based on material or material and tools , resulted in a higher within-worker variance ( ww σ2k = 1.5 and 1.2 , opposed to 1.0 for the model with worker only )
+The crystalline silica percent with the statistical calculations are listed in Table 2
+All 189 underground construction workers and 20 outdoor concrete workers invited to participate in the exposure assessment did so
+Controllers work for a total of 5 hr and 20 min over each 8-hr shift
+157 of the 216 background tubes produced responses less than the limit of detection
+Sampling methodology
+All participants had to be free from respiratory infections for three weeks prior to testing
+Measurements were taken in the same locomotive and caboose locations as the TSC measurements
+Studies of each type of settled dust were based on analysis of the composition of 3 samples
+with 3 aliquots of 15 mL dichloromethane and ultrasonicated for 15 min each time
+No Ce was detected on the other 11 PBZ samples
+Filling and changing pallet boxes were important tasks related to increased exposure to total dust , respirable dust , and SiC in the processing department
+Descriptive statistics were calculated using IHSTAT ( American Industrial Hygiene Association - Exposure Assessment Strategies Committee ) and treatment of non-detects was performed using NDexpo ( School of Public Health , Université de Monteal )
+A farm in the sandy soil region of the Free State province of South Africa producing typical crops for the region was identified and 138 respirable dust and respirable quartz measurements were collected from July 2006–August 2008 during major farming operations .
+The GM concentration for the 12 samples collected in the apparatus bay was 15.6 ug/m3 ( GSD 1.3 )
+Exposure Findings
+The air volume that was sampled with the high-volume pump for 2 consecutive days ranged between 1,730 and 2,000 m 3 and , for the PM4 pump , ranged between 87 and 100 m 3
+Airborne personal sampling for respirable dust was carried out as described in MDHS 14 ( 1997 ) , which is believed to give a fair representation of personal exposure , using Casella cyclone-operated samplers with a sampling rate of 1.9 l min-1 on operators ' right and left lapels , and all samples were taken in duplicate
+Conditioning of filters were performed prior and after sampling under controlled climatic conditions ( temperature 22–28 °C and humidity 40–52 % RH )
+Collected dust samples were sent to an accredited analytical laboratory ( Bureau Veritas North America , Inc. ) in the U.S
+Included in the table are the number of usable and non-detectable sample values , the minimum and maximum values , the arithmetic mean , the standard deviation , the geometric mean and geometric standard deviation for each type , and the location and ventilation situation .
+The sampling duration for sulphur dioxide , total dust full-shift samples and respirable dust was close to a full work shift ( 6–8 h )
+Exposure
+Filters were preweighed and postweighed on an electrobalance located in a temperature- and humidity-controlled room
+Samples collected from the building carpenter , construction laborer , and supervisors were ND
+For jobs with 100 or more samples , the mean concentration ranged from 75.5 µg/m 3 ( stone polisher/ cutter ) to 28.4 µg/m3
+The peak 1-min average logged was 206 µg m−3 during SCL activities and 41 µg m−3 during TBM activities
+Mine Research Establishment ( MRE ) equivalent res­pirable coal mine dust concentrations are reported for PDEAS data
+These jobs are tabulated ( in alphabetical order , Table VI ) showing the number of samples , the average exposure , the percent of samples greater than 150 µg/m3 , and the likelihood of being exposed to freshly fractured quartz
+and 2 ) standards and samples were run concurrently , and an external calibration curve was prepared from the integrated intensities rather than using the suggested normalization procedure
+In Los Angeles it was warmer , and doors and windows usually were left open .
+Trends in quartz exposure are presented as regression coefficients for the different mixed models ( Table 3 )
+This is accomplished through stepwise heating , first by an oxygen-free mode where carbon that volatilizes is analyzed as OC
+OR , 1.09
+0.092 mg/m3 ) , although no significant differences were observed between factories
+The LOD for quartz on the filters is 0.01 mg and the limit of quantification ( LOQ ) is 0.03 mg
+Only 4 cases of simple coalworkers ' pneumoconiosis were found in each of the matched groups
+Multiple samples were collected from three areas on the surface during two consecutive day shifts
+Such few samples do not provide reliable estimates of exposure for specific mines
+The highest rate of tobacco use was among the carmen studied ( 72 % of subjects ) , with lower rates of smoking present for the other job categories ( 2 % 50 % of subjects ) ( Table 1 )
+Table 4 details the total numbers of measurements for the various different workplaces and mines
+EC and OC analysis
+Their respective TLVs are 3 ppm and 25 ppm .
+in open-faced cassettes for about 8 hours
+Table 4 shows the GM concentrations of TD , RD , and RCS according to the environmental and occupational factors of sanitation workers
+The x-ray fluorescence ( XRF ) measured elements include the alkali earth metals and transition metals as well as several met­alloids and nonmetals , and these analytes are often grouped to­gether for discussion as XRF elements
+This database contains company-based or terminal-specific truck data , but it does not have information about the types of trucks used by each company because information is collected only on one truck in a fleet
+formed data
+The VOC - both aliphatic and aromatic organics were thermally desorbed from the tubes and analysed by GC-MS spectrometry
+Finally , effective control strategies were proposed for exposure reduction by using above information together with our field observations .
+A Further Study of Air Pollution in Diesel Bus Garages
+Samples taken during work performed inside the enclosed areas were significantly higher than those taken outside in the open air ( paired t-test , T < 0.0005 , p = 0.05 ) .
+Traffic was passing the paving site at a reduced speed of 70 kph
+Only current ( 1999 ) or last job title ( before retirement ) and terminal location were included
+Russia
+As we reported previously , the levels of PM2.5 in the bus and truck lanes ( 308 µg/m3 ) were nearly 3fold higher than those in the two car lanes , with cash payment ( 116 µg/m3 ) and ticket payment ( 110 µg/m3 ) .
+In New York , where more sampling was conducted than elsewhere , cooking meals was found to result in minimal contribution of particulates to the ambient environment
+In Tables 3 and 4 the results of the respirable dust and quartz dust determinations are summarized .
+A sample of 150 g was soaked overnight in water with < 1 g of sodium hexametaphosphate added to aid clay deflocculation
+Total dust and PAHs were collected on glass fiber filters ( Whatman International Ltd. , Maidstone , U.K. ) , fitted in 37-mm , closed-faced aerosol filter cassettes ( Millipore Corporation , Bedford , Mass . )
+A sample of miners at the diesel-use mines was asked to wear a personal dust sampler
+In Table 3 , the baseline category is omitted and only the remaining categories are displayed
+Each series of sampling were controlled and corrected towards two blank field samples
+Results :
+The charcoal tube samples were analyzed for toluene , xylenes , and benzene
+Whereas the dust sampling equipment ( PGP , MPG II ) could be used according to well-established standard operation procedures , the same is not true for the person carried gas sensors ( Multiwarn )
+Filter cassettes were purchased from Sunset Laboratory Inc
+This instrument is calibrated with Arizona road dust with particle sizes in the respirable range , i.e
+The two main samplers which were used to collect smoke for hydrocarbon analyses were run side by side on a separate occasion and the concentration determined from each to ensure that they were giving comparable results
+The area samples , taken together , produce both a strong linear and supra-linear relationship with RCD levels much higher than that of EC-C
+Consider the purpose of the fire appliance start of operational shift check
+Method : Respirable particulate matter was collected during the summer and winter of 2001 ( except for in the underground situation ) and analysed by coulometry for EC and by GC–MS methods for PACs
+The purpose of this questionnaire was to collect information on the tasks , specific tools , materials , and clean-up methods frequently used by the worker in order to develop a contextual information sheet for field sampling
+Table 2 shows that the arithmetic and geometric mean levels in garages are 5 to 6 times the levels in the booths
+Fifteen of them worked as lorry or bus mechanics , three worked on other tasks in a bus garage and two worked for the Swedish Vehicle Inspection Company inspecting lorries and buses .
