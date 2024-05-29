@@ -22,7 +22,7 @@ To train and evalute the model:
 python3 src/train.py --yaml experiments/ncbi/ncbi-train.yaml
 python3 src/predict.py --yaml experiments/ncbi/ncbi-test.yaml
 ```
-You need to make the proper adjustment to the .yaml files to point to the correct dataset folders.
+Remember to make the proper adjustment to the .yaml files to point to the correct dataset folders.
 
 
 ## Citation
