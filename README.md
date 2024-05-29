@@ -12,7 +12,7 @@ To run the training script: <br />
 cd token_based
 sh train.sh
 ```
-`train.sh` has a parameter called `dataset_name` for the dataset folder containg the train, valid and test folders.
+`train.sh` has a parameter called `dataset_name` that needs to point to the dataset folder containg the train, valid and test folders.
 
 ## Span-based model
 Download the span-based model source code from https://github.com/nguyennth/joint-ib-models <br />
