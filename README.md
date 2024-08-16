@@ -8,7 +8,7 @@ The article describes experiments using two different models:
 - Span-based
 
 ## Datasets
-The datasets used in the experiments are created by splitting the annotated corpus described in the article (see https://zenodo.org/records/11164272) in different way to facilitate training and evaluation of the models. Two types of experiments are described in the article:
+The datasets used in the experiments are created by splitting the annotated corpus described in the article (see https://zenodo.org/records/11164271) in different way to facilitate training and evaluation of the models. Two types of experiments are described in the article:
 
 - 10-fold cross validation
 - Evaluation on held-out test data set
@@ -45,11 +45,14 @@ Remember to make the proper adjustment to the .yaml files to point to the correc
 
 
 ## Citation
-If you use this repository, please cite the paper:
+If you use this repository, please cite the following article:
 ```
 @article{thompson2024exposure,
   title={Supporting the working life exposome: annotating occupational exposure for enhanced literature search},
   author={Thompson, Paul and Ananiadou, Sophia and Basinas, Ioannis and Brinchmann, Bendik C. and Cramer, Christine and Galea, Karen S. and Ge, Calvin and Georgiadis, Panagiotis and Kirkeleit, Jorunn and Kuijpers, Eelco and Nguyen, Nhung and Nuñez, Roberto and Schlünssen, Vivi and Stokholm, Zara Ann and Taher, Evana Amir and Tinnerberg, Håkan and Tongeren, Martie Van and Xie, Qianqian},
   year={2024},
+  volume={19},
+  number={8},
+  pages={e0307844} 
 }
 ```
